@@ -1,0 +1,26 @@
+﻿{
+  "name": "PathLengthCoverSelectionParameters",
+  "base": "CoverSelectionParameters",
+  "properties": [
+    {
+      "path": ".maximumRatio",
+      "type": "Float"
+    },
+    {
+      "path": ".minPathLengthToPerform",
+      "type": "Float"
+    },
+    {
+      "path": ".multiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".useFriendlyTargetAsStart",
+      "type": "Bool"
+    },
+    {
+      "path": ".doorInvalidatesPath",
+      "type": "Bool"
+    }
+  ]
+}

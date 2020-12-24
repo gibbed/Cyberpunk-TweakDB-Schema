@@ -1,0 +1,14 @@
+﻿{
+  "name": "LoadingTipsGroup",
+  "properties": [
+    {
+      "path": ".hintLocalizationKeys",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".unlockingFact",
+      "type": "Name"
+    }
+  ]
+}

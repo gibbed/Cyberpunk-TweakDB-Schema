@@ -1,0 +1,34 @@
+﻿{
+  "name": "AISubActionSetWorldPosition",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".customPositionTarget",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".referenceTarget",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".minOffsetFromTarget",
+      "type": "Vector3"
+    },
+    {
+      "path": ".maxOffsetFromTarget",
+      "type": "Vector3"
+    },
+    {
+      "path": ".randomizePoint",
+      "type": "Bool"
+    },
+    {
+      "path": ".useLocalSpace",
+      "type": "Bool"
+    },
+    {
+      "path": ".checkForNavmesh",
+      "type": "Bool"
+    }
+  ]
+}

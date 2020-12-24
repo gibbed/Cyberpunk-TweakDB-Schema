@@ -1,0 +1,9 @@
+﻿{
+  "name": "WidgetRatio",
+  "properties": [
+    {
+      "path": ".enumName",
+      "type": "String"
+    }
+  ]
+}

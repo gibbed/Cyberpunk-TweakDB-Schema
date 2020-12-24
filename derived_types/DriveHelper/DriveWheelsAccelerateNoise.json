@@ -1,0 +1,42 @@
+﻿{
+  "name": "DriveWheelsAccelerateNoise",
+  "base": "DriveHelper",
+  "properties": [
+    {
+      "path": ".maxApplyTime",
+      "type": "Float"
+    },
+    {
+      "path": ".accelerationBoostMaxSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".maxForcesDifference",
+      "type": "Float"
+    },
+    {
+      "path": ".accelerationBoost",
+      "type": "Float"
+    },
+    {
+      "path": ".minApplyTime",
+      "type": "Float"
+    },
+    {
+      "path": ".minForcesDifference",
+      "type": "Float"
+    },
+    {
+      "path": ".minLongSlipRatio",
+      "type": "Float"
+    },
+    {
+      "path": ".accelerationBoostReverse",
+      "type": "Float"
+    },
+    {
+      "path": ".accelerationNoiseMaxSpeed",
+      "type": "Float"
+    }
+  ]
+}

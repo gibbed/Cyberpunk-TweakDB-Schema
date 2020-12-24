@@ -1,0 +1,18 @@
+﻿{
+  "name": "BaseSign",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".resource",
+      "type": "ResRef"
+    },
+    {
+      "path": ".styleStateName",
+      "type": "Name"
+    },
+    {
+      "path": ".isUnique",
+      "type": "Bool"
+    },
+  ]
+}

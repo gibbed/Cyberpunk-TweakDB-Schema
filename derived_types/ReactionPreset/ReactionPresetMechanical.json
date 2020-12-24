@@ -1,0 +1,5 @@
+﻿{
+  "name": "ReactionPresetMechanical",
+  "base": "ReactionPreset",
+  "properties": []
+}

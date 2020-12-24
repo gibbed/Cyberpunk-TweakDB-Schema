@@ -1,0 +1,21 @@
+﻿{
+  "name": "UINameplate",
+  "properties": [
+    {
+      "path": ".type",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".slot",
+      "type": "Name"
+    },
+    {
+      "path": ".position",
+      "type": "Vector3"
+    },
+    {
+      "path": ".enabled",
+      "type": "Bool"
+    }
+  ]
+}

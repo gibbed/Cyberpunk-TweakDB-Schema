@@ -1,0 +1,22 @@
+﻿{
+  "name": "EnvLight",
+  "properties": [
+    {
+      "path": ".color",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".intensity",
+      "type": "Float"
+    },
+    {
+      "path": ".radius",
+      "type": "Float"
+    },
+    {
+      "path": ".temperature",
+      "type": "Float"
+    }
+  ]
+}

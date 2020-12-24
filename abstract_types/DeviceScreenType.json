@@ -1,0 +1,18 @@
+﻿{
+  "name": "DeviceScreenType",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".ratio",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".contentRatio",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".libraryPath",
+      "type": "ResRef"
+    }
+  ]
+}

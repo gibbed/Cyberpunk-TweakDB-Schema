@@ -1,0 +1,13 @@
+﻿{
+  "name": "UIIconCensorFlag",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

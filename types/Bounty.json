@@ -1,0 +1,26 @@
+﻿{
+  "name": "Bounty",
+  "properties": [
+    {
+      "path": ".bountySetter",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".reward",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".transgressions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".drawWeight",
+      "type": "Float"
+    },
+    {
+      "path": ".wantedStars",
+      "type": "Int"
+    }
+  ]
+}

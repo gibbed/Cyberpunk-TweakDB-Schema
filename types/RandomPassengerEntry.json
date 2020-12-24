@@ -1,0 +1,23 @@
+﻿{
+  "name": "RandomPassengerEntry",
+  "properties": [
+    {
+      "path": ".validSlotNames",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".characterRecords",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".role",
+      "type": "Name"
+    },
+    {
+      "path": ".probability",
+      "type": "Float"
+    }
+  ]
+}

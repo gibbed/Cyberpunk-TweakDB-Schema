@@ -1,0 +1,18 @@
+﻿{
+  "name": "ItemBlueprintElement",
+  "properties": [
+    {
+      "path": ".slot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".prereqID",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".childElements",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

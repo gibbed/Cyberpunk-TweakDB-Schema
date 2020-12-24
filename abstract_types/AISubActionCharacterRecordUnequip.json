@@ -1,0 +1,15 @@
+﻿{
+  "name": "AISubActionCharacterRecordUnequip",
+  "base": "AISubAction",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".animationTime",
+      "type": "Float"
+    },
+    {
+      "path": ".dropItem",
+      "type": "Bool"
+    }
+  ]
+}

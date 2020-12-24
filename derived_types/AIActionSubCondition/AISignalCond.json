@@ -1,0 +1,10 @@
+﻿{
+  "name": "AISignalCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "Name"
+    }
+  ]
+}

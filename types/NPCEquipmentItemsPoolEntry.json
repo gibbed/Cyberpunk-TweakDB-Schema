@@ -1,0 +1,18 @@
+﻿{
+  "name": "NPCEquipmentItemsPoolEntry",
+  "properties": [
+    {
+      "path": ".items",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".minLevel",
+      "type": "Int"
+    },
+    {
+      "path": ".weight",
+      "type": "Float"
+    }
+  ]
+}

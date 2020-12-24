@@ -1,0 +1,101 @@
+﻿{
+  "name": "WeaponItem",
+  "base": "Item",
+  "properties": [
+    {
+      "path": ".ammo",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".fxPackageQuickMelee",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".hudIcon",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".rangedAttacks",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".secondaryTriggerMode",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".evolution",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".manufacturer",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".primaryTriggerMode",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".fxPackage",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".damageType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".holsteredItem",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".attacks",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".triggerModes",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".shootingPatternPackages",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".audioWeaponConfiguration",
+      "type": "Name"
+    },
+    {
+      "path": ".effectiveRangeFalloffCurve",
+      "type": "Name"
+    },
+    {
+      "path": ".NPCAnimWrapperWeightOverride",
+      "type": "Name"
+    },
+    {
+      "path": ".previewEffectTag",
+      "type": "Name"
+    },
+    {
+      "path": ".effectiveRangeCurve",
+      "type": "Name"
+    },
+    {
+      "path": ".projectileEaseOutCurveName",
+      "type": "Name"
+    },
+    {
+      "path": ".previewEffectName",
+      "type": "Name"
+    },
+    {
+      "path": ".forcedMinHitReaction",
+      "type": "Int"
+    },
+    {
+      "path": ".useForcedTBHZOffset",
+      "type": "Bool"
+    }
+  ]
+}

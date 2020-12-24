@@ -1,0 +1,25 @@
+﻿{
+  "name": "VehicleStoppingSettings",
+  "properties": [
+    {
+      "path": ".mildBrakingChangeSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".errorMagnitudeForMildBrakingChange",
+      "type": "Float"
+    },
+    {
+      "path": ".fullBrakingChangeSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".errorMagnitudeForFullBrakingChange",
+      "type": "Float"
+    },
+    {
+      "path": ".decreaseMul",
+      "type": "Float"
+    }
+  ]
+}

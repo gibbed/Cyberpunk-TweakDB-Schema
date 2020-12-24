@@ -1,0 +1,14 @@
+﻿{
+  "name": "VehicleWheelDrivingSetup",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".frontPreset",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".backPreset",
+      "type": "ForeignKey"
+    },
+  ]
+}

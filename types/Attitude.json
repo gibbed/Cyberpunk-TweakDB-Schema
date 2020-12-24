@@ -1,0 +1,17 @@
+﻿{
+  "name": "Attitude",
+  "properties": [
+    {
+      "path": ".value",
+      "type": "String"
+    },
+    {
+      "path": ".group1",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".group2",
+      "type": "ForeignKey"
+    }
+  ]
+}

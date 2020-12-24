@@ -1,0 +1,26 @@
+﻿{
+  "name": "HandbrakeFrictionModifier",
+  "base": "DriveHelper",
+  "properties": [
+    {
+      "path": ".blendOutTime",
+      "type": "Float"
+    },
+    {
+      "path": ".rearWheelsLongFrictionCoef",
+      "type": "Float"
+    },
+    {
+      "path": ".rearWheelsLatFrictionCoef",
+      "type": "Float"
+    },
+    {
+      "path": ".additionalBrakeForLongUse",
+      "type": "Float"
+    },
+    {
+      "path": ".postHandbrakeTractionBoost",
+      "type": "Float"
+    }
+  ]
+}

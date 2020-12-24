@@ -1,0 +1,9 @@
+﻿{
+  "name": "WeaponEvolution",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "String"
+    }
+  ]
+}

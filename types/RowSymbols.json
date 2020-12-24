@@ -1,0 +1,10 @@
+﻿{
+  "name": "RowSymbols",
+  "properties": [
+    {
+      "path": ".symbols",
+      "type": "Int",
+      "array": true
+    }
+  ]
+}

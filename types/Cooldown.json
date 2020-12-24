@@ -1,0 +1,22 @@
+﻿{
+  "name": "Cooldown",
+  "properties": [
+    {
+      "path": ".type",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".tags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".duration",
+      "type": "Float"
+    },
+    {
+      "path": ".modifiable",
+      "type": "Bool"
+    }
+  ]
+}

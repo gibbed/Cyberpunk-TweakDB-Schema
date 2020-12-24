@@ -1,0 +1,34 @@
+﻿{
+  "name": "AISubActionPlayVoiceOver",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".condition",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".cooldown",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".name",
+      "type": "Name"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".sendEventToSquadmates",
+      "type": "Bool"
+    },
+    {
+      "path": ".setSelfAsAnsweringEntity",
+      "type": "Bool"
+    },
+    {
+      "path": ".repeat",
+      "type": "Bool"
+    }
+  ]
+}

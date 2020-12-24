@@ -1,0 +1,37 @@
+﻿{
+  "name": "AIActionTarget",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".trackingMode",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".behaviorArgumentName",
+      "type": "Name"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    },
+    {
+      "path": ".targetSlot",
+      "type": "Name"
+    },
+    {
+      "path": ".isObject",
+      "type": "Bool"
+    },
+    {
+      "path": ".isCoverID",
+      "type": "Bool"
+    },
+    {
+      "path": ".isPosition",
+      "type": "Bool"
+    }
+  ]
+}

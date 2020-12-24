@@ -1,0 +1,17 @@
+﻿{
+  "name": "ParticleDamage",
+  "properties": [
+    {
+      "path": ".attack",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".particlePath",
+      "type": "ResRef"
+    },
+    {
+      "path": ".cooldown",
+      "type": "Float"
+    }
+  ]
+}

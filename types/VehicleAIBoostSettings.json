@@ -1,0 +1,17 @@
+﻿{
+  "name": "VehicleAIBoostSettings",
+  "properties": [
+    {
+      "path": ".maxTorqueBoost",
+      "type": "Float"
+    },
+    {
+      "path": ".maxLongTractionBoost",
+      "type": "Float"
+    },
+    {
+      "path": ".maxLatTractionBoost",
+      "type": "Float"
+    }
+  ]
+}

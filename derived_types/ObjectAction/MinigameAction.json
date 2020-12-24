@@ -1,0 +1,46 @@
+﻿{
+  "name": "MinigameAction",
+  "base": "ObjectAction",
+  "properties": [
+    {
+      "path": ".journalEntry",
+      "type": "String"
+    },
+    {
+      "path": ".type",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".category",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".reward",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".factName",
+      "type": "Name"
+    },
+    {
+      "path": ".complexity",
+      "type": "Float"
+    },
+    {
+      "path": ".factValue",
+      "type": "Int"
+    },
+    {
+      "path": ".memoryCost",
+      "type": "Float"
+    },
+    {
+      "path": ".duration",
+      "type": "Float"
+    },
+    {
+      "path": ".showPopup",
+      "type": "Bool"
+    }
+  ]
+}

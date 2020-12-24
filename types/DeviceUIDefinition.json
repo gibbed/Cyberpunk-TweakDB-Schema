@@ -1,0 +1,13 @@
+﻿{
+  "name": "DeviceUIDefinition",
+  "properties": [
+    {
+      "path": ".computerScreenType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".terminalScreenType",
+      "type": "ForeignKey"
+    }
+  ]
+}

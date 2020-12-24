@@ -1,0 +1,10 @@
+﻿{
+  "name": "PhotoModeBackground",
+  "base": "PhotoModeItem",
+  "properties": [
+    {
+      "path": ".textureName",
+      "type": "ResRef"
+    }
+  ]
+}

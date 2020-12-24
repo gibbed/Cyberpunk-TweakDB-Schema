@@ -1,0 +1,17 @@
+﻿{
+  "name": "ItemsFactoryAppearanceSuffixBase",
+  "properties": [
+    {
+      "path": ".scriptedSystem",
+      "type": "Name"
+    },
+    {
+      "path": ".scriptedFunction",
+      "type": "Name"
+    },
+    {
+      "path": ".instantSwitch",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "name": "PassiveProficiencyBonus",
+  "properties": [
+    {
+      "path": ".effectorToTrigger",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".statGroup",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".uiData",
+      "type": "ForeignKey"
+    }
+  ]
+}

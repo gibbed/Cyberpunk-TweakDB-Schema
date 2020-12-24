@@ -1,0 +1,73 @@
+﻿{
+  "name": "VehicleFPPCameraParams",
+  "properties": [
+    {
+      "path": ".lookat_yaw_right_up_offset",
+      "type": "Float"
+    },
+    {
+      "path": ".lookat_pitch_forward_down_ratio",
+      "type": "Float"
+    },
+    {
+      "path": ".forward_offset_value",
+      "type": "Float"
+    },
+    {
+      "path": ".lookat_yaw_left_offset",
+      "type": "Float"
+    },
+    {
+      "path": ".lookat_pitch_forward_offset",
+      "type": "Float"
+    },
+    {
+      "path": ".paralax_forward_offset",
+      "type": "Float"
+    },
+    {
+      "path": ".paralax_radius",
+      "type": "Float"
+    },
+    {
+      "path": ".lookat_offset_vertical",
+      "type": "Float"
+    },
+    {
+      "path": ".lookat_yaw_right_offset",
+      "type": "Float"
+    },
+    {
+      "path": ".lookat_yaw_offset_active_angle",
+      "type": "Float"
+    },
+    {
+      "path": ".is_forward_offset",
+      "type": "Float"
+    },
+    {
+      "path": ".lookat_yaw_left_up_offset",
+      "type": "Float"
+    },
+    {
+      "path": ".is_paralax",
+      "type": "Float"
+    },
+    {
+      "path": ".upperbody_pitch_weight",
+      "type": "Float"
+    },
+    {
+      "path": ".upperbody_yaw_weight",
+      "type": "Float"
+    },
+    {
+      "path": ".is_pitch_off",
+      "type": "Float"
+    },
+    {
+      "path": ".is_yaw_off",
+      "type": "Float"
+    }
+  ]
+}

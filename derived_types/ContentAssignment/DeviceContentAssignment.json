@@ -1,0 +1,5 @@
+﻿{
+  "name": "DeviceContentAssignment",
+  "base": "ContentAssignment",
+  "properties": []
+}

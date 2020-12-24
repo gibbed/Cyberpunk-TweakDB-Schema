@@ -1,0 +1,5 @@
+﻿{
+  "name": "ObjectActionGameplayCategory",
+  "base": "ScannableData",
+  "properties": []
+}

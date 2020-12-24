@@ -1,0 +1,19 @@
+﻿{
+  "name": "AIStateCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".inStates",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".checkAllTypes",
+      "type": "Bool"
+    }
+  ]
+}

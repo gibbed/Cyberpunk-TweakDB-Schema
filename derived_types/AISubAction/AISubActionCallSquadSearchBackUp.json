@@ -1,0 +1,18 @@
+﻿{
+  "name": "AISubActionCallSquadSearchBackUp",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".numberOfTargets",
+      "type": "Float"
+    },
+    {
+      "path": ".callInLevel",
+      "type": "Float"
+    }
+  ]
+}

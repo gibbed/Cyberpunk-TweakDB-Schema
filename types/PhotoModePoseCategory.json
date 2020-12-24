@@ -1,0 +1,13 @@
+﻿{
+  "name": "PhotoModePoseCategory",
+  "properties": [
+    {
+      "path": ".categoryName",
+      "type": "Name"
+    },
+    {
+      "path": ".displayName",
+      "type": "Name"
+    }
+  ]
+}

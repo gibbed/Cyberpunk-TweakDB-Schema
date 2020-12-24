@@ -1,0 +1,57 @@
+﻿{
+  "name": "ScannerModuleVisibilityPreset",
+  "properties": [
+    {
+      "path": ".shoulShowName",
+      "type": "Bool"
+    },
+    {
+      "path": ".shouldShowLevel",
+      "type": "Bool"
+    },
+    {
+      "path": ".shouldShowBounty",
+      "type": "Bool"
+    },
+    {
+      "path": ".shouldShowFaction",
+      "type": "Bool"
+    },
+    {
+      "path": ".shouldShowWeaponData",
+      "type": "Bool"
+    },
+    {
+      "path": ".shouldShowSquadInfo",
+      "type": "Bool"
+    },
+    {
+      "path": ".shouldShowRarity",
+      "type": "Bool"
+    },
+    {
+      "path": ".shouldShowHealth",
+      "type": "Bool"
+    },
+    {
+      "path": ".shouldShowAttitude",
+      "type": "Bool"
+    },
+    {
+      "path": ".shouldShowVulnerabilities",
+      "type": "Bool"
+    },
+    {
+      "path": ".shouldShowResistances",
+      "type": "Bool"
+    },
+    {
+      "path": ".shouldShowQuestClues",
+      "type": "Bool"
+    },
+    {
+      "path": ".shouldShowNetworkStatus",
+      "type": "Bool"
+    }
+  ]
+}

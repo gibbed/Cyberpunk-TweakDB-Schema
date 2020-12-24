@@ -1,0 +1,13 @@
+﻿{
+  "name": "VehicleType",
+  "properties": [
+    {
+      "path": ".enumName",
+      "type": "String"
+    },
+    {
+      "path": ".enumComment",
+      "type": "String"
+    }
+  ]
+}

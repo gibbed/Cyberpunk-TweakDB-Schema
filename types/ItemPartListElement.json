@@ -1,0 +1,13 @@
+﻿{
+  "name": "ItemPartListElement",
+  "properties": [
+    {
+      "path": ".item",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".weight",
+      "type": "Float"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "name": "CharacterEntry",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "Name"
+    },
+    {
+      "path": ".id",
+      "type": "Int"
+    }
+  ]
+}

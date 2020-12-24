@@ -1,0 +1,18 @@
+﻿{
+  "name": "OffMeshLinkTag",
+  "properties": [
+    {
+      "path": ".prerequisites",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".tag",
+      "type": "Name"
+    },
+    {
+      "path": ".isAllowed",
+      "type": "Bool"
+    }
+  ]
+}

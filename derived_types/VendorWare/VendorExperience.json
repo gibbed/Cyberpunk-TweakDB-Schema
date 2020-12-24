@@ -1,0 +1,15 @@
+﻿{
+  "name": "VendorExperience",
+  "base": "VendorWare",
+  "properties": [
+    {
+      "path": ".proficiency",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".pricePerPoint",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

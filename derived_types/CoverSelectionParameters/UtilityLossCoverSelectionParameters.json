@@ -1,0 +1,34 @@
+﻿{
+  "name": "UtilityLossCoverSelectionParameters",
+  "base": "CoverSelectionParameters",
+  "properties": [
+    {
+      "path": ".utilityLossTimeoutCover",
+      "type": "Float"
+    },
+    {
+      "path": ".utilityLossMultiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".hitsTakenToClearScoreCover",
+      "type": "Int"
+    },
+    {
+      "path": ".hitsTakenToClearScoreInIdle",
+      "type": "Int"
+    },
+    {
+      "path": ".utilityLossTimeoutShootingSpot",
+      "type": "Float"
+    },
+    {
+      "path": ".utilityLossTimeoutInIdle",
+      "type": "Float"
+    },
+    {
+      "path": ".hitsTakenToClearScoreShootingSpot",
+      "type": "Int"
+    }
+  ]
+}

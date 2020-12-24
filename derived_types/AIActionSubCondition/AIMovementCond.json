@@ -1,0 +1,66 @@
+﻿{
+  "name": "AIMovementCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".destination",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".movementType",
+      "type": "Name"
+    },
+    {
+      "path": ".offMeshLinkType",
+      "type": "Name"
+    },
+    {
+      "path": ".spatialHintMults",
+      "type": "Vector3"
+    },
+    {
+      "path": ".slope",
+      "type": "Vector2"
+    },
+    {
+      "path": ".distanceToDestination",
+      "type": "Vector2"
+    },
+    {
+      "path": ".constrainedByRestrictedArea",
+      "type": "Int"
+    },
+    {
+      "path": ".lineOfSightFailed",
+      "type": "Int"
+    },
+    {
+      "path": ".isUsingOffMeshLink",
+      "type": "Int"
+    },
+    {
+      "path": ".isPauseByDynamicCollision",
+      "type": "Int"
+    },
+    {
+      "path": ".isMoving",
+      "type": "Int"
+    },
+    {
+      "path": ".isEvaluated",
+      "type": "Int"
+    },
+    {
+      "path": ".pathFindingFailed",
+      "type": "Int"
+    },
+    {
+      "path": ".isDestinationCalculated",
+      "type": "Int"
+    },
+    {
+      "path": ".isDestinationChanged",
+      "type": "Int"
+    }
+  ]
+}

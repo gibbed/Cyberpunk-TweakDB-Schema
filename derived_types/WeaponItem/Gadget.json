@@ -1,0 +1,5 @@
+﻿{
+  "name": "Gadget",
+  "base": "WeaponItem",
+  "properties": []
+}

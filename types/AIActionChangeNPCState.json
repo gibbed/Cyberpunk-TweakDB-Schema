@@ -1,0 +1,29 @@
+﻿{
+  "name": "AIActionChangeNPCState",
+  "properties": [
+    {
+      "path": ".defenseMode",
+      "type": "Name"
+    },
+    {
+      "path": ".hitReactionMode",
+      "type": "Name"
+    },
+    {
+      "path": ".highLevelState",
+      "type": "Name"
+    },
+    {
+      "path": ".locomotionMode",
+      "type": "Name"
+    },
+    {
+      "path": ".upperBodyState",
+      "type": "Name"
+    },
+    {
+      "path": ".stanceState",
+      "type": "Name"
+    }
+  ]
+}

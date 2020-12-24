@@ -1,0 +1,13 @@
+﻿{
+  "name": "ItemCategory",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "Name"
+    },
+    {
+      "path": ".localizedCategory",
+      "type": "LocKey"
+    }
+  ]
+}

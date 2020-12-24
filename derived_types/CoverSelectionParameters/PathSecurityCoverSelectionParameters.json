@@ -1,0 +1,22 @@
+﻿{
+  "name": "PathSecurityCoverSelectionParameters",
+  "base": "CoverSelectionParameters",
+  "properties": [
+    {
+      "path": ".threatHalfSightAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".pathSampleDist",
+      "type": "Float"
+    },
+    {
+      "path": ".multiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".threatSightRange",
+      "type": "Float"
+    }
+  ]
+}

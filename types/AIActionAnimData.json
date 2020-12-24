@@ -1,0 +1,37 @@
+﻿{
+  "name": "AIActionAnimData",
+  "properties": [
+    {
+      "path": ".direction",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".animSlot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".animVariationSubAction",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".animFeature",
+      "type": "Name"
+    },
+    {
+      "path": ".animVariation",
+      "type": "Int"
+    },
+    {
+      "path": ".weaponOverride",
+      "type": "Int"
+    },
+    {
+      "path": ".ragdollOnDeath",
+      "type": "Bool"
+    },
+    {
+      "path": ".updateMovePolicy",
+      "type": "Bool"
+    }
+  ]
+}

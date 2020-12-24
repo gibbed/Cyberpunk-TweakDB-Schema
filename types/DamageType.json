@@ -1,0 +1,23 @@
+﻿{
+  "name": "DamageType",
+  "properties": [
+    {
+      "path": ".enumName",
+      "type": "String"
+    },
+    {
+      "path": ".associatedStat",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".resistances",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".tags",
+      "type": "Name",
+      "array": true
+    }
+  ]
+}

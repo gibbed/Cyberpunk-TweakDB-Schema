@@ -1,0 +1,11 @@
+﻿{
+  "name": "TVBase",
+  "base": "Device",
+  "properties": [
+    {
+      "path": ".channels",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

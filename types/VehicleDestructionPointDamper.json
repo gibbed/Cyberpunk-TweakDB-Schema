@@ -1,0 +1,17 @@
+﻿{
+  "name": "VehicleDestructionPointDamper",
+  "properties": [
+    {
+      "path": ".pointIndex",
+      "type": "Int"
+    },
+    {
+      "path": ".dampValue",
+      "type": "Float"
+    },
+    {
+      "path": ".pointFragility",
+      "type": "Float"
+    }
+  ]
+}

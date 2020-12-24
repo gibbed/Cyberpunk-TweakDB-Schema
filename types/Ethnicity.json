@@ -1,0 +1,13 @@
+﻿{
+  "name": "Ethnicity",
+  "properties": [
+    {
+      "path": ".comment",
+      "type": "String"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

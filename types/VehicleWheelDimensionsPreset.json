@@ -1,0 +1,21 @@
+﻿{
+  "name": "VehicleWheelDimensionsPreset",
+  "properties": [
+    {
+      "path": ".tireRadius",
+      "type": "Float"
+    },
+    {
+      "path": ".rimRadius",
+      "type": "Float"
+    },
+    {
+      "path": ".tireWidth",
+      "type": "Float"
+    },
+    {
+      "path": ".wheelOffset",
+      "type": "Float"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "name": "AISubActionRegisterActionName",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".actionName",
+      "type": "Name"
+    }
+  ]
+}

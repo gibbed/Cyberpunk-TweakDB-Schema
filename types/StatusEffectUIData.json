@@ -1,0 +1,45 @@
+﻿{
+  "name": "StatusEffectUIData",
+  "properties": [
+    {
+      "path": ".displayName",
+      "type": "String"
+    },
+    {
+      "path": ".description",
+      "type": "String"
+    },
+    {
+      "path": ".fluffText",
+      "type": "String"
+    },
+    {
+      "path": ".iconPath",
+      "type": "String"
+    },
+    {
+      "path": ".floatValues",
+      "type": "Float",
+      "array": true
+    },
+    {
+      "path": ".intValues",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".nameValues",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".stats",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".priority",
+      "type": "Float"
+    }
+  ]
+}

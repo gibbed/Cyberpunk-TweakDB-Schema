@@ -1,0 +1,10 @@
+﻿{
+  "name": "ChoiceCaptionTagPart",
+  "base": "ChoiceCaptionPart",
+  "properties": [
+    {
+      "path": ".tagLocId",
+      "type": "String"
+    }
+  ]
+}

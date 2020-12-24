@@ -1,0 +1,25 @@
+﻿{
+  "name": "FastTravelPoint",
+  "properties": [
+    {
+      "path": ".description",
+      "type": "String"
+    },
+    {
+      "path": ".displayName",
+      "type": "String"
+    },
+    {
+      "path": ".district",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".showOnWorldMap",
+      "type": "Bool"
+    },
+    {
+      "path": ".showInWorld",
+      "type": "Bool"
+    }
+  ]
+}

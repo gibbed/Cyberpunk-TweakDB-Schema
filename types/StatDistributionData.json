@@ -1,0 +1,13 @@
+﻿{
+  "name": "StatDistributionData",
+  "properties": [
+    {
+      "path": ".statType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".value",
+      "type": "Float"
+    }
+  ]
+}

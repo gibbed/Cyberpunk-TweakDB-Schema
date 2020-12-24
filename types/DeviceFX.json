@@ -1,0 +1,17 @@
+﻿{
+  "name": "DeviceFX",
+  "properties": [
+    {
+      "path": ".scanGameEffectLength",
+      "type": "Float"
+    },
+    {
+      "path": ".visionConeEffectLength",
+      "type": "Float"
+    },
+    {
+      "path": ".idleEffectLength",
+      "type": "Float"
+    }
+  ]
+}

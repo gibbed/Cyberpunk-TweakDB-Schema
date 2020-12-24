@@ -1,0 +1,26 @@
+﻿{
+  "name": "AISubActionFastExitWorkspot",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".destinationObj",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".playSlowExitIfFailed",
+      "type": "Bool"
+    },
+    {
+      "path": ".stayInWorkspotIfFailed",
+      "type": "Bool"
+    }
+  ]
+}

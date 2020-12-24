@@ -1,0 +1,18 @@
+﻿{
+  "name": "AIDodgeCountCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".minDodgeCount",
+      "type": "Int"
+    },
+    {
+      "path": ".maxDodgeCount",
+      "type": "Int"
+    },
+    {
+      "path": ".OwnerAttackDodgedCount",
+      "type": "Int"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿{
+  "name": "AISubActionDisableCollider",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".disable",
+      "type": "Bool"
+    },
+    {
+      "path": ".enableOnDeactivate",
+      "type": "Bool"
+    }
+  ]
+}

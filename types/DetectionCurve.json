@@ -1,0 +1,18 @@
+﻿{
+  "name": "DetectionCurve",
+  "properties": [
+    {
+      "path": ".states",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".name",
+      "type": "Name"
+    },
+    {
+      "path": ".maxDistance",
+      "type": "Float"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿{
+  "name": "AimAssistBulletMagnetism",
+  "properties": [
+    {
+      "path": ".targetHighAngularVelocity",
+      "type": "Float"
+    },
+    {
+      "path": ".targetSearchAngleYaw",
+      "type": "Float"
+    },
+    {
+      "path": ".targetSearchAnglePitch",
+      "type": "Float"
+    },
+    {
+      "path": ".magPointOffset",
+      "type": "Float"
+    },
+    {
+      "path": ".isEnabled",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿{
+  "name": "DeviceAreaAttack",
+  "base": "Attack_GameEffect",
+  "properties": []
+}

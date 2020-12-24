@@ -1,0 +1,14 @@
+﻿{
+  "name": "AISubActionMeleeAttackAttemptEvent",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".isWindUp",
+      "type": "Bool"
+    }
+  ]
+}

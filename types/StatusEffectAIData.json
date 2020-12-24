@@ -1,0 +1,56 @@
+﻿{
+  "name": "StatusEffectAIData",
+  "properties": [
+    {
+      "path": ".behaviorEventFlag",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".behaviorType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".sensePreset",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".stimulis",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".activationPrereqs",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".behaviorSignalResendDelay",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".behaviourName",
+      "type": "Name"
+    },
+    {
+      "path": ".priority",
+      "type": "Float"
+    },
+    {
+      "path": ".stimRangeMultiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".updateSenses",
+      "type": "Bool"
+    },
+    {
+      "path": ".shouldDelayStatusEffectApplication",
+      "type": "Bool"
+    },
+    {
+      "path": ".shouldProcessAIDataOnReapplication",
+      "type": "Bool"
+    }
+  ]
+}

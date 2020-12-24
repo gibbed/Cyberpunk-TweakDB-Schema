@@ -1,0 +1,10 @@
+﻿{
+  "name": "GameplayAbilityGroup",
+  "properties": [
+    {
+      "path": ".abilities",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

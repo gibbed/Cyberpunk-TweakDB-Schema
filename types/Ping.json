@@ -1,0 +1,33 @@
+﻿{
+  "name": "Ping",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".worldIconName",
+      "type": "Name"
+    },
+    {
+      "path": ".minimapIconName",
+      "type": "Name"
+    },
+    {
+      "path": ".voTriggerName",
+      "type": "Name"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    },
+    {
+      "path": ".maxCount",
+      "type": "Int"
+    },
+    {
+      "path": ".lifeSpan",
+      "type": "Float"
+    }
+  ]
+}

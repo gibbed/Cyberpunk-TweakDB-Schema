@@ -1,0 +1,173 @@
+﻿{
+  "name": "VehicleTPPCameraParams",
+  "properties": [
+    {
+      "path": ".fov",
+      "type": "Float"
+    },
+    {
+      "path": ".slopeCorrectionOnGroundPitchMin",
+      "type": "Float"
+    },
+    {
+      "path": ".autoCenterMaxSpeedThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".cameraSphereRadius",
+      "type": "Float"
+    },
+    {
+      "path": ".drivingDirectionCompensationSpeedCoef",
+      "type": "Float"
+    },
+    {
+      "path": ".cameraMinPitch",
+      "type": "Float"
+    },
+    {
+      "path": ".slopeCorrectionInAirPitchMin",
+      "type": "Float"
+    },
+    {
+      "path": ".slopeCorrectionInAirDampFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".slopeCorrectionInAirPitchMax",
+      "type": "Float"
+    },
+    {
+      "path": ".elasticBoomForwardAccelerationCoef",
+      "type": "Float"
+    },
+    {
+      "path": ".cameraBoomExtensionSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".drivingDirectionCompensationAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".slopeCorrectionOnGroundStrength",
+      "type": "Float"
+    },
+    {
+      "path": ".autoCenterSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".drivingDirectionCompensationAngularVelocityMin",
+      "type": "Float"
+    },
+    {
+      "path": ".slopeCorrectionInAirSpeedMax",
+      "type": "Float"
+    },
+    {
+      "path": ".elasticBoomSpeedExpansionSpeedMin",
+      "type": "Float"
+    },
+    {
+      "path": ".slopeCorrectionInAirRaiseCoef",
+      "type": "Float"
+    },
+    {
+      "path": ".autoCenterStartTimeGamepad",
+      "type": "Float"
+    },
+    {
+      "path": ".autoCenterStartTimeMouse",
+      "type": "Float"
+    },
+    {
+      "path": ".drivingDirectionCompensationAngleSmooth",
+      "type": "Float"
+    },
+    {
+      "path": ".elasticBoomAccelerationExpansionLength",
+      "type": "Float"
+    },
+    {
+      "path": ".slopeCorrectionInAirFallCoef",
+      "type": "Float"
+    },
+    {
+      "path": ".cameraMaxPitch",
+      "type": "Float"
+    },
+    {
+      "path": ".slopeCorrectionInAirStrength",
+      "type": "Float"
+    },
+    {
+      "path": ".drivingDirectionCompensationSpeedMax",
+      "type": "Float"
+    },
+    {
+      "path": ".slopeCorrectionOnGroundPitchMax",
+      "type": "Float"
+    },
+    {
+      "path": ".drivingDirectionCompensationSpeedMin",
+      "type": "Float"
+    },
+    {
+      "path": ".elasticBoomSpeedExpansionSpeedMax",
+      "type": "Float"
+    },
+    {
+      "path": ".elasticBoomSpeedExpansionLength",
+      "type": "Float"
+    },
+    {
+      "path": ".headLookAtMaxYaw",
+      "type": "Float"
+    },
+    {
+      "path": ".headLookAtCenterYawThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".headLookAtMaxPitchUp",
+      "type": "Float"
+    },
+    {
+      "path": ".headLookAtMaxPitchDown",
+      "type": "Float"
+    },
+    {
+      "path": ".headLookAtRotationSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".collisionDetection",
+      "type": "Bool"
+    },
+    {
+      "path": ".elasticBoomVelocity",
+      "type": "Bool"
+    },
+    {
+      "path": ".elasticBoomAcceleration",
+      "type": "Bool"
+    },
+    {
+      "path": ".drivingDirectionCompensation",
+      "type": "Bool"
+    },
+    {
+      "path": ".slopeAdjustement",
+      "type": "Bool"
+    },
+    {
+      "path": ".airFlowDistortion",
+      "type": "Bool"
+    },
+    {
+      "path": ".lockedCamera",
+      "type": "Bool"
+    }
+  ]
+}

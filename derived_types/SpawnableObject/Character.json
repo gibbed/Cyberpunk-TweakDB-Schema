@@ -1,0 +1,282 @@
+﻿{
+  "name": "Character",
+  "base": "SpawnableObject",
+  "properties": [
+    {
+      "path": ".cpoCharacterBuild",
+      "type": "String"
+    },
+    {
+      "path": ".devNotes",
+      "type": "String"
+    },
+    {
+      "path": ".vendorID",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".driving",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".threatTrackingPreset",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".lootDrop",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".squadParamsID",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".bountyDrawTable",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".secondaryEquipment",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".characterType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".primaryEquipment",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".uiNameplate",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".archetypeData",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".minigameInstance",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".quest",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".defaultEquipment",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".crowdMemberSettings",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".rarity",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".actionMap",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".defaultCrosshair",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".sensePreset",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".contentAssignment",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".affiliation",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".reactionPreset",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".idleActions",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".scannerModulePreset",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".onSpawnGLPs",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".genders",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".abilities",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".items",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".crowdAppearanceNames",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".EquipmentAreas",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".attachmentSlots",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".itemGroups",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".securitySquad",
+      "type": "Name"
+    },
+    {
+      "path": ".displayName",
+      "type": "LocKey"
+    },
+    {
+      "path": ".lootBagEntity",
+      "type": "Name"
+    },
+    {
+      "path": ".globalSquad",
+      "type": "Name"
+    },
+    {
+      "path": ".archetypeName",
+      "type": "Name"
+    },
+    {
+      "path": ".audioResourceName",
+      "type": "Name"
+    },
+    {
+      "path": ".communitySquad",
+      "type": "Name"
+    },
+    {
+      "path": ".displayDescription",
+      "type": "LocKey"
+    },
+    {
+      "path": ".alternativeDisplayName",
+      "type": "LocKey"
+    },
+    {
+      "path": ".stateMachineName",
+      "type": "Name"
+    },
+    {
+      "path": ".baseAttitudeGroup",
+      "type": "Name"
+    },
+    {
+      "path": ".alternativeFullDisplayName",
+      "type": "LocKey"
+    },
+    {
+      "path": ".audioMeleeMaterial",
+      "type": "Name"
+    },
+    {
+      "path": ".fullDisplayName",
+      "type": "LocKey"
+    },
+    {
+      "path": ".cpoClassName",
+      "type": "Name"
+    },
+    {
+      "path": ".voiceTag",
+      "type": "Name"
+    },
+    {
+      "path": ".forcedTBHZOffset",
+      "type": "Float"
+    },
+    {
+      "path": ".level",
+      "type": "Int"
+    },
+    {
+      "path": ".isChild",
+      "type": "Bool"
+    },
+    {
+      "path": ".despawnChildCommunityWhenPlayerInVehicle",
+      "type": "Bool"
+    },
+    {
+      "path": ".isCrowd",
+      "type": "Bool"
+    },
+    {
+      "path": ".canHaveGenericTalk",
+      "type": "Bool"
+    },
+    {
+      "path": ".dropsAmmoOnDeath",
+      "type": "Bool"
+    },
+    {
+      "path": ".dropsWeaponOnDeath",
+      "type": "Bool"
+    },
+    {
+      "path": ".staticCommunityAppearancesDistributionEnabled",
+      "type": "Bool"
+    },
+    {
+      "path": ".isBumpable",
+      "type": "Bool"
+    },
+    {
+      "path": ".isLightCrowd",
+      "type": "Bool"
+    },
+    {
+      "path": ".forceCanHaveGenericTalk",
+      "type": "Bool"
+    },
+    {
+      "path": ".enableSensesOnStart",
+      "type": "Bool"
+    },
+    {
+      "path": ".hasDirectionalStarts",
+      "type": "Bool"
+    },
+    {
+      "path": ".dropsMoneyOnDeath",
+      "type": "Bool"
+    },
+    {
+      "path": ".useForcedTBHZOffset",
+      "type": "Bool"
+    },
+    {
+      "path": ".skipDisplayArchetype",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "name": "AITicketCondition",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".invert",
+      "type": "Bool"
+    },
+  ]
+}

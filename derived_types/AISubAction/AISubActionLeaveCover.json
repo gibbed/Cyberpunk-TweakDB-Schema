@@ -1,0 +1,14 @@
+﻿{
+  "name": "AISubActionLeaveCover",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".checkExposure",
+      "type": "Int"
+    }
+  ]
+}

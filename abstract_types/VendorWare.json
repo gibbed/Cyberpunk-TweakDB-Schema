@@ -1,0 +1,24 @@
+﻿{
+  "name": "VendorWare",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".availabilityPrereq",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".generationPrereqs",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".quantity",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".forceQuality",
+      "type": "Name"
+    },
+  ]
+}

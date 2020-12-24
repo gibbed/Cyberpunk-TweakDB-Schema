@@ -1,0 +1,97 @@
+﻿{
+  "name": "NetworkPingingParameteres",
+  "properties": [
+    {
+      "path": ".virtualNetwork",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".directPingDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".pingRange",
+      "type": "Float"
+    },
+    {
+      "path": ".pulseRange",
+      "type": "Float"
+    },
+    {
+      "path": ".revealMasterAfterLeavingFocusDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".networkRevealDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".revealLinksAfterLeavingFocusDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".spacePingDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".maxFreePingLinks",
+      "type": "Int"
+    },
+    {
+      "path": ".ammountOfIntervals",
+      "type": "Int"
+    },
+    {
+      "path": ".spacePingAppearModifier",
+      "type": "Float"
+    },
+    {
+      "path": ".allowSimultanousPinging",
+      "type": "Bool"
+    },
+    {
+      "path": ".forceInstantBeamKill",
+      "type": "Bool"
+    },
+    {
+      "path": ".shouldNetworkElementsPersistAfterFocus",
+      "type": "Bool"
+    },
+    {
+      "path": ".revealSlave",
+      "type": "Bool"
+    },
+    {
+      "path": ".usePulse",
+      "type": "Bool"
+    },
+    {
+      "path": ".shouldRevealNetworkAfterPulse",
+      "type": "Bool"
+    },
+    {
+      "path": ".suppressPingIfBackdoorsFound",
+      "type": "Bool"
+    },
+    {
+      "path": ".revealMaster",
+      "type": "Bool"
+    },
+    {
+      "path": ".pulseRealObjects",
+      "type": "Bool"
+    },
+    {
+      "path": ".reavealNetworkOnMaster",
+      "type": "Bool"
+    },
+    {
+      "path": ".quickHacksExposedByDefaul",
+      "type": "Bool"
+    },
+    {
+      "path": ".showOnlyTargetQuickHacks",
+      "type": "Bool"
+    }
+  ]
+}

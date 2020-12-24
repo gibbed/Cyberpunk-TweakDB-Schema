@@ -1,0 +1,10 @@
+﻿{
+  "name": "QuestRestrictionMode",
+  "properties": [
+    {
+      "path": ".InjectedActions",
+      "type": "Name",
+      "array": true
+    }
+  ]
+}

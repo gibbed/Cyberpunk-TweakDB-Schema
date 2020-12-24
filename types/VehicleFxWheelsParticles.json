@@ -1,0 +1,10 @@
+﻿{
+  "name": "VehicleFxWheelsParticles",
+  "properties": [
+    {
+      "path": ".materials",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

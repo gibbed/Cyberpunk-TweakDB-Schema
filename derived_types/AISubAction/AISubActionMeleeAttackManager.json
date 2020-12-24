@@ -1,0 +1,38 @@
+﻿{
+  "name": "AISubActionMeleeAttackManager",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "Name"
+    },
+    {
+      "path": ".fxDelay",
+      "type": "Float"
+    },
+    {
+      "path": ".trailDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".trailDelay",
+      "type": "Float"
+    },
+    {
+      "path": ".warningDelay",
+      "type": "Float"
+    },
+    {
+      "path": ".spawnTrail",
+      "type": "Bool"
+    },
+    {
+      "path": ".spawnWeaponFX",
+      "type": "Bool"
+    },
+    {
+      "path": ".sendFriendlyFireWarning",
+      "type": "Bool"
+    }
+  ]
+}

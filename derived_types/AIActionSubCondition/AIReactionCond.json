@@ -1,0 +1,31 @@
+﻿{
+  "name": "AIReactionCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".preset",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".thresholdValue",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".stimType",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".reactionBehaviorName",
+      "type": "Name"
+    },
+    {
+      "path": ".validStimPosition",
+      "type": "Bool"
+    },
+    {
+      "path": ".investigateController",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "name": "DisassemblingResult",
+  "properties": [
+    {
+      "path": ".ingredients",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

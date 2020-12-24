@@ -1,0 +1,18 @@
+﻿{
+  "name": "CoverTypeCoverSelectionParameters",
+  "base": "CoverSelectionParameters",
+  "properties": [
+    {
+      "path": ".maxScore",
+      "type": "Float"
+    },
+    {
+      "path": ".coverScore",
+      "type": "Float"
+    },
+    {
+      "path": ".shootingSpotScore",
+      "type": "Float"
+    }
+  ]
+}

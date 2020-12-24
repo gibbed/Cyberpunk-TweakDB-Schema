@@ -1,0 +1,10 @@
+﻿{
+  "name": "AISquadSpatialForOwnTarget",
+  "base": "AITicketFilter",
+  "properties": [
+    {
+      "path": ".spatial",
+      "type": "ForeignKey"
+    }
+  ]
+}

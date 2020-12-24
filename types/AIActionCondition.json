@@ -1,0 +1,243 @@
+﻿{
+  "name": "AIActionCondition",
+  "properties": [
+    {
+      "path": ".blockCount",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".friendlyFire",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".previousAttack",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".canThrow",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".condition",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".optimalDistance",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".dodgeCount",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".weaponLockedOnTarget",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".cover",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".goToCover",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".validCover",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".hit",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".workspot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".security",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".weapon",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".npcType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".lookat",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".weakSpotAND",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".commandAND",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".slotOR",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".spatialAND",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".signalAND",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".reaction",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".statPoolOR",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".statusEffectOR",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".calculateLineOfSightVector",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".statPoolAND",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".squadAND",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".inventoryOR",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".inventoryAND",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".inTacticPosition",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".weakSpotOR",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".calculatePath",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".ammoCountAND",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".commandOR",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".squadOR",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".slotAND",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".restrictedMovementArea",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".ammoCountOR",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".movementOR",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".cooldown",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".signalOR",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".vehicleOR",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".spatialOR",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".movementAND",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".statusEffectAND",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".vehicleAND",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".ability",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".state",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".tresspassing",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

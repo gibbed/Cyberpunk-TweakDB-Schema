@@ -1,0 +1,14 @@
+﻿{
+  "name": "UphillDriveHelper",
+  "base": "DriveHelper",
+  "properties": [
+    {
+      "path": ".slopeCompensationFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".slopeCompensationMaxAngle",
+      "type": "Float"
+    }
+  ]
+}

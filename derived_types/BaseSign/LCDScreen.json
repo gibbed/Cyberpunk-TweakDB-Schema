@@ -1,0 +1,10 @@
+﻿{
+  "name": "LCDScreen",
+  "base": "BaseSign",
+  "properties": [
+    {
+      "path": ".message",
+      "type": "ForeignKey"
+    }
+  ]
+}

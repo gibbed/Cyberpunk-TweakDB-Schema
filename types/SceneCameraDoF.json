@@ -1,0 +1,37 @@
+﻿{
+  "name": "SceneCameraDoF",
+  "properties": [
+    {
+      "path": ".profileName",
+      "type": "Name"
+    },
+    {
+      "path": ".dofNearFocus",
+      "type": "Float"
+    },
+    {
+      "path": ".dofFarBlur",
+      "type": "Float"
+    },
+    {
+      "path": ".dofNearBlur",
+      "type": "Float"
+    },
+    {
+      "path": ".dofFarFocus",
+      "type": "Float"
+    },
+    {
+      "path": ".dofIntensity",
+      "type": "Float"
+    },
+    {
+      "path": ".useNearPlane",
+      "type": "Bool"
+    },
+    {
+      "path": ".useFarPlane",
+      "type": "Bool"
+    }
+  ]
+}

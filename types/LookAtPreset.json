@@ -1,0 +1,70 @@
+﻿{
+  "name": "LookAtPreset",
+  "properties": [
+    {
+      "path": ".lookAtParts",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".bodyPart",
+      "type": "Name"
+    },
+    {
+      "path": ".softLimitDegrees",
+      "type": "Float"
+    },
+    {
+      "path": ".transitionSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".priority",
+      "type": "Int"
+    },
+    {
+      "path": ".suppress",
+      "type": "Float"
+    },
+    {
+      "path": ".backLimitDegrees",
+      "type": "Float"
+    },
+    {
+      "path": ".mode",
+      "type": "Int"
+    },
+    {
+      "path": ".hardLimitDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".hardLimitDegrees",
+      "type": "Float"
+    },
+    {
+      "path": ".followingSpeedFactorOverride",
+      "type": "Float"
+    },
+    {
+      "path": ".outTransitionSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".calculatePositionInParentSpace",
+      "type": "Bool"
+    },
+    {
+      "path": ".hasOutTransition",
+      "type": "Bool"
+    },
+    {
+      "path": ".attachLeftHandtoRightHand",
+      "type": "Bool"
+    },
+    {
+      "path": ".attachRightHandtoLeftHand",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿{
+  "name": "VehicleDestructibleLight",
+  "properties": [
+    {
+      "path": ".gridCells",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".component",
+      "type": "Name"
+    },
+    {
+      "path": ".threshold",
+      "type": "Float"
+    }
+  ]
+}

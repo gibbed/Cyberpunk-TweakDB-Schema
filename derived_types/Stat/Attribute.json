@@ -1,0 +1,11 @@
+﻿{
+  "name": "Attribute",
+  "base": "Stat",
+  "properties": [
+    {
+      "path": ".proficiencies",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

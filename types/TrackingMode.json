@@ -1,0 +1,13 @@
+﻿{
+  "name": "TrackingMode",
+  "properties": [
+    {
+      "path": ".enumName",
+      "type": "String"
+    },
+    {
+      "path": ".enumComment",
+      "type": "String"
+    }
+  ]
+}

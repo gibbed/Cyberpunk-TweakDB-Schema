@@ -1,0 +1,21 @@
+﻿{
+  "name": "RangedAttack",
+  "properties": [
+    {
+      "path": ".playerAttack",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".NPCAttack",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".playerTimeDilated",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".NPCTimeDilated",
+      "type": "ForeignKey"
+    }
+  ]
+}

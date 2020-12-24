@@ -1,0 +1,20 @@
+﻿{
+  "name": "AICommandCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".hasCommands",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".hasNewOrOverridenCommands",
+      "type": "Name",
+      "array": true
+    }
+  ]
+}

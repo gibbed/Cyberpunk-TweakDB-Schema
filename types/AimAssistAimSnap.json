@@ -1,0 +1,81 @@
+﻿{
+  "name": "AimAssistAimSnap",
+  "properties": [
+    {
+      "path": ".cameraInputMagToBreak",
+      "type": "Float"
+    },
+    {
+      "path": ".precision",
+      "type": "Float"
+    },
+    {
+      "path": ".duration",
+      "type": "Float"
+    },
+    {
+      "path": ".maxDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".minDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".maxDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".targetAngleDistanceFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".endOnAimingStopped",
+      "type": "Bool"
+    },
+    {
+      "path": ".easeIn",
+      "type": "Bool"
+    },
+    {
+      "path": ".easeOut",
+      "type": "Bool"
+    },
+    {
+      "path": ".isEnabled",
+      "type": "Bool"
+    },
+    {
+      "path": ".adjustPitch",
+      "type": "Bool"
+    },
+    {
+      "path": ".endOnCameraInputApplied",
+      "type": "Bool"
+    },
+    {
+      "path": ".adjustYaw",
+      "type": "Bool"
+    },
+    {
+      "path": ".endOnTargetReached",
+      "type": "Bool"
+    },
+    {
+      "path": ".endOnTimeExceeded",
+      "type": "Bool"
+    },
+    {
+      "path": ".evaluateTargets",
+      "type": "Bool"
+    },
+    {
+      "path": ".checkRange",
+      "type": "Bool"
+    },
+    {
+      "path": ".cancelWithRecoil",
+      "type": "Bool"
+    }
+  ]
+}

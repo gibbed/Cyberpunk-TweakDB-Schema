@@ -1,0 +1,41 @@
+﻿{
+  "name": "VehicleTPPCameraPresetParams",
+  "properties": [
+    {
+      "path": ".height",
+      "type": "Name"
+    },
+    {
+      "path": ".distance",
+      "type": "Name"
+    },
+    {
+      "path": ".lookAtOffset",
+      "type": "Vector3"
+    },
+    {
+      "path": ".defaultRotationPitch",
+      "type": "Float"
+    },
+    {
+      "path": ".airFlowDistortionSpeedMin",
+      "type": "Float"
+    },
+    {
+      "path": ".boomLength",
+      "type": "Float"
+    },
+    {
+      "path": ".airFlowDistortionSpeedMax",
+      "type": "Float"
+    },
+    {
+      "path": ".airFlowDistortionSizeHorizontal",
+      "type": "Float"
+    },
+    {
+      "path": ".airFlowDistortionSizeVertical",
+      "type": "Float"
+    }
+  ]
+}

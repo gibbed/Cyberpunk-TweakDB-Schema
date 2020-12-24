@@ -1,0 +1,23 @@
+﻿{
+  "name": "AIValidCoversCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".limitToRings",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".coversWithLOS",
+      "type": "Int"
+    },
+    {
+      "path": ".checkCurrentlyActiveRing",
+      "type": "Bool"
+    }
+  ]
+}

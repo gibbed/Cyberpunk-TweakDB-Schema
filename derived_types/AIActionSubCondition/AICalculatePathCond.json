@@ -1,0 +1,39 @@
+﻿{
+  "name": "AICalculatePathCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".allowedOffMeshTags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".startPositionOffset",
+      "type": "Vector3"
+    },
+    {
+      "path": ".directionAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".distance",
+      "type": "Float"
+    },
+    {
+      "path": ".tolerance",
+      "type": "Float"
+    },
+    {
+      "path": ".checkStraightPath",
+      "type": "Bool"
+    },
+    {
+      "path": ".checkDynamicObstacle",
+      "type": "Bool"
+    }
+  ]
+}

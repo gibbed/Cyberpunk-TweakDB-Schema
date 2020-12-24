@@ -1,0 +1,13 @@
+﻿{
+  "name": "CodexRecordPart",
+  "properties": [
+    {
+      "path": ".partContent",
+      "type": "String"
+    },
+    {
+      "path": ".partName",
+      "type": "Name"
+    }
+  ]
+}

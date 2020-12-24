@@ -1,0 +1,10 @@
+﻿{
+  "name": "ScreenMessagesList",
+  "properties": [
+    {
+      "path": ".messages",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

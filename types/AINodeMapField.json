@@ -1,0 +1,17 @@
+﻿{
+  "name": "AINodeMapField",
+  "properties": [
+    {
+      "path": ".node",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".isOverriddenBy",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".forLOD",
+      "type": "Int"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "AINode",
+  "base": "AIRecord",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".activationCondition",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".minLOD",
+      "type": "Int"
+    },
+    {
+      "path": ".isVirtual",
+      "type": "Bool"
+    }
+  ]
+}

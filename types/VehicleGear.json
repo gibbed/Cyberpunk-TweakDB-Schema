@@ -1,0 +1,25 @@
+﻿{
+  "name": "VehicleGear",
+  "properties": [
+    {
+      "path": ".maxSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".maxEngineRPM",
+      "type": "Float"
+    },
+    {
+      "path": ".minSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".minEngineRPM",
+      "type": "Float"
+    },
+    {
+      "path": ".torqueMultiplier",
+      "type": "Float"
+    }
+  ]
+}

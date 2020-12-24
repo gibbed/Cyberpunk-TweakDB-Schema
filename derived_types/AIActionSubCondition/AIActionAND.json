@@ -1,0 +1,11 @@
+﻿{
+  "name": "AIActionAND",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".AND",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

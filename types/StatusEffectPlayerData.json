@@ -1,0 +1,85 @@
+﻿{
+  "name": "StatusEffectPlayerData",
+  "properties": [
+    {
+      "path": ".statusEffectVariation",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".airRecoveryAnimDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".impulseDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".priority",
+      "type": "Float"
+    },
+    {
+      "path": ".recoveryAnimDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".startupAnimDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".cameraShakeStrength",
+      "type": "Float"
+    },
+    {
+      "path": ".startupAnimInterruptPoint",
+      "type": "Float"
+    },
+    {
+      "path": ".landAnimDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".rotateToSource",
+      "type": "Bool"
+    },
+    {
+      "path": ".disableJump",
+      "type": "Bool"
+    },
+    {
+      "path": ".blockMovement",
+      "type": "Bool"
+    },
+    {
+      "path": ".forceUnequipWeapon",
+      "type": "Bool"
+    },
+    {
+      "path": ".disableCrouch",
+      "type": "Bool"
+    },
+    {
+      "path": ".forceSafeWeapon",
+      "type": "Bool"
+    },
+    {
+      "path": ".disableSprint",
+      "type": "Bool"
+    },
+    {
+      "path": ".jamWeapon",
+      "type": "Bool"
+    },
+    {
+      "path": ".cameraInputInterference",
+      "type": "Bool"
+    },
+    {
+      "path": ".disableDodge",
+      "type": "Bool"
+    },
+    {
+      "path": ".scaleImpulseDistance",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿{
+  "name": "ThreatTrackingPresetBase",
+  "properties": [
+    {
+      "path": ".beliefAccuracy",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".baseAccuracy",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".baseDroppingThreatCooldown",
+      "type": "Float"
+    },
+    {
+      "path": ".droppingCooldownPerSecondWhileVisible",
+      "type": "Float"
+    },
+    {
+      "path": ".visibleBeliefSpeedMultiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".droppingCooldownPerHit",
+      "type": "Float"
+    },
+    {
+      "path": ".maximumDroppingCooldownValue",
+      "type": "Float"
+    },
+    {
+      "path": ".moveBeliefOnlyIfVisible",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+﻿{
+  "name": "PreventionHeatData",
+  "properties": [
+    {
+      "path": ".vehicleRecord",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".unitRecordsPool",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".spawnRange",
+      "type": "Vector2"
+    },
+    {
+      "path": ".spawnInterval",
+      "type": "Float"
+    },
+    {
+      "path": ".unitsCount",
+      "type": "Int"
+    }
+  ]
+}

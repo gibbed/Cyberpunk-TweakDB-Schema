@@ -1,0 +1,11 @@
+﻿{
+  "name": "AddItemsEffector",
+  "base": "Effector",
+  "properties": [
+    {
+      "path": ".itemsToAdd",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

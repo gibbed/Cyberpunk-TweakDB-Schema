@@ -1,0 +1,13 @@
+﻿{
+  "name": "BuildProficiency",
+  "properties": [
+    {
+      "path": ".proficiency",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".level",
+      "type": "Int"
+    }
+  ]
+}

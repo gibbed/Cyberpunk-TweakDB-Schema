@@ -1,0 +1,22 @@
+﻿{
+  "name": "Base_MappinDefinition",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".visibilityRange",
+      "type": "Float"
+    },
+    {
+      "path": ".showOnMinimap",
+      "type": "Bool"
+    },
+    {
+      "path": ".showOnMap",
+      "type": "Bool"
+    },
+    {
+      "path": ".showInWorld",
+      "type": "Bool"
+    },
+  ]
+}

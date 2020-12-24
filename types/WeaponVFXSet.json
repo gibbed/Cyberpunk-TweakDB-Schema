@@ -1,0 +1,10 @@
+﻿{
+  "name": "WeaponVFXSet",
+  "properties": [
+    {
+      "path": ".actions",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

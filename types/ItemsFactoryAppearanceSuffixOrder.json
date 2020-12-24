@@ -1,0 +1,10 @@
+﻿{
+  "name": "ItemsFactoryAppearanceSuffixOrder",
+  "properties": [
+    {
+      "path": ".appearanceSuffixes",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

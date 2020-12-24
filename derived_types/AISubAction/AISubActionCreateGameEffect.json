@@ -1,0 +1,46 @@
+﻿{
+  "name": "AISubActionCreateGameEffect",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".positionObj",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".targetPositionObj",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".rotationObj",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".effectTag",
+      "type": "Name"
+    },
+    {
+      "path": ".effectName",
+      "type": "Name"
+    },
+    {
+      "path": ".colliderBoxSize",
+      "type": "Vector3"
+    },
+    {
+      "path": ".range",
+      "type": "Float"
+    },
+    {
+      "path": ".duration",
+      "type": "Float"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    }
+  ]
+}

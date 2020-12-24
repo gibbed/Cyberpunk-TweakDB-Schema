@@ -1,0 +1,13 @@
+﻿{
+  "name": "SquadInstance",
+  "properties": [
+    {
+      "path": ".squadName",
+      "type": "Name"
+    },
+    {
+      "path": ".squadTemplate",
+      "type": "Name"
+    }
+  ]
+}

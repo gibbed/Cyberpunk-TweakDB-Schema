@@ -1,0 +1,5 @@
+﻿{
+  "name": "AISubActionSetEquipPrimaryWeapons",
+  "base": "AISubActionCharacterRecordEquip",
+  "properties": []
+}

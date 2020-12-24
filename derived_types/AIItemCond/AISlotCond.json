@@ -1,0 +1,22 @@
+﻿{
+  "name": "AISlotCond",
+  "base": "AIItemCond",
+  "properties": [
+    {
+      "path": ".requestedTriggerModes",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".slot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".checkIfEmptySlotIsSpawningItem",
+      "type": "Int"
+    }
+  ]
+}

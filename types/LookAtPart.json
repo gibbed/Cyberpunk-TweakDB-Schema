@@ -1,0 +1,21 @@
+﻿{
+  "name": "LookAtPart",
+  "properties": [
+    {
+      "path": ".partName",
+      "type": "Name"
+    },
+    {
+      "path": ".weight",
+      "type": "Float"
+    },
+    {
+      "path": ".suppress",
+      "type": "Float"
+    },
+    {
+      "path": ".mode",
+      "type": "Int"
+    }
+  ]
+}

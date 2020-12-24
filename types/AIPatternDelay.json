@@ -1,0 +1,13 @@
+﻿{
+  "name": "AIPatternDelay",
+  "properties": [
+    {
+      "path": ".shotNumber",
+      "type": "Int"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    }
+  ]
+}

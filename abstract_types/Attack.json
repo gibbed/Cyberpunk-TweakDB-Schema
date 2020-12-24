@@ -1,0 +1,61 @@
+﻿{
+  "name": "Attack",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".attackName",
+      "type": "String"
+    },
+    {
+      "path": ".userDataPath",
+      "type": "String"
+    },
+    {
+      "path": ".damageType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".attackType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".statModifiers",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".statusEffects",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".hitFlags",
+      "type": "String",
+      "array": true
+    },
+    {
+      "path": ".className",
+      "type": "Name"
+    },
+    {
+      "path": ".range",
+      "type": "Float"
+    },
+    {
+      "path": ".playerIncomingDamageMultiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".hitReactionSeverityMin",
+      "type": "Int"
+    },
+    {
+      "path": ".hitReactionSeverityMax",
+      "type": "Int"
+    },
+    {
+      "path": ".useDefaultAimData",
+      "type": "Bool"
+    }
+  ]
+}

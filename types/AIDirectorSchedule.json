@@ -1,0 +1,10 @@
+﻿{
+  "name": "AIDirectorSchedule",
+  "properties": [
+    {
+      "path": ".entries",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

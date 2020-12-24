@@ -1,0 +1,30 @@
+﻿{
+  "name": "AISubActionTriggerStim",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".stimType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".stimSource",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".radius",
+      "type": "Float"
+    },
+    {
+      "path": ".direct",
+      "type": "Bool"
+    }
+  ]
+}

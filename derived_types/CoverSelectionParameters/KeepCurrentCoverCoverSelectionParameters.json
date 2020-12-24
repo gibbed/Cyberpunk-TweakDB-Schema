@@ -1,0 +1,10 @@
+﻿{
+  "name": "KeepCurrentCoverCoverSelectionParameters",
+  "base": "CoverSelectionParameters",
+  "properties": [
+    {
+      "path": ".keepCoverBonus",
+      "type": "Float"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+﻿{
+  "name": "AITargetCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".isCombatTargetVisibleFrom",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".minAccuracyValue",
+      "type": "Float"
+    },
+    {
+      "path": ".minDetectionValue",
+      "type": "Float"
+    },
+    {
+      "path": ".isVisible",
+      "type": "Int"
+    },
+    {
+      "path": ".invalidExpectation",
+      "type": "Int"
+    },
+    {
+      "path": ".minAccuracySharedValue",
+      "type": "Float"
+    },
+    {
+      "path": ".isAlive",
+      "type": "Int"
+    },
+    {
+      "path": ".maxVisibilityToTargetDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".isActive",
+      "type": "Int"
+    },
+    {
+      "path": ".isMoving",
+      "type": "Int"
+    },
+    {
+      "path": ".attitude",
+      "type": "Int"
+    }
+  ]
+}

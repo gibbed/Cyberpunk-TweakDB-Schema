@@ -1,0 +1,26 @@
+﻿{
+  "name": "AISubActionForceDeath",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".hitIntensity",
+      "type": "Int"
+    },
+    {
+      "path": ".hitBodyPart",
+      "type": "Int"
+    },
+    {
+      "path": ".hitSource",
+      "type": "Int"
+    },
+    {
+      "path": ".hitDirection",
+      "type": "Int"
+    }
+  ]
+}

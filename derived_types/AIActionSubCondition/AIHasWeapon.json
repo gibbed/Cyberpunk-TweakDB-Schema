@@ -1,0 +1,20 @@
+﻿{
+  "name": "AIHasWeapon",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".itemType",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".itemCategory",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".itemTag",
+      "type": "Name"
+    }
+  ]
+}

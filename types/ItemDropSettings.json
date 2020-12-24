@@ -1,0 +1,13 @@
+﻿{
+  "name": "ItemDropSettings",
+  "properties": [
+    {
+      "path": ".desiredAngularVelocity",
+      "type": "Float"
+    },
+    {
+      "path": ".desiredInitialRotation",
+      "type": "Float"
+    }
+  ]
+}

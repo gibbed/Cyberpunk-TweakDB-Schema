@@ -1,0 +1,38 @@
+﻿{
+  "name": "AimAssistTargetData",
+  "properties": [
+    {
+      "path": ".filters",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".heightUp",
+      "type": "Float"
+    },
+    {
+      "path": ".aimSnapAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".heightDown",
+      "type": "Float"
+    },
+    {
+      "path": ".width",
+      "type": "Float"
+    },
+    {
+      "path": ".aimSnapPriorityWeight",
+      "type": "Float"
+    },
+    {
+      "path": ".isForAimMagnetisim",
+      "type": "Bool"
+    },
+    {
+      "path": ".isForAimSnap",
+      "type": "Bool"
+    }
+  ]
+}

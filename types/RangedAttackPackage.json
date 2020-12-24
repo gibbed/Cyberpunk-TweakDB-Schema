@@ -1,0 +1,13 @@
+﻿{
+  "name": "RangedAttackPackage",
+  "properties": [
+    {
+      "path": ".defaultFire",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".chargeFire",
+      "type": "ForeignKey"
+    }
+  ]
+}

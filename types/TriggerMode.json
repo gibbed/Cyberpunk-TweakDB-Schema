@@ -1,0 +1,9 @@
+﻿{
+  "name": "TriggerMode",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "String"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Accuracy",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".accuracyDropCooldown",
+      "type": "Float"
+    },
+    {
+      "path": ".minDistanceToRunCooldown",
+      "type": "Float"
+    }
+  ]
+}

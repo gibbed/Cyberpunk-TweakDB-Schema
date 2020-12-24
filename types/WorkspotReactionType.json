@@ -1,0 +1,9 @@
+﻿{
+  "name": "WorkspotReactionType",
+  "properties": [
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

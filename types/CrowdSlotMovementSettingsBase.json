@@ -1,0 +1,193 @@
+﻿{
+  "name": "CrowdSlotMovementSettingsBase",
+  "properties": [
+    {
+      "path": ".maxStopSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".directionSmoothFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".curveFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".minLightDelay",
+      "type": "Float"
+    },
+    {
+      "path": ".radiusSmoothFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".bumpTriggerSpeedFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".maxSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".avoidanceReserve",
+      "type": "Float"
+    },
+    {
+      "path": ".maxDeviationFromPath",
+      "type": "Float"
+    },
+    {
+      "path": ".softAdheranceMax",
+      "type": "Float"
+    },
+    {
+      "path": ".moveSpeedType",
+      "type": "Int"
+    },
+    {
+      "path": ".overlapTolerance",
+      "type": "Float"
+    },
+    {
+      "path": ".maxLightDelay",
+      "type": "Float"
+    },
+    {
+      "path": ".length",
+      "type": "Float"
+    },
+    {
+      "path": ".stopReserve",
+      "type": "Float"
+    },
+    {
+      "path": ".softAdheranceMin",
+      "type": "Float"
+    },
+    {
+      "path": ".reachFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".fenceGapReserve",
+      "type": "Float"
+    },
+    {
+      "path": ".bumpTriggerMaxDistancePlayer",
+      "type": "Float"
+    },
+    {
+      "path": ".minSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".baseRadius",
+      "type": "Float"
+    },
+    {
+      "path": ".accelerationFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".bumpTriggerRadiusFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".rotationSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".surroundDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".bumpTriggerMaxDistanceNPC",
+      "type": "Float"
+    },
+    {
+      "path": ".maxSpeedTolerance",
+      "type": "Float"
+    },
+    {
+      "path": ".radiusTopClamp",
+      "type": "Float"
+    },
+    {
+      "path": ".bumpTriggerMinSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".brakePressureFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".acceleration",
+      "type": "Float"
+    },
+    {
+      "path": ".radiusBottomClamp",
+      "type": "Float"
+    },
+    {
+      "path": ".absoluteFrontClamp",
+      "type": "Float"
+    },
+    {
+      "path": ".minStopSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".laneObstacleBuffer",
+      "type": "Float"
+    },
+    {
+      "path": ".deceleration",
+      "type": "Float"
+    },
+    {
+      "path": ".curveLimit",
+      "type": "Float"
+    },
+    {
+      "path": ".speedStage",
+      "type": "Bool"
+    },
+    {
+      "path": ".directionStage",
+      "type": "Bool"
+    },
+    {
+      "path": ".ignorePlayer",
+      "type": "Bool"
+    },
+    {
+      "path": ".dropItems",
+      "type": "Bool"
+    },
+    {
+      "path": ".ignoreLights",
+      "type": "Bool"
+    },
+    {
+      "path": ".ignoreSpeedLimitations",
+      "type": "Bool"
+    },
+    {
+      "path": ".ignorePedestrians",
+      "type": "Bool"
+    },
+    {
+      "path": ".ignoreCars",
+      "type": "Bool"
+    },
+    {
+      "path": ".ignoreRules",
+      "type": "Bool"
+    },
+    {
+      "path": ".ignoreStatics",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "name": "CurrencyReward",
+  "properties": [
+    {
+      "path": ".currency",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".quantityModifiers",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

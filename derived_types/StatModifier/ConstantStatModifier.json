@@ -1,0 +1,10 @@
+﻿{
+  "name": "ConstantStatModifier",
+  "base": "StatModifier",
+  "properties": [
+    {
+      "path": ".value",
+      "type": "Float"
+    }
+  ]
+}

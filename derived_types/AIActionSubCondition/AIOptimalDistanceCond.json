@@ -1,0 +1,47 @@
+﻿{
+  "name": "AIOptimalDistanceCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".source",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".checkRings",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".predictionTime",
+      "type": "Float"
+    },
+    {
+      "path": ".distanceMult",
+      "type": "Float"
+    },
+    {
+      "path": ".toleranceOffset",
+      "type": "Float"
+    },
+    {
+      "path": ".distanceOffset",
+      "type": "Float"
+    },
+    {
+      "path": ".toleranceMult",
+      "type": "Float"
+    },
+    {
+      "path": ".failWhenCloserThanCurrentRing",
+      "type": "Bool"
+    },
+    {
+      "path": ".failWhenFurtherThantCurrentRing",
+      "type": "Bool"
+    }
+  ]
+}

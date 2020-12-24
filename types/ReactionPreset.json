@@ -1,0 +1,44 @@
+﻿{
+  "name": "ReactionPreset",
+  "properties": [
+    {
+      "path": ".reactionGroup",
+      "type": "String"
+    },
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".statModifiers",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".rules",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".presetMapper",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    },
+    {
+      "path": ".fearThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".aggressiveThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".isAggressive",
+      "type": "Bool"
+    }
+  ]
+}

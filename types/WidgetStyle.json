@@ -1,0 +1,9 @@
+﻿{
+  "name": "WidgetStyle",
+  "properties": [
+    {
+      "path": ".enumName",
+      "type": "String"
+    }
+  ]
+}

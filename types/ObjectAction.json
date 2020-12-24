@@ -1,0 +1,82 @@
+﻿{
+  "name": "ObjectAction",
+  "properties": [
+    {
+      "path": ".cooldown",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".objectActionType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".objectActionUI",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".gameplayCategory",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".hackCategory",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".targetPrereqs",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".costs",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".instigatorActivePrereqs",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".startEffects",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".activationTime",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".targetActivePrereqs",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".instigatorPrereqs",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".rewards",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".completionEffects",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".actionName",
+      "type": "Name"
+    },
+    {
+      "path": ".interactionLayer",
+      "type": "Name"
+    },
+    {
+      "path": ".priority",
+      "type": "Float"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿{
+  "name": "AIActionLookAtData",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".activationCondition",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".preset",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".offset",
+      "type": "Vector3"
+    },
+    {
+      "path": ".timeDelay",
+      "type": "Float"
+    }
+  ]
+}

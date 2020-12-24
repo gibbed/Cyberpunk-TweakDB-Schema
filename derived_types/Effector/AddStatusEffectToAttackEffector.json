@@ -1,0 +1,22 @@
+﻿{
+  "name": "AddStatusEffectToAttackEffector",
+  "base": "Effector",
+  "properties": [
+    {
+      "path": ".statusEffect",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".stacks",
+      "type": "Float"
+    },
+    {
+      "path": ".applicationChance",
+      "type": "Float"
+    },
+    {
+      "path": ".isRandom",
+      "type": "Bool"
+    }
+  ]
+}

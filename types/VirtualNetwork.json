@@ -1,0 +1,26 @@
+﻿{
+  "name": "VirtualNetwork",
+  "properties": [
+    {
+      "path": ".paths",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".segmentMarker",
+      "type": "Vector3"
+    },
+    {
+      "path": ".scale",
+      "type": "Float"
+    },
+    {
+      "path": ".offsetMultiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".minDistanceToOther",
+      "type": "Float"
+    }
+  ]
+}

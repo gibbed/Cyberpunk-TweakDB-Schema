@@ -1,0 +1,13 @@
+﻿{
+  "name": "VisionGroup",
+  "properties": [
+    {
+      "path": ".groupName",
+      "type": "Name"
+    },
+    {
+      "path": ".range",
+      "type": "Float"
+    }
+  ]
+}

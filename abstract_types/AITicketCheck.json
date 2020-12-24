@@ -1,0 +1,11 @@
+﻿{
+  "name": "AITicketCheck",
+  "base": "AITicketCondition",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".optionalFastExit",
+      "type": "Bool"
+    },
+  ]
+}

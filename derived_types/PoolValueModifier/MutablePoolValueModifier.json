@@ -1,0 +1,34 @@
+﻿{
+  "name": "MutablePoolValueModifier",
+  "base": "PoolValueModifier",
+  "properties": [
+    {
+      "path": ".enabledMod",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".delayOnChangeMod",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".startDelayMods",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".rangeEndMods",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".rangeBeginMods",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".valuePerSecMods",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

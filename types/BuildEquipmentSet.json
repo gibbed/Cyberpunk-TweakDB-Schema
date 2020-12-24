@@ -1,0 +1,10 @@
+﻿{
+  "name": "BuildEquipmentSet",
+  "properties": [
+    {
+      "path": ".equipment",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

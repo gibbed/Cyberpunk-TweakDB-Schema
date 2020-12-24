@@ -1,0 +1,65 @@
+﻿{
+  "name": "VehicleWeapon",
+  "properties": [
+    {
+      "path": ".slot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".item",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".weaponShootAnimEvent",
+      "type": "Name"
+    },
+    {
+      "path": ".minYaw",
+      "type": "Float"
+    },
+    {
+      "path": ".maxYaw",
+      "type": "Float"
+    },
+    {
+      "path": ".maxPitch",
+      "type": "Float"
+    },
+    {
+      "path": ".cycleTime",
+      "type": "Float"
+    },
+    {
+      "path": ".attackRange",
+      "type": "Float"
+    },
+    {
+      "path": ".singleShotProjectiles",
+      "type": "Int"
+    },
+    {
+      "path": ".singleProjectileCycleTime",
+      "type": "Float"
+    },
+    {
+      "path": ".wholeBurstProjectiles",
+      "type": "Int"
+    },
+    {
+      "path": ".minPitch",
+      "type": "Float"
+    },
+    {
+      "path": ".genericTick",
+      "type": "Bool"
+    },
+    {
+      "path": ".genericShoot",
+      "type": "Bool"
+    },
+    {
+      "path": ".canFiendlyFire",
+      "type": "Bool"
+    }
+  ]
+}

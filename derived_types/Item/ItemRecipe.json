@@ -1,0 +1,15 @@
+﻿{
+  "name": "ItemRecipe",
+  "base": "Item",
+  "properties": [
+    {
+      "path": ".craftingResult",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".hideOnItemsAdded",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

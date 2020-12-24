@@ -1,0 +1,14 @@
+﻿{
+  "name": "AIWeakSpotCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".weakspot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".includeDestroyed",
+      "type": "Bool"
+    }
+  ]
+}

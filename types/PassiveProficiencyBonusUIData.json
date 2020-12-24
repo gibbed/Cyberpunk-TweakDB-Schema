@@ -1,0 +1,28 @@
+﻿{
+  "name": "PassiveProficiencyBonusUIData",
+  "properties": [
+    {
+      "path": ".intValues",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".floatValues",
+      "type": "Float",
+      "array": true
+    },
+    {
+      "path": ".stats",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".loc_name_key",
+      "type": "LocKey"
+    },
+    {
+      "path": ".loc_desc_key",
+      "type": "LocKey"
+    }
+  ]
+}

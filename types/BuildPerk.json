@@ -1,0 +1,17 @@
+﻿{
+  "name": "BuildPerk",
+  "properties": [
+    {
+      "path": ".perk",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".level",
+      "type": "Int"
+    },
+    {
+      "path": ".isActive",
+      "type": "Bool"
+    }
+  ]
+}

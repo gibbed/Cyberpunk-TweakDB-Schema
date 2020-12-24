@@ -1,0 +1,27 @@
+﻿{
+  "name": "SubCharacter",
+  "base": "Character",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".startingEquippedItems",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".referenceName",
+      "type": "Name"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    },
+    {
+      "path": ".isPrevention",
+      "type": "Bool"
+    }
+  ]
+}

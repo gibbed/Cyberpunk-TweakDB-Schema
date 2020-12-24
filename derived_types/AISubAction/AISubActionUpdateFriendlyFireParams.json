@@ -1,0 +1,10 @@
+﻿{
+  "name": "AISubActionUpdateFriendlyFireParams",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".updateOnDeactivate",
+      "type": "Bool"
+    }
+  ]
+}

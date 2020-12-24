@@ -1,0 +1,5 @@
+﻿{
+  "name": "AISquadContainsSelfCheck",
+  "base": "AITicketCheck",
+  "properties": []
+}

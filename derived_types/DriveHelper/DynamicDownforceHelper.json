@@ -1,0 +1,22 @@
+﻿{
+  "name": "DynamicDownforceHelper",
+  "base": "DriveHelper",
+  "properties": [
+    {
+      "path": ".maxSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".maxSpeedFactorGround",
+      "type": "Float"
+    },
+    {
+      "path": ".minSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".maxSpeedFactorAir",
+      "type": "Float"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+﻿{
+  "name": "AIItemCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".itemCategory",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".itemType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".itemID",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".evolution",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".triggerModes",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".itemTag",
+      "type": "Name"
+    },
+    {
+      "path": ".equipmentGroup",
+      "type": "Name"
+    },
+    {
+      "path": ".checkAllItemsInEquipmentGroup",
+      "type": "Bool"
+    }
+  ]
+}

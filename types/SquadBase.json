@@ -1,0 +1,41 @@
+﻿{
+  "name": "SquadBase",
+  "properties": [
+    {
+      "path": ".defensiveLeftFence",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".defensiveBackyard",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".offensiveBackyard",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".defensiveRightFence",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".offensiveRightFence",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".offensiveLeftFence",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".scriptHandler",
+      "type": "Name"
+    },
+    {
+      "path": ".squadParams",
+      "type": "Name"
+    },
+    {
+      "path": ".hasActiveAlley",
+      "type": "Bool"
+    }
+  ]
+}

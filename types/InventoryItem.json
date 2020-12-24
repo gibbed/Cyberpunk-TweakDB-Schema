@@ -1,0 +1,25 @@
+﻿{
+  "name": "InventoryItem",
+  "properties": [
+    {
+      "path": ".equipSlot_DEPRECATED",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".item",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".activeForSlot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".quantity",
+      "type": "Int"
+    },
+    {
+      "path": ".chanceInCrowd",
+      "type": "Float"
+    }
+  ]
+}

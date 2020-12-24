@@ -1,0 +1,41 @@
+﻿{
+  "name": "SmartGunTargetSortData",
+  "properties": [
+    {
+      "path": ".angleDistUnitSq",
+      "type": "Float"
+    },
+    {
+      "path": ".worldProximityThresholdSq",
+      "type": "Float"
+    },
+    {
+      "path": ".angleDistUnitWeightSq",
+      "type": "Float"
+    },
+    {
+      "path": ".worldProximityBonusSq",
+      "type": "Float"
+    },
+    {
+      "path": ".angleProximityThresholdSq",
+      "type": "Float"
+    },
+    {
+      "path": ".angleProximityBonusSq",
+      "type": "Float"
+    },
+    {
+      "path": ".worldDistUnitSq",
+      "type": "Float"
+    },
+    {
+      "path": ".worldDistUnitWeightSq",
+      "type": "Float"
+    },
+    {
+      "path": ".previouslyLockedBonusSq",
+      "type": "Float"
+    }
+  ]
+}

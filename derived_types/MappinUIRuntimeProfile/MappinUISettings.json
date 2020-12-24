@@ -1,0 +1,14 @@
+﻿{
+  "name": "MappinUISettings",
+  "base": "MappinUIRuntimeProfile",
+  "properties": [
+    {
+      "path": ".completedPOIOpacity",
+      "type": "Float"
+    },
+    {
+      "path": ".showInTier3",
+      "type": "Bool"
+    }
+  ]
+}

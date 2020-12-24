@@ -1,0 +1,10 @@
+﻿{
+  "name": "StatPoolCost",
+  "base": "ObjectActionCost",
+  "properties": [
+    {
+      "path": ".statPool",
+      "type": "ForeignKey"
+    }
+  ]
+}

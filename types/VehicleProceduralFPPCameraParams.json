@@ -1,0 +1,109 @@
+﻿{
+  "name": "VehicleProceduralFPPCameraParams",
+  "properties": [
+    {
+      "path": ".impactThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".displacementThresholdForward",
+      "type": "Float"
+    },
+    {
+      "path": ".maxDisplacementDown",
+      "type": "Float"
+    },
+    {
+      "path": ".forwardDampFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".maxAccelerationTiltAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".steeringAngleRight",
+      "type": "Float"
+    },
+    {
+      "path": ".maxDisplacementUp",
+      "type": "Float"
+    },
+    {
+      "path": ".directionFollowMaxVelocity",
+      "type": "Float"
+    },
+    {
+      "path": ".maxDisplacementRight",
+      "type": "Float"
+    },
+    {
+      "path": ".maxDisplacementLeft",
+      "type": "Float"
+    },
+    {
+      "path": ".heightDampFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".maxDisplacementBackward",
+      "type": "Float"
+    },
+    {
+      "path": ".impactDamperDampFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".maxSlowdownTiltAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".steeringDampFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".sideDampFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".steeringAngleLeft",
+      "type": "Float"
+    },
+    {
+      "path": ".smoothSpeedDampFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".maxDisplacementForward",
+      "type": "Float"
+    },
+    {
+      "path": ".impactBlendSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".impactStrengthCoef",
+      "type": "Float"
+    },
+    {
+      "path": ".maxRollCorrection",
+      "type": "Float"
+    },
+    {
+      "path": ".maxPitchCorrectionUP",
+      "type": "Float"
+    },
+    {
+      "path": ".maxPitchCorrectionDown",
+      "type": "Float"
+    },
+    {
+      "path": ".rollCorrectionDampFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".pitchCorrectionDampFactor",
+      "type": "Float"
+    }
+  ]
+}

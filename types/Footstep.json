@@ -1,0 +1,17 @@
+﻿{
+  "name": "Footstep",
+  "properties": [
+    {
+      "path": ".footstepEntityLeft",
+      "type": "Name"
+    },
+    {
+      "path": ".footstepEntityRight",
+      "type": "Name"
+    },
+    {
+      "path": ".timeToFade",
+      "type": "Float"
+    }
+  ]
+}

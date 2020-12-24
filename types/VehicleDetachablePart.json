@@ -1,0 +1,27 @@
+﻿{
+  "name": "VehicleDetachablePart",
+  "properties": [
+    {
+      "path": ".components",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".gridCells",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".name",
+      "type": "Name"
+    },
+    {
+      "path": ".threshold",
+      "type": "Float"
+    },
+    {
+      "path": ".spawnsExplosionEffect",
+      "type": "Bool"
+    }
+  ]
+}

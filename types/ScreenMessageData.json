@@ -1,0 +1,83 @@
+﻿{
+  "name": "ScreenMessageData",
+  "properties": [
+    {
+      "path": ".friendlyName",
+      "type": "String"
+    },
+    {
+      "path": ".fontPath",
+      "type": "String"
+    },
+    {
+      "path": ".backgroundTextureID",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".messageGroup",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".textColor",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".backgroundColor",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".textVerticalAlignment",
+      "type": "Name"
+    },
+    {
+      "path": ".fontStyle",
+      "type": "Name"
+    },
+    {
+      "path": ".localizedDescription",
+      "type": "LocKey"
+    },
+    {
+      "path": ".textHorizontalAlignment",
+      "type": "Name"
+    },
+    {
+      "path": ".localizedName",
+      "type": "LocKey"
+    },
+    {
+      "path": ".rightMargin",
+      "type": "Float"
+    },
+    {
+      "path": ".leftMargin",
+      "type": "Float"
+    },
+    {
+      "path": ".bottomMargin",
+      "type": "Float"
+    },
+    {
+      "path": ".fontSize",
+      "type": "Int"
+    },
+    {
+      "path": ".topMargin",
+      "type": "Float"
+    },
+    {
+      "path": ".backgroundOpacity",
+      "type": "Float"
+    },
+    {
+      "path": ".scrollSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".autoScroll",
+      "type": "Bool"
+    }
+  ]
+}

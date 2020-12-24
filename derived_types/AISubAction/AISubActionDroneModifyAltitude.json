@@ -1,0 +1,14 @@
+﻿{
+  "name": "AISubActionDroneModifyAltitude",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".altitudeOffset",
+      "type": "Float"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "name": "UIElement",
+  "properties": [
+    {
+      "path": ".customConditions",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

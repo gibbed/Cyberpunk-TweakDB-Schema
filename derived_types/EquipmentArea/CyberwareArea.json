@@ -1,0 +1,11 @@
+﻿{
+  "name": "CyberwareArea",
+  "base": "EquipmentArea",
+  "properties": [
+    {
+      "path": ".statModifierGroups",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

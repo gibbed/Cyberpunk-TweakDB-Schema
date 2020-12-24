@@ -1,0 +1,21 @@
+﻿{
+  "name": "Rule",
+  "properties": [
+    {
+      "path": ".stimulus",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".output",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".workspotOutput",
+      "type": "Name"
+    },
+    {
+      "path": ".cooldown",
+      "type": "Float"
+    }
+  ]
+}

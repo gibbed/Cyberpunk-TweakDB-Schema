@@ -1,0 +1,34 @@
+﻿{
+  "name": "GrenadeDeliveryMethod",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".type",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".bounciness",
+      "type": "Float"
+    },
+    {
+      "path": ".detonationTimer",
+      "type": "Float"
+    },
+    {
+      "path": ".trackingRadius",
+      "type": "Float"
+    },
+    {
+      "path": ".initialVelocity",
+      "type": "Float"
+    },
+    {
+      "path": ".initialQuickThrowVelocity",
+      "type": "Float"
+    },
+    {
+      "path": ".accelerationZ",
+      "type": "Float"
+    }
+  ]
+}

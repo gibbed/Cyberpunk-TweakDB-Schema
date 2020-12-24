@@ -1,0 +1,22 @@
+﻿{
+  "name": "SpreadInitEffector",
+  "base": "Effector",
+  "properties": [
+    {
+      "path": ".objectAction",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".bonusJumps",
+      "type": "Int"
+    },
+    {
+      "path": ".spreadCount",
+      "type": "Int"
+    },
+    {
+      "path": ".spreadDistance",
+      "type": "Int"
+    }
+  ]
+}

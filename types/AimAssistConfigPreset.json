@@ -1,0 +1,29 @@
+﻿{
+  "name": "AimAssistConfigPreset",
+  "properties": [
+    {
+      "path": ".magnetismParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".bulletMagnetismParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".aimSnapParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".commonParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".finishingParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".meleeParams",
+      "type": "ForeignKey"
+    }
+  ]
+}

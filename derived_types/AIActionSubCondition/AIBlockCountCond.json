@@ -1,0 +1,30 @@
+﻿{
+  "name": "AIBlockCountCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".ownerAttackParriedCount",
+      "type": "Int"
+    },
+    {
+      "path": ".maxParryCount",
+      "type": "Int"
+    },
+    {
+      "path": ".maxBlockCount",
+      "type": "Int"
+    },
+    {
+      "path": ".ownerAttackBlockedCount",
+      "type": "Int"
+    },
+    {
+      "path": ".minParryCount",
+      "type": "Int"
+    },
+    {
+      "path": ".minBlockCount",
+      "type": "Int"
+    }
+  ]
+}

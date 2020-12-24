@@ -1,0 +1,9 @@
+﻿{
+  "name": "AIDirectorEntryStartType",
+  "properties": [
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

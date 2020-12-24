@@ -1,0 +1,45 @@
+﻿{
+  "name": "VehicleVisualDestruction",
+  "properties": [
+    {
+      "path": ".left",
+      "type": "Float"
+    },
+    {
+      "path": ".backRight",
+      "type": "Float"
+    },
+    {
+      "path": ".frontLeft",
+      "type": "Float"
+    },
+    {
+      "path": ".backLeft",
+      "type": "Float"
+    },
+    {
+      "path": ".front",
+      "type": "Float"
+    },
+    {
+      "path": ".right",
+      "type": "Float"
+    },
+    {
+      "path": ".back",
+      "type": "Float"
+    },
+    {
+      "path": ".frontRight",
+      "type": "Float"
+    },
+    {
+      "path": ".roof",
+      "type": "Float"
+    },
+    {
+      "path": ".setVisualDestruction",
+      "type": "Bool"
+    }
+  ]
+}

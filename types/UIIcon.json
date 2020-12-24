@@ -1,0 +1,13 @@
+﻿{
+  "name": "UIIcon",
+  "properties": [
+    {
+      "path": ".atlasResourcePath",
+      "type": "ResRef"
+    },
+    {
+      "path": ".atlasPartName",
+      "type": "Name"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿{
+  "name": "AISubActionMountVehicle",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".vehicle",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".slot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".mountInstantly",
+      "type": "Bool"
+    }
+  ]
+}

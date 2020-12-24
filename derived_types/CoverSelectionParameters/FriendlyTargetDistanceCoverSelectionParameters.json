@@ -1,0 +1,30 @@
+﻿{
+  "name": "FriendlyTargetDistanceCoverSelectionParameters",
+  "base": "CoverSelectionParameters",
+  "properties": [
+    {
+      "path": ".spatialHintMults",
+      "type": "Vector3"
+    },
+    {
+      "path": ".friendlyTargetPreferredDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".friendlyTargetMaxDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".friendlyTargetZLimit",
+      "type": "Float"
+    },
+    {
+      "path": ".friendlyTargetMinDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".distanceToFriendlyTargetMultiplier",
+      "type": "Float"
+    }
+  ]
+}

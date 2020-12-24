@@ -1,0 +1,18 @@
+﻿{
+  "name": "AISubActionTriggerItemActivation",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".attachmentSlot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".instigator",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    }
+  ]
+}

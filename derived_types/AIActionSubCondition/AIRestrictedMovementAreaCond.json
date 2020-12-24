@@ -1,0 +1,10 @@
+﻿{
+  "name": "AIRestrictedMovementAreaCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    }
+  ]
+}

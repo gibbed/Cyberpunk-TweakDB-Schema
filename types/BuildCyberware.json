@@ -1,0 +1,9 @@
+﻿{
+  "name": "BuildCyberware",
+  "properties": [
+    {
+      "path": ".cyberware",
+      "type": "ForeignKey"
+    }
+  ]
+}

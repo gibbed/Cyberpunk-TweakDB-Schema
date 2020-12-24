@@ -1,0 +1,26 @@
+﻿{
+  "name": "AIThrowCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".weaponSlot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".predictionTime",
+      "type": "Float"
+    },
+    {
+      "path": ".throwAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".clearLOSDistanceTolerance",
+      "type": "Float"
+    }
+  ]
+}

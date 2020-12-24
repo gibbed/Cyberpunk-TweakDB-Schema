@@ -1,0 +1,25 @@
+﻿{
+  "name": "EquipmentArea",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".localizedName",
+      "type": "String"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    },
+    {
+      "path": ".numberOfEquipSlots",
+      "type": "Int"
+    },
+    {
+      "path": ".locked",
+      "type": "Bool"
+    }
+  ]
+}

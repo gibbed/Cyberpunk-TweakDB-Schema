@@ -1,0 +1,13 @@
+﻿{
+  "name": "Curve",
+  "properties": [
+    {
+      "path": ".curveSetName",
+      "type": "Name"
+    },
+    {
+      "path": ".curveName",
+      "type": "Name"
+    }
+  ]
+}

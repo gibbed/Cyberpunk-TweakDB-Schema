@@ -1,0 +1,18 @@
+﻿{
+  "name": "GenericStreetNameSign",
+  "base": "BaseSign",
+  "properties": [
+    {
+      "path": ".districtName",
+      "type": "String"
+    },
+    {
+      "path": ".subDistrictName",
+      "type": "String"
+    },
+    {
+      "path": ".streetName",
+      "type": "String"
+    }
+  ]
+}

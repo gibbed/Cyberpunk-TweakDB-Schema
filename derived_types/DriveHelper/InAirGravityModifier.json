@@ -1,0 +1,34 @@
+﻿{
+  "name": "InAirGravityModifier",
+  "base": "DriveHelper",
+  "properties": [
+    {
+      "path": ".smoothingFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".baseAddedGravity",
+      "type": "Float"
+    },
+    {
+      "path": ".minDriveSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".maxDriveSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".driveSpeedAddedGravity",
+      "type": "Float"
+    },
+    {
+      "path": ".zVelReductionStart",
+      "type": "Float"
+    },
+    {
+      "path": ".zVelReductionEnd",
+      "type": "Float"
+    }
+  ]
+}

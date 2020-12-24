@@ -1,0 +1,13 @@
+﻿{
+  "name": "MinigameActionType",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

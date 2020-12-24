@@ -1,0 +1,10 @@
+﻿{
+  "name": "VehicleFxWheelsDecalsMaterialSmear",
+  "base": "VehicleFxWheelsDecalsMaterial",
+  "properties": [
+    {
+      "path": ".distance",
+      "type": "Float"
+    }
+  ]
+}

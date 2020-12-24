@@ -1,0 +1,21 @@
+﻿{
+  "name": "GOGReward",
+  "properties": [
+    {
+      "path": ".displayName",
+      "type": "LocKey"
+    },
+    {
+      "path": ".description",
+      "type": "LocKey"
+    },
+    {
+      "path": ".iconsAtlasSlot",
+      "type": "Name"
+    },
+    {
+      "path": ".rewardToken",
+      "type": "Int"
+    }
+  ]
+}

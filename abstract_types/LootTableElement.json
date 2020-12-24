@@ -1,0 +1,27 @@
+﻿{
+  "name": "LootTableElement",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".prereqID",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".statModifiers",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".dropChance",
+      "type": "Float"
+    },
+    {
+      "path": ".dropCountMin",
+      "type": "Int"
+    },
+    {
+      "path": ".dropCountMax",
+      "type": "Int"
+    },
+  ]
+}

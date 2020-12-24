@@ -1,0 +1,18 @@
+﻿{
+  "name": "UncontrolledMovementEffector",
+  "base": "Effector",
+  "properties": [
+    {
+      "path": ".debugSourceName",
+      "type": "Name"
+    },
+    {
+      "path": ".ragdollNoGroundThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".ragdollOnCollision",
+      "type": "Bool"
+    }
+  ]
+}

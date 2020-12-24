@@ -1,0 +1,22 @@
+﻿{
+  "name": "AIAmmoCountCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".weaponSlot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".percentage",
+      "type": "Vector2"
+    },
+    {
+      "path": ".max",
+      "type": "Int"
+    },
+    {
+      "path": ".min",
+      "type": "Int"
+    }
+  ]
+}

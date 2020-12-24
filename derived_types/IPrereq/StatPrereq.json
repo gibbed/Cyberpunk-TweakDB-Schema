@@ -1,0 +1,18 @@
+﻿{
+  "name": "StatPrereq",
+  "base": "IPrereq",
+  "properties": [
+    {
+      "path": ".statType",
+      "type": "Name"
+    },
+    {
+      "path": ".comparisonType",
+      "type": "Name"
+    },
+    {
+      "path": ".valueToCheck",
+      "type": "Float"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "name": "VendorItem",
+  "base": "VendorWare",
+  "properties": [
+    {
+      "path": ".item",
+      "type": "ForeignKey"
+    }
+  ]
+}

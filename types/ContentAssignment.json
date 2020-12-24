@@ -1,0 +1,13 @@
+﻿{
+  "name": "ContentAssignment",
+  "properties": [
+    {
+      "path": ".powerLevelMod",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".questType",
+      "type": "ForeignKey"
+    }
+  ]
+}

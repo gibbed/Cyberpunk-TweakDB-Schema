@@ -1,0 +1,13 @@
+﻿{
+  "name": "PresetMapper",
+  "properties": [
+    {
+      "path": ".mappingName",
+      "type": "String"
+    },
+    {
+      "path": ".preset",
+      "type": "ForeignKey"
+    }
+  ]
+}

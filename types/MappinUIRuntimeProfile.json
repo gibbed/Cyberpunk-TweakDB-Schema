@@ -1,0 +1,106 @@
+﻿{
+  "name": "MappinUIRuntimeProfile",
+  "properties": [
+    {
+      "path": ".scaleDistanceScanningParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".clampingParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".opacityDistanceParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".scaleDistanceParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".opacityAngleParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".opacityCustomParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".visibleInTier",
+      "type": "Bool",
+      "array": true
+    },
+    {
+      "path": ".worldOffset",
+      "type": "Vector3"
+    },
+    {
+      "path": ".clampEllipseSize",
+      "type": "Vector2"
+    },
+    {
+      "path": ".clampRectMargin",
+      "type": "Vector2"
+    },
+    {
+      "path": ".screenOffset",
+      "type": "Vector2"
+    },
+    {
+      "path": ".priority",
+      "type": "Int"
+    },
+    {
+      "path": ".showDistanceMinRange",
+      "type": "Float"
+    },
+    {
+      "path": ".showNameMinRange",
+      "type": "Float"
+    },
+    {
+      "path": ".hoverRadius",
+      "type": "Float"
+    },
+    {
+      "path": ".showDistance",
+      "type": "Bool"
+    },
+    {
+      "path": ".dynamicClamping",
+      "type": "Bool"
+    },
+    {
+      "path": ".clampY",
+      "type": "Bool"
+    },
+    {
+      "path": ".visibleInScanning",
+      "type": "Bool"
+    },
+    {
+      "path": ".clampX",
+      "type": "Bool"
+    },
+    {
+      "path": ".visibleInBraindance",
+      "type": "Bool"
+    },
+    {
+      "path": ".scaleByDistance",
+      "type": "Bool"
+    },
+    {
+      "path": ".keepNameplate",
+      "type": "Bool"
+    },
+    {
+      "path": ".useQuestProperties",
+      "type": "Bool"
+    },
+    {
+      "path": ".showTrackedIcon",
+      "type": "Bool"
+    }
+  ]
+}

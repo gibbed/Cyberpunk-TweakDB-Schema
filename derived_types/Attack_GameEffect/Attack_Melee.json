@@ -1,0 +1,23 @@
+﻿{
+  "name": "Attack_Melee",
+  "base": "Attack_GameEffect",
+  "properties": [
+    {
+      "path": ".attackSubtype",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".attackDirection",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".staminaCost",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".blockCostFactor",
+      "type": "Float"
+    }
+  ]
+}

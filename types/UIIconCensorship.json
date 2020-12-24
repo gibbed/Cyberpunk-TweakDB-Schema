@@ -1,0 +1,18 @@
+﻿{
+  "name": "UIIconCensorship",
+  "properties": [
+    {
+      "path": ".censoredIcon",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".replacer",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".censorFlags",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

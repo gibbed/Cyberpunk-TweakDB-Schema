@@ -1,0 +1,42 @@
+﻿{
+  "name": "WorldMapZoomLevel",
+  "properties": [
+    {
+      "path": ".mappinFilterGroups",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".rotation",
+      "type": "EulerAngles"
+    },
+    {
+      "path": ".fov",
+      "type": "Float"
+    },
+    {
+      "path": ".zoom",
+      "type": "Float"
+    },
+    {
+      "path": ".iconScale",
+      "type": "Float"
+    },
+    {
+      "path": ".panSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".showDistricts",
+      "type": "Bool"
+    },
+    {
+      "path": ".showSubDistricts",
+      "type": "Bool"
+    },
+    {
+      "path": ".canChangeFilters",
+      "type": "Bool"
+    }
+  ]
+}

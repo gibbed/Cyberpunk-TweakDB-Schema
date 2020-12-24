@@ -1,0 +1,10 @@
+﻿{
+  "name": "DriveHelper",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".type",
+      "type": "ForeignKey"
+    },
+  ]
+}

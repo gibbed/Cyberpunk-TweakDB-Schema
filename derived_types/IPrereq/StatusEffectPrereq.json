@@ -1,0 +1,14 @@
+﻿{
+  "name": "StatusEffectPrereq",
+  "base": "IPrereq",
+  "properties": [
+    {
+      "path": ".statusEffect",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".invert",
+      "type": "Bool"
+    }
+  ]
+}

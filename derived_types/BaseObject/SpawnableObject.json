@@ -1,0 +1,37 @@
+﻿{
+  "name": "SpawnableObject",
+  "base": "BaseObject",
+  "properties": [
+    {
+      "path": ".priority",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".tags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".visualTags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".multiplayerTemplatePaths",
+      "type": "ResRef",
+      "array": true
+    },
+    {
+      "path": ".appearanceName",
+      "type": "Name"
+    },
+    {
+      "path": ".persistentName",
+      "type": "Name"
+    },
+    {
+      "path": ".entityTemplatePath",
+      "type": "ResRef"
+    }
+  ]
+}

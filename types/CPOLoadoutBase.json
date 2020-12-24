@@ -1,0 +1,14 @@
+﻿{
+  "name": "CPOLoadoutBase",
+  "properties": [
+    {
+      "path": ".displayName",
+      "type": "String"
+    },
+    {
+      "path": ".items",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

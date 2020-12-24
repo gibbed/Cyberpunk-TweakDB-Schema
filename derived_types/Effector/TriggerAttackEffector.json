@@ -1,0 +1,10 @@
+﻿{
+  "name": "TriggerAttackEffector",
+  "base": "Effector",
+  "properties": [
+    {
+      "path": ".attackRecord",
+      "type": "ForeignKey"
+    }
+  ]
+}

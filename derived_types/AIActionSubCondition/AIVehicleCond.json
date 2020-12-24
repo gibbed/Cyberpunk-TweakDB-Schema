@@ -1,0 +1,32 @@
+﻿{
+  "name": "AIVehicleCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".vehicle",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".hasTags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".freeSlots",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".activePassangers",
+      "type": "Vector2"
+    },
+    {
+      "path": ".currentSpeed",
+      "type": "Vector2"
+    },
+    {
+      "path": ".driverCheck",
+      "type": "Int"
+    }
+  ]
+}

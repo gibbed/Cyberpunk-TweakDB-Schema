@@ -1,0 +1,17 @@
+﻿{
+  "name": "VehicleImpactTraffic",
+  "properties": [
+    {
+      "path": ".minThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".maxThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".maxTimerStunned",
+      "type": "Float"
+    }
+  ]
+}

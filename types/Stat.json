@@ -1,0 +1,47 @@
+﻿{
+  "name": "Stat",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".localizedDescription",
+      "type": "String"
+    },
+    {
+      "path": ".localizedName",
+      "type": "String"
+    },
+    {
+      "path": ".enumName",
+      "type": "String"
+    },
+    {
+      "path": ".localizedStatDisplay",
+      "type": "String"
+    },
+    {
+      "path": ".improvementRelation",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".flags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".substats",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".min",
+      "type": "Float"
+    },
+    {
+      "path": ".max",
+      "type": "Float"
+    }
+  ]
+}

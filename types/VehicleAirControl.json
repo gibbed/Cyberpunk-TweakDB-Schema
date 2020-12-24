@@ -1,0 +1,36 @@
+﻿{
+  "name": "VehicleAirControl",
+  "properties": [
+    {
+      "path": ".yaw",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".pitch",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".roll",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".anglePID",
+      "type": "Float",
+      "array": true
+    },
+    {
+      "path": ".velocityPID",
+      "type": "Float",
+      "array": true
+    },
+    {
+      "path": ".flippedOverRecoveryPID",
+      "type": "Float",
+      "array": true
+    },
+    {
+      "path": ".massReference",
+      "type": "Float"
+    }
+  ]
+}

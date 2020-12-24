@@ -1,0 +1,58 @@
+﻿{
+  "name": "AISubActionGeneratePointOfInterestTarget",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".closestThreatDurationRange",
+      "type": "Vector2"
+    },
+    {
+      "path": ".squadMateDurationRange",
+      "type": "Vector2"
+    },
+    {
+      "path": ".randomPointDurationRange",
+      "type": "Vector2"
+    },
+    {
+      "path": ".friendlyTargetDurationRange",
+      "type": "Vector2"
+    },
+    {
+      "path": ".randomPointZRotationAngleRange",
+      "type": "Vector2"
+    },
+    {
+      "path": ".randomPointYRotationAngleRange",
+      "type": "Vector2"
+    },
+    {
+      "path": ".squadMateWatchingMaxAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".choosingRandomPointChanceWeight",
+      "type": "Float"
+    },
+    {
+      "path": ".choosingFriendlyTargetChanceWeight",
+      "type": "Float"
+    },
+    {
+      "path": ".choosingClosestThreatChanceWeight",
+      "type": "Float"
+    },
+    {
+      "path": ".choosingSquadMateChanceWeight",
+      "type": "Float"
+    },
+    {
+      "path": ".friendlyTargetWatchingMaxAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".closestThreatWatchingMaxAngle",
+      "type": "Float"
+    }
+  ]
+}

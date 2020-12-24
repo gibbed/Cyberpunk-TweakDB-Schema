@@ -1,0 +1,13 @@
+﻿{
+  "name": "AIDirectorSchedulePlan",
+  "properties": [
+    {
+      "path": ".spawningDesc",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".MinTensionToPerform",
+      "type": "Float"
+    }
+  ]
+}

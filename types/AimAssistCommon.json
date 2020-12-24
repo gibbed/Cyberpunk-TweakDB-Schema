@@ -1,0 +1,81 @@
+﻿{
+  "name": "AimAssistCommon",
+  "properties": [
+    {
+      "path": ".aimAssistType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".firstPassAngleRange",
+      "type": "EulerAngles"
+    },
+    {
+      "path": ".softLockBrakeAngle",
+      "type": "EulerAngles"
+    },
+    {
+      "path": ".angleDistUnit",
+      "type": "Float"
+    },
+    {
+      "path": ".rotatingAwayFromPastTargetPenalty",
+      "type": "Float"
+    },
+    {
+      "path": ".angleProximityThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".angleProximityBonus",
+      "type": "Float"
+    },
+    {
+      "path": ".pastTargetWeight",
+      "type": "Float"
+    },
+    {
+      "path": ".angleDistUnitWeight",
+      "type": "Float"
+    },
+    {
+      "path": ".worldProximityThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".worldDistUnitWeight",
+      "type": "Float"
+    },
+    {
+      "path": ".worldProximityBonus",
+      "type": "Float"
+    },
+    {
+      "path": ".worldDistUnit",
+      "type": "Float"
+    },
+    {
+      "path": ".targetLostTimeOut",
+      "type": "Float"
+    },
+    {
+      "path": ".softLockTargetWeight",
+      "type": "Float"
+    },
+    {
+      "path": ".targetAcquisitionDelayTime",
+      "type": "Float"
+    },
+    {
+      "path": ".recentInputTime",
+      "type": "Float"
+    },
+    {
+      "path": ".isEnabledForMouse",
+      "type": "Bool"
+    },
+    {
+      "path": ".isEnabled",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿{
+  "name": "AISubActionThrowItem",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".attachmentSlot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".throwType",
+      "type": "Name"
+    },
+    {
+      "path": ".positionPredictionTime",
+      "type": "Float"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".throwAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".trajectoryGravity",
+      "type": "Float"
+    },
+    {
+      "path": ".dropItemOnInterruption",
+      "type": "Bool"
+    },
+    {
+      "path": ".checkThrowQuery",
+      "type": "Bool"
+    }
+  ]
+}

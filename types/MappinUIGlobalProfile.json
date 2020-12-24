@@ -1,0 +1,34 @@
+﻿{
+  "name": "MappinUIGlobalProfile",
+  "properties": [
+    {
+      "path": ".nameplateVisibleInTier",
+      "type": "Bool",
+      "array": true
+    },
+    {
+      "path": ".verticalRelationVisibleRangeMin",
+      "type": "Float"
+    },
+    {
+      "path": ".verticalRelationTolerance",
+      "type": "Float"
+    },
+    {
+      "path": ".verticalRelationVisibleRangeMax",
+      "type": "Float"
+    },
+    {
+      "path": ".gpsPortalIconScale",
+      "type": "Float"
+    },
+    {
+      "path": ".completedPOIOpacity",
+      "type": "Float"
+    },
+    {
+      "path": ".nameplateVisibleInBraindance",
+      "type": "Bool"
+    }
+  ]
+}

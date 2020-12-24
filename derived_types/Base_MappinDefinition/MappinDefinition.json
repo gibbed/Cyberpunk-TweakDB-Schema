@@ -1,0 +1,11 @@
+﻿{
+  "name": "MappinDefinition",
+  "base": "Base_MappinDefinition",
+  "properties": [
+    {
+      "path": ".possibleVariants",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

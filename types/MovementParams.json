@@ -1,0 +1,10 @@
+﻿{
+  "name": "MovementParams",
+  "properties": [
+    {
+      "path": ".params",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

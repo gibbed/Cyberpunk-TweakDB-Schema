@@ -1,0 +1,18 @@
+﻿{
+  "name": "AIExposureMethodType",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".priority",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

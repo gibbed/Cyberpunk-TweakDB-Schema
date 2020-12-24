@@ -1,0 +1,15 @@
+﻿{
+  "name": "NPCTypePrereq",
+  "base": "IPrereq",
+  "properties": [
+    {
+      "path": ".allowedTypes",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".invert",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿{
+  "name": "AISquadMembersAmountCheck",
+  "base": "AITicketCheck",
+  "properties": [
+    {
+      "path": ".maxAmount",
+      "type": "Int"
+    },
+    {
+      "path": ".minAmount",
+      "type": "Int"
+    },
+    {
+      "path": ".countSelf",
+      "type": "Bool"
+    }
+  ]
+}

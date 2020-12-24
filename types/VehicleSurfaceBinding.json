@@ -1,0 +1,13 @@
+﻿{
+  "name": "VehicleSurfaceBinding",
+  "properties": [
+    {
+      "path": ".surfaceType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".frictionPreset",
+      "type": "ForeignKey"
+    }
+  ]
+}

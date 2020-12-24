@@ -1,0 +1,30 @@
+﻿{
+  "name": "AISubActionApplyTimeDilation",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".easeIn",
+      "type": "Name"
+    },
+    {
+      "path": ".easeOut",
+      "type": "Name"
+    },
+    {
+      "path": ".type",
+      "type": "Name"
+    },
+    {
+      "path": ".duration",
+      "type": "Float"
+    },
+    {
+      "path": ".multiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".overrideMultiplerWhenPlayerInTimeDilation",
+      "type": "Float"
+    }
+  ]
+}

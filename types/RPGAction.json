@@ -1,0 +1,18 @@
+﻿{
+  "name": "RPGAction",
+  "properties": [
+    {
+      "path": ".reward",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".prereqs",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".actionName",
+      "type": "Name"
+    }
+  ]
+}

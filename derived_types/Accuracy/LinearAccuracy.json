@@ -1,0 +1,10 @@
+﻿{
+  "name": "LinearAccuracy",
+  "base": "Accuracy",
+  "properties": [
+    {
+      "path": ".duration",
+      "type": "Float"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿{
+  "name": "CompanionDistancePreset",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    },
+    {
+      "path": ".distance",
+      "type": "Float"
+    },
+    {
+      "path": ".tolerance",
+      "type": "Float"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "name": "BuildPerkSet",
+  "properties": [
+    {
+      "path": ".perks",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

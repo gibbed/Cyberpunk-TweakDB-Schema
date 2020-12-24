@@ -1,0 +1,17 @@
+﻿{
+  "name": "VehicleWheelRole",
+  "properties": [
+    {
+      "path": ".isDrive",
+      "type": "Bool"
+    },
+    {
+      "path": ".isMainBrake",
+      "type": "Bool"
+    },
+    {
+      "path": ".isHandBrake",
+      "type": "Bool"
+    }
+  ]
+}

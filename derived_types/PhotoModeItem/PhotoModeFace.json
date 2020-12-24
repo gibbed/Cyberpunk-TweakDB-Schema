@@ -1,0 +1,10 @@
+﻿{
+  "name": "PhotoModeFace",
+  "base": "PhotoModeItem",
+  "properties": [
+    {
+      "path": ".faceId",
+      "type": "Int"
+    }
+  ]
+}

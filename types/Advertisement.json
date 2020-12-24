@@ -1,0 +1,18 @@
+﻿{
+  "name": "Advertisement",
+  "properties": [
+    {
+      "path": ".definitions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".localizationKey",
+      "type": "Name"
+    },
+    {
+      "path": ".resource",
+      "type": "ResRef"
+    }
+  ]
+}

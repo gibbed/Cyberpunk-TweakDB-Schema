@@ -1,0 +1,13 @@
+﻿{
+  "name": "BuildAttribute",
+  "properties": [
+    {
+      "path": ".attribute",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".level",
+      "type": "Int"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿{
+  "name": "AISubActionSetInt",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "Name"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".value",
+      "type": "Int"
+    }
+  ]
+}

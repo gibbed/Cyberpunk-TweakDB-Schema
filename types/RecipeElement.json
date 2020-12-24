@@ -1,0 +1,13 @@
+﻿{
+  "name": "RecipeElement",
+  "properties": [
+    {
+      "path": ".ingredient",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".amount",
+      "type": "Int"
+    }
+  ]
+}

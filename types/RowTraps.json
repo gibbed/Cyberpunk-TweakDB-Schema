@@ -1,0 +1,10 @@
+﻿{
+  "name": "RowTraps",
+  "properties": [
+    {
+      "path": ".traps",
+      "type": "Int",
+      "array": true
+    }
+  ]
+}

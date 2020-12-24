@@ -1,0 +1,20 @@
+﻿{
+  "name": "AISquadParams",
+  "properties": [
+    {
+      "path": ".allTickets",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".overridenTickets",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".prohibitedTickets",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "name": "ReactionLimit",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "Name"
+    },
+    {
+      "path": ".limit",
+      "type": "Int"
+    }
+  ]
+}

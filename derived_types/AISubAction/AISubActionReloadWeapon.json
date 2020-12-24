@@ -1,0 +1,19 @@
+﻿{
+  "name": "AISubActionReloadWeapon",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".weaponSlot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".pauseCondition",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".duration",
+      "type": "Float"
+    }
+  ]
+}

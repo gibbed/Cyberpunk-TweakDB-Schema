@@ -1,0 +1,13 @@
+﻿{
+  "name": "CraftingResult",
+  "properties": [
+    {
+      "path": ".item",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".amount",
+      "type": "Int"
+    }
+  ]
+}

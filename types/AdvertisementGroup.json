@@ -1,0 +1,27 @@
+﻿{
+  "name": "AdvertisementGroup",
+  "properties": [
+    {
+      "path": ".includedGroups",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".advertisements",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".fallbackAtlasResource",
+      "type": "ResRef"
+    },
+    {
+      "path": ".lightTintColor",
+      "type": "Vector3"
+    },
+    {
+      "path": ".advertTintColor",
+      "type": "Vector3"
+    }
+  ]
+}

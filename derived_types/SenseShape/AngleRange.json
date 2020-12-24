@@ -1,0 +1,22 @@
+﻿{
+  "name": "AngleRange",
+  "base": "SenseShape",
+  "properties": [
+    {
+      "path": ".position",
+      "type": "Vector3"
+    },
+    {
+      "path": ".angle",
+      "type": "Float"
+    },
+    {
+      "path": ".range",
+      "type": "Float"
+    },
+    {
+      "path": ".halfHeight",
+      "type": "Float"
+    }
+  ]
+}

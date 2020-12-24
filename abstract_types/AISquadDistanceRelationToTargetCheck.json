@@ -1,0 +1,15 @@
+{
+  "name": "AISquadDistanceRelationToTargetCheck",
+  "base": "AITicketCheck",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".ringRadius",
+      "type": "Float"
+    }
+  ]
+}

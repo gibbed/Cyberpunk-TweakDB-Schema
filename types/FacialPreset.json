@@ -1,0 +1,21 @@
+﻿{
+  "name": "FacialPreset",
+  "properties": [
+    {
+      "path": ".profileName",
+      "type": "Name"
+    },
+    {
+      "path": ".upperFaceBlendAdditive",
+      "type": "Bool"
+    },
+    {
+      "path": ".lowerFaceBlendAdditive",
+      "type": "Bool"
+    },
+    {
+      "path": ".eyesBlendAdditive",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "name": "NewsFeedTitle",
+  "properties": [
+    {
+      "path": ".titlesList",
+      "type": "Name",
+      "array": true
+    }
+  ]
+}

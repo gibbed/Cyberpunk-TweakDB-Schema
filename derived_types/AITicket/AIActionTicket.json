@@ -1,0 +1,5 @@
+﻿{
+  "name": "AIActionTicket",
+  "base": "AITicket",
+  "properties": []
+}

@@ -1,0 +1,23 @@
+﻿{
+  "name": "AIActionSequence",
+  "base": "AINode",
+  "properties": [
+    {
+      "path": ".actions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".hasMemory",
+      "type": "Bool"
+    },
+    {
+      "path": ".disableActionsLimit",
+      "type": "Bool"
+    },
+    {
+      "path": ".failOnNodeActivationConditionFailure",
+      "type": "Bool"
+    }
+  ]
+}

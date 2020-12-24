@@ -1,0 +1,10 @@
+﻿{
+  "name": "BountyDrawTable",
+  "properties": [
+    {
+      "path": ".bountyChoices",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

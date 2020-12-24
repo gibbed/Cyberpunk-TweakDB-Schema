@@ -1,0 +1,10 @@
+﻿{
+  "name": "VendorProgressionBasedStock",
+  "properties": [
+    {
+      "path": ".items",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

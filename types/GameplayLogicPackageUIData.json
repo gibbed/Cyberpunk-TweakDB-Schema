@@ -1,0 +1,37 @@
+﻿{
+  "name": "GameplayLogicPackageUIData",
+  "properties": [
+    {
+      "path": ".localizedDescription",
+      "type": "String"
+    },
+    {
+      "path": ".localizedName",
+      "type": "String"
+    },
+    {
+      "path": ".floatValues",
+      "type": "Float",
+      "array": true
+    },
+    {
+      "path": ".intValues",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".nameValues",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".stats",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".iconPath",
+      "type": "Name"
+    }
+  ]
+}

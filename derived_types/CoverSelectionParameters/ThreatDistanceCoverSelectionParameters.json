@@ -1,0 +1,34 @@
+﻿{
+  "name": "ThreatDistanceCoverSelectionParameters",
+  "base": "CoverSelectionParameters",
+  "properties": [
+    {
+      "path": ".threatMaxDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".distanceToThreatMultiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".threatPreferredDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".threatMinDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".threatPredictionTime",
+      "type": "Float"
+    },
+    {
+      "path": ".useThreatMaxDistanceFiltering",
+      "type": "Bool"
+    },
+    {
+      "path": ".allowNegativeThreatMaxDistanceScoring",
+      "type": "Bool"
+    }
+  ]
+}

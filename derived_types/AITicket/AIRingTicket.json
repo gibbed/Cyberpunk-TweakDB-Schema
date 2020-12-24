@@ -1,0 +1,10 @@
+﻿{
+  "name": "AIRingTicket",
+  "base": "AITicket",
+  "properties": [
+    {
+      "path": ".ringType",
+      "type": "ForeignKey"
+    }
+  ]
+}

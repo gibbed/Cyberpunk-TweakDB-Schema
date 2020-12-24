@@ -1,0 +1,10 @@
+﻿{
+  "name": "NPCEquipmentGroup",
+  "properties": [
+    {
+      "path": ".equipmentItems",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

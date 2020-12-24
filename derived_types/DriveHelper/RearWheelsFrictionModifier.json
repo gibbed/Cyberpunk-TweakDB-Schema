@@ -1,0 +1,38 @@
+﻿{
+  "name": "RearWheelsFrictionModifier",
+  "base": "DriveHelper",
+  "properties": [
+    {
+      "path": ".minLongSlipRatio",
+      "type": "Float"
+    },
+    {
+      "path": ".minLongFrictionCoef",
+      "type": "Float"
+    },
+    {
+      "path": ".minLatSlipRatio",
+      "type": "Float"
+    },
+    {
+      "path": ".maxLatSlipRatio",
+      "type": "Float"
+    },
+    {
+      "path": ".maxLongSlipRatio",
+      "type": "Float"
+    },
+    {
+      "path": ".minLatFrictionCoef",
+      "type": "Float"
+    },
+    {
+      "path": ".maxSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".maxHelperAcceleration",
+      "type": "Float"
+    }
+  ]
+}

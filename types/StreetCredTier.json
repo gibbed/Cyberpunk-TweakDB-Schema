@@ -1,0 +1,9 @@
+﻿{
+  "name": "StreetCredTier",
+  "properties": [
+    {
+      "path": ".streetCredRequirement",
+      "type": "Int"
+    }
+  ]
+}

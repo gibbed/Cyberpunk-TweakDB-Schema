@@ -1,0 +1,21 @@
+﻿{
+  "name": "TraitData",
+  "properties": [
+    {
+      "path": ".loc_name_key",
+      "type": "String"
+    },
+    {
+      "path": ".loc_desc_key",
+      "type": "String"
+    },
+    {
+      "path": ".statusEffect",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".dataPackage",
+      "type": "ForeignKey"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+﻿{
+  "name": "AIDirectorScheduleSpawningDesc",
+  "properties": [
+    {
+      "path": ".entries",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".spawningBigDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".spawningAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".enemiesAmount",
+      "type": "Int"
+    },
+    {
+      "path": ".spawningMinDistance",
+      "type": "Float"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "name": "StatsList",
+  "properties": [
+    {
+      "path": ".stats",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

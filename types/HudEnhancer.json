@@ -1,0 +1,9 @@
+﻿{
+  "name": "HudEnhancer",
+  "properties": [
+    {
+      "path": ".distance",
+      "type": "Float"
+    }
+  ]
+}

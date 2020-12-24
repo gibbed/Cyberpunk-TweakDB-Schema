@@ -1,0 +1,22 @@
+﻿{
+  "name": "AIStatPoolCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".statPool",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".percentage",
+      "type": "Vector2"
+    },
+    {
+      "path": ".isIncreasing",
+      "type": "Int"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "name": "AIRole",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".rolePackage",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

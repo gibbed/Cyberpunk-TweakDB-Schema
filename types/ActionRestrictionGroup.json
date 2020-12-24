@@ -1,0 +1,19 @@
+﻿{
+  "name": "ActionRestrictionGroup",
+  "properties": [
+    {
+      "path": ".inactiveReason",
+      "type": "String"
+    },
+    {
+      "path": ".allowedActionNames",
+      "type": "String",
+      "array": true
+    },
+    {
+      "path": ".disallowedActionNames",
+      "type": "String",
+      "array": true
+    }
+  ]
+}

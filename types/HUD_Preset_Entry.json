@@ -1,0 +1,10 @@
+﻿{
+  "name": "HUD_Preset_Entry",
+  "properties": [
+    {
+      "path": ".hudEntries",
+      "type": "Name",
+      "array": true
+    }
+  ]
+}

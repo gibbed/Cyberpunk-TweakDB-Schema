@@ -1,0 +1,79 @@
+﻿{
+  "name": "VehicleDestruction",
+  "properties": [
+    {
+      "path": ".detachableParts",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".glass",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".wheels",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".lights",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".deformableParts",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".pointDampers",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".detachedPartExplosionEffect",
+      "type": "ResRef"
+    },
+    {
+      "path": ".gridDimensions",
+      "type": "Vector3"
+    },
+    {
+      "path": ".gridLocalOffset",
+      "type": "Vector3"
+    },
+    {
+      "path": ".vehicleDimensions",
+      "type": "Vector3"
+    },
+    {
+      "path": ".damageExponent",
+      "type": "Float"
+    },
+    {
+      "path": ".velocityValueMinDamage",
+      "type": "Float"
+    },
+    {
+      "path": ".damageThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".onHitVelocity",
+      "type": "Float"
+    },
+    {
+      "path": ".forcePropagationFalloff",
+      "type": "Float"
+    },
+    {
+      "path": ".velocityValueMaxDamage",
+      "type": "Float"
+    },
+    {
+      "path": ".enableOnHit",
+      "type": "Bool"
+    }
+  ]
+}

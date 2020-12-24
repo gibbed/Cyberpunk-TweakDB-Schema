@@ -1,0 +1,57 @@
+﻿{
+  "name": "InitLoadingScreen",
+  "properties": [
+    {
+      "path": ".firstAnimLibraryName",
+      "type": "Name"
+    },
+    {
+      "path": ".secondAnimLibraryName",
+      "type": "Name"
+    },
+    {
+      "path": ".firstAnimName",
+      "type": "Name"
+    },
+    {
+      "path": ".thirdAnimLibraryName",
+      "type": "Name"
+    },
+    {
+      "path": ".thirdAnimName",
+      "type": "Name"
+    },
+    {
+      "path": ".mainMenuResource",
+      "type": "ResRef"
+    },
+    {
+      "path": ".loadingScreenResource",
+      "type": "ResRef"
+    },
+    {
+      "path": ".secondAnimName",
+      "type": "Name"
+    },
+    {
+      "path": ".mainMenuLibraryName",
+      "type": "Name"
+    },
+    {
+      "path": ".loopAnimName",
+      "type": "Name"
+    },
+    {
+      "path": ".mainMenuAnimName",
+      "type": "Name"
+    },
+    {
+      "path": ".mainMenuLoopAnimName",
+      "type": "Name"
+    },
+    {
+      "path": ".voTrackAnimName",
+      "type": "Name"
+    }
+  ]
+}

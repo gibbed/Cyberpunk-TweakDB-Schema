@@ -1,0 +1,17 @@
+﻿{
+  "name": "Transgression",
+  "properties": [
+    {
+      "path": ".localizedDescription",
+      "type": "String"
+    },
+    {
+      "path": ".drawWeight",
+      "type": "Float"
+    },
+    {
+      "path": ".severity",
+      "type": "Float"
+    }
+  ]
+}

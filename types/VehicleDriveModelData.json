@@ -1,0 +1,284 @@
+﻿{
+  "name": "VehicleDriveModelData",
+  "properties": [
+    {
+      "path": ".waterParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".wheelSetup",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".wheelsFrictionMap",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".driveHelpers",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".tankSpringsLocalPositions",
+      "type": "Vector2",
+      "array": true
+    },
+    {
+      "path": ".bikeTiltPID",
+      "type": "Float",
+      "array": true
+    },
+    {
+      "path": ".bikeCurvesPath",
+      "type": "ResRef"
+    },
+    {
+      "path": ".center_of_mass_offset",
+      "type": "Vector3"
+    },
+    {
+      "path": ".momentOfInertiaScale",
+      "type": "Vector3"
+    },
+    {
+      "path": ".momentOfInertia",
+      "type": "Vector3"
+    },
+    {
+      "path": ".smoothWheelContactDecreaseTime",
+      "type": "Float"
+    },
+    {
+      "path": ".slopeTractionReductionBegin",
+      "type": "Float"
+    },
+    {
+      "path": ".sideWeightTransferFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".turningRollFactorWeakContactThresholdMax",
+      "type": "Float"
+    },
+    {
+      "path": ".turningRollFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".turnUpdateInputFastChangeSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".lowVelStoppingDeceleration",
+      "type": "Float"
+    },
+    {
+      "path": ".slipRatioMinSpeedThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".brakingFrictionFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".turnUpdateInputSlowChangeSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".turningRollFactorWeakContactThresholdMin",
+      "type": "Float"
+    },
+    {
+      "path": ".handbrakeBrakingTorque",
+      "type": "Float"
+    },
+    {
+      "path": ".turnUpdateInputDiffProgressionPow",
+      "type": "Float"
+    },
+    {
+      "path": ".maxWheelTurnDeg",
+      "type": "Float"
+    },
+    {
+      "path": ".bodyFriction",
+      "type": "Float"
+    },
+    {
+      "path": ".slipAngleMinSpeedThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".bankBodyLRTanMultiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".slipAngleCurveScale",
+      "type": "Float"
+    },
+    {
+      "path": ".tankAcceleration",
+      "type": "Float"
+    },
+    {
+      "path": ".turnUpdateInputDiffForSlowChange",
+      "type": "Float"
+    },
+    {
+      "path": ".perfectSteeringFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".turnUpdateMaxSpeedTurnMul",
+      "type": "Float"
+    },
+    {
+      "path": ".bikeTiltReturnSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".wheelTurnMaxAddPerSecond",
+      "type": "Float"
+    },
+    {
+      "path": ".bikeTiltSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".turnUpdateBaseSpeedThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".turnUpdateMaxSpeedTurnChangeMul",
+      "type": "Float"
+    },
+    {
+      "path": ".antiSwaybarDampingScalor",
+      "type": "Float"
+    },
+    {
+      "path": ".total_mass",
+      "type": "Float"
+    },
+    {
+      "path": ".turnUpdateMaxSpeedThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".bankBodyFBTanMultiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".slopeTractionReductionFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".wheelTurnMaxSubPerSecond",
+      "type": "Float"
+    },
+    {
+      "path": ".bikeTiltCustomSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".tankSpringVerticalOffset",
+      "type": "Float"
+    },
+    {
+      "path": ".turningRollFactorWeakContactMul",
+      "type": "Float"
+    },
+    {
+      "path": ".tankDeceleration",
+      "type": "Float"
+    },
+    {
+      "path": ".slipRatioCurveScale",
+      "type": "Float"
+    },
+    {
+      "path": ".turnUpdateInputDiffForFastChange",
+      "type": "Float"
+    },
+    {
+      "path": ".rollingResistanceFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".tankSpringRadius",
+      "type": "Float"
+    },
+    {
+      "path": ".airResistanceFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".burnOutRotationModifier",
+      "type": "Float"
+    },
+    {
+      "path": ".slopeTractionReductionMax",
+      "type": "Float"
+    },
+    {
+      "path": ".tankSpringDamping",
+      "type": "Float"
+    },
+    {
+      "path": ".differentialOvershootFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".forwardWeightTransferFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".tankSpringDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".chassis_mass",
+      "type": "Float"
+    },
+    {
+      "path": ".tankSpringStiffness",
+      "type": "Float"
+    },
+    {
+      "path": ".smoothWheelContactIncreseTime",
+      "type": "Float"
+    },
+    {
+      "path": ".bikeMaxTilt",
+      "type": "Float"
+    },
+    {
+      "path": ".tankTurningSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".tankMaxSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".tankGravityMul",
+      "type": "Float"
+    },
+    {
+      "path": ".tankCTOP",
+      "type": "Float"
+    },
+    {
+      "path": ".tankCTOI",
+      "type": "Float"
+    },
+    {
+      "path": ".tankCTOD",
+      "type": "Float"
+    },
+    {
+      "path": ".useAlternativeTurnUpdate",
+      "type": "Bool"
+    }
+  ]
+}

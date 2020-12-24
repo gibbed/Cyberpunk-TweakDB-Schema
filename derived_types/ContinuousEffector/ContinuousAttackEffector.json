@@ -1,0 +1,10 @@
+﻿{
+  "name": "ContinuousAttackEffector",
+  "base": "ContinuousEffector",
+  "properties": [
+    {
+      "path": ".attackRecord",
+      "type": "ForeignKey"
+    }
+  ]
+}

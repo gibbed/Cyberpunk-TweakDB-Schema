@@ -1,0 +1,14 @@
+{
+  "name": "CoverSelectionParameters",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".scoreOnlyForCombatTarget",
+      "type": "Bool"
+    },
+    {
+      "path": ".vaidateOnlyForCombatTarget",
+      "type": "Bool"
+    }
+  ]
+}

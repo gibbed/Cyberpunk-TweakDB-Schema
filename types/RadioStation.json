@@ -1,0 +1,17 @@
+﻿{
+  "name": "RadioStation",
+  "properties": [
+    {
+      "path": ".displayName",
+      "type": "String"
+    },
+    {
+      "path": ".icon",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".index",
+      "type": "Int"
+    }
+  ]
+}

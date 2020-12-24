@@ -1,0 +1,47 @@
+﻿{
+  "name": "LightPreset",
+  "properties": [
+    {
+      "path": ".colorMin",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".colorMax",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".curve",
+      "type": "Name"
+    },
+    {
+      "path": ".strength",
+      "type": "Float"
+    },
+    {
+      "path": ".duration",
+      "type": "Float"
+    },
+    {
+      "path": ".time",
+      "type": "Float"
+    },
+    {
+      "path": ".overrideColorMin",
+      "type": "Bool"
+    },
+    {
+      "path": ".on",
+      "type": "Bool"
+    },
+    {
+      "path": ".loop",
+      "type": "Bool"
+    },
+    {
+      "path": ".force",
+      "type": "Bool"
+    }
+  ]
+}

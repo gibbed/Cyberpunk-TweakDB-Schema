@@ -1,0 +1,26 @@
+﻿{
+  "name": "Attack_GameEffect",
+  "base": "Attack",
+  "properties": [
+    {
+      "path": ".attackTag",
+      "type": "Name"
+    },
+    {
+      "path": ".effectTag",
+      "type": "Name"
+    },
+    {
+      "path": ".effectName",
+      "type": "Name"
+    },
+    {
+      "path": ".audioTag",
+      "type": "Name"
+    },
+    {
+      "path": ".audioAttackIndex",
+      "type": "Float"
+    }
+  ]
+}

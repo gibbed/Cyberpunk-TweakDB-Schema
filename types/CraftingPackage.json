@@ -1,0 +1,18 @@
+﻿{
+  "name": "CraftingPackage",
+  "properties": [
+    {
+      "path": ".craftingRecipe",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".craftingExpModifier",
+      "type": "Float"
+    },
+    {
+      "path": ".overcraftPenaltyModifier",
+      "type": "Float"
+    }
+  ]
+}

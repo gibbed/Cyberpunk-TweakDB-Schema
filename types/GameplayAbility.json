@@ -1,0 +1,26 @@
+﻿{
+  "name": "GameplayAbility",
+  "properties": [
+    {
+      "path": ".abilityPackage",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".prereqsForUse",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".loc_key_name",
+      "type": "LocKey"
+    },
+    {
+      "path": ".loc_key_desc",
+      "type": "LocKey"
+    },
+    {
+      "path": ".showInCodex",
+      "type": "Bool"
+    }
+  ]
+}

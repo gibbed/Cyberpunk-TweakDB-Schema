@@ -1,0 +1,33 @@
+﻿{
+  "name": "AccelerateTowardsParameters",
+  "properties": [
+    {
+      "path": ".maxSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".maxRotationSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".decelerateTowardsTargetPositionDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".diffForMaxRotation",
+      "type": "Float"
+    },
+    {
+      "path": ".accelerationSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".minRotationSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".accuracy",
+      "type": "Float"
+    }
+  ]
+}

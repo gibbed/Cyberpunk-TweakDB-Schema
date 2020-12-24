@@ -1,0 +1,22 @@
+﻿{
+  "name": "ClearLineOfSightCoverSelectionParameters",
+  "base": "CoverSelectionParameters",
+  "properties": [
+    {
+      "path": ".cooldown",
+      "type": "Float"
+    },
+    {
+      "path": ".multiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".clearLOSDistanceTolerance",
+      "type": "Float"
+    },
+    {
+      "path": ".preferredActionCount",
+      "type": "Int"
+    }
+  ]
+}

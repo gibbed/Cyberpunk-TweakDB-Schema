@@ -1,0 +1,42 @@
+﻿{
+  "name": "AISubActionForceEquip",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".itemObject",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".itemID",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".attachmentSlot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".itemCategory",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".itemType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".itemTag",
+      "type": "Name"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".animationTime",
+      "type": "Float"
+    },
+    {
+      "path": ".equipDespiteInterruption",
+      "type": "Bool"
+    }
+  ]
+}

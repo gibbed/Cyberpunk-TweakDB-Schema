@@ -1,0 +1,17 @@
+﻿{
+  "name": "UIAnimation",
+  "properties": [
+    {
+      "path": ".widgetResource",
+      "type": "ResRef"
+    },
+    {
+      "path": ".animationName",
+      "type": "Name"
+    },
+    {
+      "path": ".loop",
+      "type": "Bool"
+    }
+  ]
+}

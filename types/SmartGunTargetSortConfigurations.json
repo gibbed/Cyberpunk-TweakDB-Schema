@@ -1,0 +1,13 @@
+﻿{
+  "name": "SmartGunTargetSortConfigurations",
+  "properties": [
+    {
+      "path": ".hipConfig",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".adsConfig",
+      "type": "ForeignKey"
+    }
+  ]
+}

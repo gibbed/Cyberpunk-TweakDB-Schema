@@ -1,0 +1,10 @@
+﻿{
+  "name": "VehicleFxCollision",
+  "properties": [
+    {
+      "path": ".materials",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

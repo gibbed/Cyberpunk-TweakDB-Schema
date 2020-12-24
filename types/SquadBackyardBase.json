@@ -1,0 +1,13 @@
+﻿{
+  "name": "SquadBackyardBase",
+  "properties": [
+    {
+      "path": ".paddingFrom",
+      "type": "Float"
+    },
+    {
+      "path": ".paddingTo",
+      "type": "Float"
+    }
+  ]
+}

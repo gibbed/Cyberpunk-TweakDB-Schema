@@ -1,0 +1,22 @@
+﻿{
+  "name": "MappinUIFilterGroup",
+  "properties": [
+    {
+      "path": ".filterType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".mappins",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".widgetState",
+      "type": "Name"
+    },
+    {
+      "path": ".shouldCollectMappins",
+      "type": "Bool"
+    }
+  ]
+}

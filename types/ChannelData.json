@@ -1,0 +1,29 @@
+﻿{
+  "name": "ChannelData",
+  "properties": [
+    {
+      "path": ".localizedName",
+      "type": "String"
+    },
+    {
+      "path": ".dynamicTexturePath",
+      "type": "String"
+    },
+    {
+      "path": ".overlayWidgetPath",
+      "type": "String"
+    },
+    {
+      "path": ".channelWidget",
+      "type": "Name"
+    },
+    {
+      "path": ".audioEvent",
+      "type": "Name"
+    },
+    {
+      "path": ".orderID",
+      "type": "Int"
+    }
+  ]
+}

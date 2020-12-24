@@ -1,0 +1,9 @@
+﻿{
+  "name": "DriveHelperType",
+  "properties": [
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿{
+  "name": "NPCRarity",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".statModifiers",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

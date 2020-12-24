@@ -1,0 +1,18 @@
+﻿{
+  "name": "Program",
+  "properties": [
+    {
+      "path": ".program",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".charactersChain",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".programName",
+      "type": "LocKey"
+    }
+  ]
+}

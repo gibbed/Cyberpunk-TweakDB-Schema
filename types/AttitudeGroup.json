@@ -1,0 +1,17 @@
+﻿{
+  "name": "AttitudeGroup",
+  "properties": [
+    {
+      "path": ".parent",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".name",
+      "type": "Name"
+    },
+    {
+      "path": ".isState",
+      "type": "Bool"
+    }
+  ]
+}

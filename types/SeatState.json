@@ -1,0 +1,33 @@
+﻿{
+  "name": "SeatState",
+  "properties": [
+    {
+      "path": ".forceOpen",
+      "type": "Bool"
+    },
+    {
+      "path": ".forceClose",
+      "type": "Bool"
+    },
+    {
+      "path": ".enableInteraction",
+      "type": "Bool"
+    },
+    {
+      "path": ".forceUnlock",
+      "type": "Bool"
+    },
+    {
+      "path": ".disableInteraction",
+      "type": "Bool"
+    },
+    {
+      "path": ".forceLock",
+      "type": "Bool"
+    },
+    {
+      "path": ".questLock",
+      "type": "Bool"
+    }
+  ]
+}

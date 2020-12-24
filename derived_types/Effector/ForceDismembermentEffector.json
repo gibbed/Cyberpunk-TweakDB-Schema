@@ -1,0 +1,30 @@
+﻿{
+  "name": "ForceDismembermentEffector",
+  "base": "Effector",
+  "properties": [
+    {
+      "path": ".woundType",
+      "type": "String"
+    },
+    {
+      "path": ".bodyPart",
+      "type": "String"
+    },
+    {
+      "path": ".dismembermentChance",
+      "type": "Float"
+    },
+    {
+      "path": ".shouldKillNPC",
+      "type": "Bool"
+    },
+    {
+      "path": ".skipDeathAnim",
+      "type": "Bool"
+    },
+    {
+      "path": ".isCritical",
+      "type": "Bool"
+    }
+  ]
+}

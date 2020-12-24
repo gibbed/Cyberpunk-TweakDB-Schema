@@ -1,0 +1,18 @@
+﻿{
+  "name": "AIActionCooldown",
+  "properties": [
+    {
+      "path": ".activationCondition",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".name",
+      "type": "Name"
+    },
+    {
+      "path": ".duration",
+      "type": "Float"
+    }
+  ]
+}

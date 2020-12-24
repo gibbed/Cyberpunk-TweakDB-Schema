@@ -1,0 +1,61 @@
+﻿{
+  "name": "VehicleDefaultState",
+  "properties": [
+    {
+      "path": ".seat_back_right",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".seat_front_left",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".seat_front_right",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".seat_back_left",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".trunk",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".hood",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".DisableAllInteractions",
+      "type": "Bool"
+    },
+    {
+      "path": ".QuestLockAll",
+      "type": "Bool"
+    },
+    {
+      "path": ".CloseAll",
+      "type": "Bool"
+    },
+    {
+      "path": ".SirenLight",
+      "type": "Bool"
+    },
+    {
+      "path": ".OpenAll",
+      "type": "Bool"
+    },
+    {
+      "path": ".SirenSounds",
+      "type": "Bool"
+    },
+    {
+      "path": ".Thrusters",
+      "type": "Bool"
+    },
+    {
+      "path": ".LockAll",
+      "type": "Bool"
+    }
+  ]
+}

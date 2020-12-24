@@ -1,0 +1,17 @@
+﻿{
+  "name": "AimAssistSettings",
+  "properties": [
+    {
+      "path": ".off",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".light",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".standard",
+      "type": "ForeignKey"
+    }
+  ]
+}

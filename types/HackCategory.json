@@ -1,0 +1,17 @@
+﻿{
+  "name": "HackCategory",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".localizedDescription",
+      "type": "String"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

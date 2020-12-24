@@ -1,0 +1,11 @@
+﻿{
+  "name": "AICooldownCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".cooldowns",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

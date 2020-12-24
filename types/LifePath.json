@@ -1,0 +1,25 @@
+﻿{
+  "name": "LifePath",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".captionIcon",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".displayName",
+      "type": "LocKey"
+    },
+    {
+      "path": ".newGameSpawnTag",
+      "type": "Name"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

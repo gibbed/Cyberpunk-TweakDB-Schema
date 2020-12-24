@@ -1,0 +1,36 @@
+﻿{
+  "name": "CoverSelectionPreset",
+  "properties": [
+    {
+      "path": ".combatRing",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".scoring",
+      "type": "String",
+      "array": true
+    },
+    {
+      "path": ".postFiltering",
+      "type": "String",
+      "array": true
+    },
+    {
+      "path": ".filtering",
+      "type": "String",
+      "array": true
+    },
+    {
+      "path": ".dismissedCoverTimer",
+      "type": "Float"
+    },
+    {
+      "path": ".gatherRadius",
+      "type": "Float"
+    },
+    {
+      "path": ".usesLineOfSight",
+      "type": "Bool"
+    }
+  ]
+}

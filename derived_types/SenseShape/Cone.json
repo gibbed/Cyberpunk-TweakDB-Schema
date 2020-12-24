@@ -1,0 +1,22 @@
+﻿{
+  "name": "Cone",
+  "base": "SenseShape",
+  "properties": [
+    {
+      "path": ".position2",
+      "type": "Vector3"
+    },
+    {
+      "path": ".position1",
+      "type": "Vector3"
+    },
+    {
+      "path": ".radius1",
+      "type": "Float"
+    },
+    {
+      "path": ".radius2",
+      "type": "Float"
+    }
+  ]
+}

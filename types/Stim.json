@@ -1,0 +1,46 @@
+﻿{
+  "name": "Stim",
+  "properties": [
+    {
+      "path": ".propagation",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".type",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".priority",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".tags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".category",
+      "type": "Name"
+    },
+    {
+      "path": ".interval",
+      "type": "Float"
+    },
+    {
+      "path": ".radius",
+      "type": "Float"
+    },
+    {
+      "path": ".fear",
+      "type": "Float"
+    },
+    {
+      "path": ".aggressive",
+      "type": "Float"
+    },
+    {
+      "path": ".isReactionStim",
+      "type": "Bool"
+    }
+  ]
+}

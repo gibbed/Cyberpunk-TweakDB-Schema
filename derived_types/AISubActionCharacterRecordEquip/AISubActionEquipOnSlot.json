@@ -1,0 +1,10 @@
+﻿{
+  "name": "AISubActionEquipOnSlot",
+  "base": "AISubActionCharacterRecordEquip",
+  "properties": [
+    {
+      "path": ".useItemSpawnDelayFromWeapon",
+      "type": "Bool"
+    }
+  ]
+}

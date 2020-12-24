@@ -1,0 +1,15 @@
+﻿{
+  "name": "VisualTagsPrereq",
+  "base": "IPrereq",
+  "properties": [
+    {
+      "path": ".allowedTags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".invert",
+      "type": "Bool"
+    }
+  ]
+}

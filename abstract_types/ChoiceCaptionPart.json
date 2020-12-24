@@ -1,0 +1,10 @@
+﻿{
+  "name": "ChoiceCaptionPart",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".partType",
+      "type": "ForeignKey"
+    },
+  ]
+}

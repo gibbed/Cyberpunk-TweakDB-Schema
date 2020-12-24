@@ -1,0 +1,29 @@
+﻿{
+  "name": "VehicleWater",
+  "properties": [
+    {
+      "path": ".submergedThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".buoyancyCoef",
+      "type": "Float"
+    },
+    {
+      "path": ".linearDampingCoef",
+      "type": "Float"
+    },
+    {
+      "path": ".angularDampingCoef",
+      "type": "Float"
+    },
+    {
+      "path": ".disableEngine",
+      "type": "Bool"
+    },
+    {
+      "path": ".disableAirControl",
+      "type": "Bool"
+    }
+  ]
+}

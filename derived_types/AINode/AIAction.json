@@ -1,0 +1,136 @@
+﻿{
+  "name": "AIAction",
+  "base": "AINode",
+  "properties": [
+    {
+      "path": ".animData",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".recovery",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".startup",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".ability",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".loop",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".lookats",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".loopSubActions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".startupSubActions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".abilities",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".startupEndConditions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".recoverySubActions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".subActions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".recoveryEndConditions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".cooldowns",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".tickets",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".loopEndConditions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".initCooldowns",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".commands",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".animationWrapperOverrides",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".allowBlendDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".allowBlendPercCap",
+      "type": "Float"
+    },
+    {
+      "path": ".ticketAcknowledgeTimeout",
+      "type": "Float"
+    },
+    {
+      "path": ".subActionsCanCompleteAction",
+      "type": "Bool"
+    },
+    {
+      "path": ".failIfAnimationNotStreamedIn",
+      "type": "Bool"
+    },
+    {
+      "path": ".disableAction",
+      "type": "Bool"
+    },
+    {
+      "path": ".waitForAnimationToLoad",
+      "type": "Bool"
+    },
+    {
+      "path": ".disableActionInMultiplayer",
+      "type": "Bool"
+    },
+    {
+      "path": ".completeWithFailure",
+      "type": "Bool"
+    },
+    {
+      "path": ".revokingTicketCompletesAction",
+      "type": "Bool"
+    }
+  ]
+}

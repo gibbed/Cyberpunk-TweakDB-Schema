@@ -1,0 +1,21 @@
+﻿{
+  "name": "PerkLevelData",
+  "properties": [
+    {
+      "path": ".loc_name_key",
+      "type": "String"
+    },
+    {
+      "path": ".loc_desc_key",
+      "type": "String"
+    },
+    {
+      "path": ".dataPackage",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".uiData",
+      "type": "ForeignKey"
+    }
+  ]
+}

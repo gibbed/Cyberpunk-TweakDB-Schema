@@ -1,0 +1,22 @@
+﻿{
+  "name": "GenderEntity",
+  "properties": [
+    {
+      "path": ".gender",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".multiplayerEntities",
+      "type": "ResRef",
+      "array": true
+    },
+    {
+      "path": ".entity",
+      "type": "ResRef"
+    },
+    {
+      "path": ".initial",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿{
+  "name": "AISmartCompositeType",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    },
+    {
+      "path": ".hasMemory",
+      "type": "Bool"
+    },
+    {
+      "path": ".incrementIteratorOnDeactivation",
+      "type": "Bool"
+    },
+    {
+      "path": ".randomizeIteratorOnReset",
+      "type": "Bool"
+    }
+  ]
+}

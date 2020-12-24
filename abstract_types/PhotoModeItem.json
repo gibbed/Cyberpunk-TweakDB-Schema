@@ -1,0 +1,14 @@
+﻿{
+  "name": "PhotoModeItem",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".displayName",
+      "type": "Name"
+    },
+    {
+      "path": ".locked",
+      "type": "Bool"
+    },
+  ]
+}

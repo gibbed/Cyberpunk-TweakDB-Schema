@@ -1,0 +1,14 @@
+﻿{
+  "name": "VehicleWheelsFrictionMap",
+  "properties": [
+    {
+      "path": ".defaultFrictionPreset",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".surfaces",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

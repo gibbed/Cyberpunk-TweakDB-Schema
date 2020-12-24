@@ -1,0 +1,69 @@
+﻿{
+  "name": "VehicleAirControlAxis",
+  "properties": [
+    {
+      "path": ".controlAxis",
+      "type": "Name"
+    },
+    {
+      "path": ".velocityDampingThresholdMin",
+      "type": "Float"
+    },
+    {
+      "path": ".angleCorrectionThresholdMax",
+      "type": "Float"
+    },
+    {
+      "path": ".velocityDampingFactorMin",
+      "type": "Float"
+    },
+    {
+      "path": ".angleCorrectionThresholdMin",
+      "type": "Float"
+    },
+    {
+      "path": ".velocityDampingFactorMax",
+      "type": "Float"
+    },
+    {
+      "path": ".velocityDampingThresholdMax",
+      "type": "Float"
+    },
+    {
+      "path": ".angleCorrectionFactorMax",
+      "type": "Float"
+    },
+    {
+      "path": ".maxVelocityCompensation",
+      "type": "Float"
+    },
+    {
+      "path": ".multiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".brakeMultiplierWhenNoInput",
+      "type": "Float"
+    },
+    {
+      "path": ".angleCorrectionFactorMin",
+      "type": "Float"
+    },
+    {
+      "path": ".maxAngleCompensation",
+      "type": "Float"
+    },
+    {
+      "path": ".zeroAngleThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".maxAngleToCompensateThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".stabilizeAxis",
+      "type": "Bool"
+    }
+  ]
+}

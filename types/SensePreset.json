@@ -1,0 +1,48 @@
+﻿{
+  "name": "SensePreset",
+  "properties": [
+    {
+      "path": ".curves",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".shapes",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".materialCurves",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".dayNightCurve",
+      "type": "Name"
+    },
+    {
+      "path": ".detectionCoolDownTime",
+      "type": "Float"
+    },
+    {
+      "path": ".detectionPartCoolDownTime",
+      "type": "Float"
+    },
+    {
+      "path": ".detectionDropFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".detectionFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".ignorePhysicsTest",
+      "type": "Bool"
+    },
+    {
+      "path": ".useZCorrection",
+      "type": "Bool"
+    }
+  ]
+}

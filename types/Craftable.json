@@ -1,0 +1,10 @@
+﻿{
+  "name": "Craftable",
+  "properties": [
+    {
+      "path": ".craftableItem",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "name": "RandomNewsFeedBatch",
+  "properties": [
+    {
+      "path": ".feedList",
+      "type": "Name",
+      "array": true
+    }
+  ]
+}

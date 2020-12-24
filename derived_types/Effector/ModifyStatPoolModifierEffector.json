@@ -1,0 +1,18 @@
+﻿{
+  "name": "ModifyStatPoolModifierEffector",
+  "base": "Effector",
+  "properties": [
+    {
+      "path": ".modificationType",
+      "type": "String"
+    },
+    {
+      "path": ".statPoolType",
+      "type": "String"
+    },
+    {
+      "path": ".poolModifier",
+      "type": "ForeignKey"
+    }
+  ]
+}

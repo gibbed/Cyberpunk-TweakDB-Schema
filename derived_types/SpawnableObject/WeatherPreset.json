@@ -1,0 +1,10 @@
+﻿{
+  "name": "WeatherPreset",
+  "base": "SpawnableObject",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "Name"
+    }
+  ]
+}

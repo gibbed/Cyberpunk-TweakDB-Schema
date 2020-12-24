@@ -1,0 +1,17 @@
+﻿{
+  "name": "VehicleCameraManager",
+  "properties": [
+    {
+      "path": ".camCollisionOBBIncrease",
+      "type": "Vector3"
+    },
+    {
+      "path": ".cameraBlendTime",
+      "type": "Float"
+    },
+    {
+      "path": ".allowCameraReset",
+      "type": "Bool"
+    }
+  ]
+}

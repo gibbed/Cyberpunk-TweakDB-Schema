@@ -1,0 +1,10 @@
+﻿{
+  "name": "InventoryItemGroup",
+  "properties": [
+    {
+      "path": ".items",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

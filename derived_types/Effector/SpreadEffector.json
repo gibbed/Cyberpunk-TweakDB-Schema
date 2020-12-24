@@ -1,0 +1,18 @@
+﻿{
+  "name": "SpreadEffector",
+  "base": "Effector",
+  "properties": [
+    {
+      "path": ".objectAction",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".effectTag",
+      "type": "Name"
+    },
+    {
+      "path": ".spreadToAllTargetsInTheArea",
+      "type": "Bool"
+    }
+  ]
+}

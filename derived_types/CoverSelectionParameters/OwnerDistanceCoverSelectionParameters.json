@@ -1,0 +1,22 @@
+﻿{
+  "name": "OwnerDistanceCoverSelectionParameters",
+  "base": "CoverSelectionParameters",
+  "properties": [
+    {
+      "path": ".ownerMaxDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".distanceToOwnerMultiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".ownerPreferredDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".ownerMinDistance",
+      "type": "Float"
+    }
+  ]
+}

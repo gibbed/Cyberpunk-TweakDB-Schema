@@ -1,0 +1,33 @@
+﻿{
+  "name": "PoolValueModifier",
+  "properties": [
+    {
+      "path": ".startDelay",
+      "type": "Float"
+    },
+    {
+      "path": ".valuePerSec",
+      "type": "Float"
+    },
+    {
+      "path": ".rangeBegin",
+      "type": "Float"
+    },
+    {
+      "path": ".rangeEnd",
+      "type": "Float"
+    },
+    {
+      "path": ".enabled",
+      "type": "Bool"
+    },
+    {
+      "path": ".usingPointValues",
+      "type": "Bool"
+    },
+    {
+      "path": ".delayOnChange",
+      "type": "Bool"
+    }
+  ]
+}

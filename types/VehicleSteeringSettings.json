@@ -1,0 +1,37 @@
+﻿{
+  "name": "VehicleSteeringSettings",
+  "properties": [
+    {
+      "path": ".speedForMaxDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".speedForMinDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".minTargetDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".errorMagnitudeForMildSteering",
+      "type": "Float"
+    },
+    {
+      "path": ".mildSteeringSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".maxTargetDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".fullSteeringSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".errorMagnitudeForFullSteering",
+      "type": "Float"
+    }
+  ]
+}

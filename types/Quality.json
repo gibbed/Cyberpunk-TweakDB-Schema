@@ -1,0 +1,17 @@
+﻿{
+  "name": "Quality",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "String"
+    },
+    {
+      "path": ".statModifier",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".value",
+      "type": "Int"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+﻿{
+  "name": "AimAssistFinishing",
+  "properties": [
+    {
+      "path": ".maxTime",
+      "type": "Float"
+    },
+    {
+      "path": ".maxCorrectionYaw",
+      "type": "Float"
+    },
+    {
+      "path": ".velocityDecreaseActivationFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".inputHistoryTime",
+      "type": "Float"
+    },
+    {
+      "path": ".maxCorrectionAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".maxCorrectionPitch",
+      "type": "Float"
+    },
+    {
+      "path": ".isEnabled",
+      "type": "Bool"
+    }
+  ]
+}

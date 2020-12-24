@@ -1,0 +1,94 @@
+﻿{
+  "name": "Minigame_Def",
+  "properties": [
+    {
+      "path": ".defaultTrap",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".overrideProgramsList",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".additionalProgramsList",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".forbiddenProgramsList",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".gridTraps",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".gridSymbols",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".bufferFullExitText",
+      "type": "Name"
+    },
+    {
+      "path": ".timeOutExitText",
+      "type": "Name"
+    },
+    {
+      "path": ".greatSuccessExitText",
+      "type": "Name"
+    },
+    {
+      "path": ".genericExitText",
+      "type": "Name"
+    },
+    {
+      "path": ".successExitText",
+      "type": "Name"
+    },
+    {
+      "path": ".failExitText",
+      "type": "Name"
+    },
+    {
+      "path": ".canceledExitText",
+      "type": "Name"
+    },
+    {
+      "path": ".gridSize",
+      "type": "Int"
+    },
+    {
+      "path": ".overlapProbability",
+      "type": "Float"
+    },
+    {
+      "path": ".trapsProbability",
+      "type": "Float"
+    },
+    {
+      "path": ".timeLimit",
+      "type": "Float"
+    },
+    {
+      "path": ".bufferSize",
+      "type": "Int"
+    },
+    {
+      "path": ".useProgression",
+      "type": "Bool"
+    },
+    {
+      "path": ".saveSeed",
+      "type": "Bool"
+    },
+    {
+      "path": ".noTraps",
+      "type": "Bool"
+    }
+  ]
+}

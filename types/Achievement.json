@@ -1,0 +1,38 @@
+﻿{
+  "name": "Achievement",
+  "properties": [
+    {
+      "path": ".localizedDescription",
+      "type": "String"
+    },
+    {
+      "path": ".GOGKey",
+      "type": "String"
+    },
+    {
+      "path": ".XB1Key",
+      "type": "String"
+    },
+    {
+      "path": ".SteamKey",
+      "type": "String"
+    },
+    {
+      "path": ".tags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".displayName",
+      "type": "Name"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    },
+    {
+      "path": ".PS4Key",
+      "type": "Int"
+    }
+  ]
+}

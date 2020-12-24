@@ -1,0 +1,13 @@
+﻿{
+  "name": "LandingFxMaterial",
+  "properties": [
+    {
+      "path": ".material",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".effect",
+      "type": "ResRef"
+    }
+  ]
+}

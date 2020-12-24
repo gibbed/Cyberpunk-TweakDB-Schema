@@ -1,0 +1,18 @@
+﻿{
+  "name": "SlotItemPartListElement",
+  "properties": [
+    {
+      "path": ".optionalProbabilityCurveName",
+      "type": "String"
+    },
+    {
+      "path": ".slot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".itemPartList",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

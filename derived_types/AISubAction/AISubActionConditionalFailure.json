@@ -1,0 +1,20 @@
+﻿{
+  "name": "AISubActionConditionalFailure",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".condition",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".cooldowns",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    }
+  ]
+}

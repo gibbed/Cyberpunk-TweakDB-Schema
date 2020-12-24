@@ -1,0 +1,5 @@
+﻿{
+  "name": "AISubActionFail",
+  "base": "AISubAction",
+  "properties": []
+}

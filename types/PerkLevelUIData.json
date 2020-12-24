@@ -1,0 +1,20 @@
+﻿{
+  "name": "PerkLevelUIData",
+  "properties": [
+    {
+      "path": ".intValues",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".floatValues",
+      "type": "Float",
+      "array": true
+    },
+    {
+      "path": ".nameValues",
+      "type": "Name",
+      "array": true
+    }
+  ]
+}

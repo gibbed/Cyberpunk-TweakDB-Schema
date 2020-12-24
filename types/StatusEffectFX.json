@@ -1,0 +1,13 @@
+﻿{
+  "name": "StatusEffectFX",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "Name"
+    },
+    {
+      "path": ".shouldReapply",
+      "type": "Bool"
+    }
+  ]
+}

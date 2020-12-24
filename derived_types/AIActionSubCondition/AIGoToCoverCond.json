@@ -1,0 +1,30 @@
+﻿{
+  "name": "AIGoToCoverCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".cover",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".desiredCover",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".isCoverSelected",
+      "type": "Int"
+    },
+    {
+      "path": ".desiredCoverChanged",
+      "type": "Int"
+    },
+    {
+      "path": ".isEnteringOrLeavingCover",
+      "type": "Int"
+    }
+  ]
+}

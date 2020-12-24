@@ -1,0 +1,18 @@
+﻿{
+  "name": "AISubActionSetStimSource",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".stimTarget",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".useInvestigateData",
+      "type": "Bool"
+    }
+  ]
+}

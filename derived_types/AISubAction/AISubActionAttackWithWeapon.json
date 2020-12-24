@@ -1,0 +1,35 @@
+﻿{
+  "name": "AISubActionAttackWithWeapon",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".attack",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".weaponSlots",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".attackName",
+      "type": "Name"
+    },
+    {
+      "path": ".colliderBoxSize",
+      "type": "Vector3"
+    },
+    {
+      "path": ".attackTime",
+      "type": "Float"
+    },
+    {
+      "path": ".attackRange",
+      "type": "Float"
+    },
+    {
+      "path": ".attackDuration",
+      "type": "Float"
+    }
+  ]
+}

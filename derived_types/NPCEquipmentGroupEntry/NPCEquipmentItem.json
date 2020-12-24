@@ -1,0 +1,28 @@
+﻿{
+  "name": "NPCEquipmentItem",
+  "base": "NPCEquipmentGroupEntry",
+  "properties": [
+    {
+      "path": ".onBodySlot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".item",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".equipSlot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".equipCondition",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".unequipCondition",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿{
+  "name": "AimAssistMelee",
+  "properties": [
+    {
+      "path": ".moveToTargetEnabledAttacks",
+      "type": "Int"
+    },
+    {
+      "path": ".moveToTargetSearchDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".moveToTargetDistanceIntoAttackRange",
+      "type": "Float"
+    },
+    {
+      "path": ".aimSnapOnBlockHit",
+      "type": "Bool"
+    },
+    {
+      "path": ".aimSnapOnAttack",
+      "type": "Bool"
+    },
+    {
+      "path": ".aimSnapOnThrow",
+      "type": "Bool"
+    },
+    {
+      "path": ".aimSnapOnAim",
+      "type": "Bool"
+    },
+    {
+      "path": ".aimSnapOnHit",
+      "type": "Bool"
+    }
+  ]
+}

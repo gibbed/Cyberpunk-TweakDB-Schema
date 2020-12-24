@@ -1,0 +1,47 @@
+﻿{
+  "name": "AISubActionForceHitReaction",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".pauseCondition",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".hitBodyPart",
+      "type": "Int"
+    },
+    {
+      "path": ".hitIntensity",
+      "type": "Int"
+    },
+    {
+      "path": ".hitSource",
+      "type": "Int"
+    },
+    {
+      "path": ".hitDirection",
+      "type": "Int"
+    },
+    {
+      "path": ".stance",
+      "type": "Int"
+    },
+    {
+      "path": ".animVariation",
+      "type": "Int"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".hitType",
+      "type": "Int"
+    }
+  ]
+}

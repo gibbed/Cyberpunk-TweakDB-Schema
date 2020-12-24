@@ -1,0 +1,16 @@
+﻿{
+  "name": "AISquadCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".hasTickets",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".ticketsConditionCheck",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "name": "AISubActionChangeCoverSelectionPreset",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".gatheringObjectCenter",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".initialPreset",
+      "type": "Name"
+    },
+    {
+      "path": ".preset",
+      "type": "Name"
+    },
+    {
+      "path": ".changeThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".coverDisablingDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".fallbackToLastSelectedPreset",
+      "type": "Bool"
+    }
+  ]
+}

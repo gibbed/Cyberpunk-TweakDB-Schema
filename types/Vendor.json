@@ -1,0 +1,70 @@
+﻿{
+  "name": "Vendor",
+  "properties": [
+    {
+      "path": ".localizedDescription",
+      "type": "String"
+    },
+    {
+      "path": ".localizedName",
+      "type": "String"
+    },
+    {
+      "path": ".faction",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vendorType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vendorFilterTags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".itemStock",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".accessPrereqs",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".experienceStock",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".vendorInverseFilterTags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".customerInverseFilterTags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".customerFilterTags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".mapVisibilityPrereqs",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".craftbooks",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".inGameTimeToRestock",
+      "type": "Float"
+    }
+  ]
+}

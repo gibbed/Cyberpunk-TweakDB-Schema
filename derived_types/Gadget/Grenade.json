@@ -1,0 +1,98 @@
+﻿{
+  "name": "Grenade",
+  "base": "Gadget",
+  "properties": [
+    {
+      "path": ".detonationSound",
+      "type": "String"
+    },
+    {
+      "path": ".detonationStimType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".npcHitReactionAttack",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".attack",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".additionalAttack",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".deliveryMethod",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".enemyAttack",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".rotationAxesX",
+      "type": "Float",
+      "array": true
+    },
+    {
+      "path": ".rotationAxesY",
+      "type": "Float",
+      "array": true
+    },
+    {
+      "path": ".rotationAxesZ",
+      "type": "Float",
+      "array": true
+    },
+    {
+      "path": ".rotationAxesSpeeds",
+      "type": "Float",
+      "array": true
+    },
+    {
+      "path": ".seed",
+      "type": "Int"
+    },
+    {
+      "path": ".attackRadius",
+      "type": "Float"
+    },
+    {
+      "path": ".attackDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".randomRotationAxes",
+      "type": "Int"
+    },
+    {
+      "path": ".rotationSpeedMin",
+      "type": "Float"
+    },
+    {
+      "path": ".rotationSpeedMax",
+      "type": "Float"
+    },
+    {
+      "path": ".detonationStimRadius",
+      "type": "Float"
+    },
+    {
+      "path": ".shootCollisionEnableDelay",
+      "type": "Float"
+    },
+    {
+      "path": ".releaseOnDetonation",
+      "type": "Bool"
+    },
+    {
+      "path": ".removeMeshOnDetonation",
+      "type": "Bool"
+    },
+    {
+      "path": ".useSeed",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿{
+  "name": "VehiclePIDSettings",
+  "properties": [
+    {
+      "path": ".I",
+      "type": "Float"
+    },
+    {
+      "path": ".P",
+      "type": "Float"
+    },
+    {
+      "path": ".outputSaturationLimit",
+      "type": "Float"
+    },
+    {
+      "path": ".D",
+      "type": "Float"
+    },
+    {
+      "path": ".integratorClampingLimit",
+      "type": "Float"
+    }
+  ]
+}

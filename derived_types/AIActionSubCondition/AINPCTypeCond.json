@@ -1,0 +1,19 @@
+﻿{
+  "name": "AINPCTypeCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".allowedNPCTypes",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".isFollower",
+      "type": "Int"
+    }
+  ]
+}

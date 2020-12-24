@@ -1,0 +1,13 @@
+﻿{
+  "name": "NPCHighLevelState",
+  "properties": [
+    {
+      "path": ".comment",
+      "type": "String"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

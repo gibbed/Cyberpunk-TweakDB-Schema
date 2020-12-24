@@ -1,0 +1,9 @@
+﻿{
+  "name": "Crosshair",
+  "properties": [
+    {
+      "path": ".widgetResourcePath",
+      "type": "ResRef"
+    }
+  ]
+}

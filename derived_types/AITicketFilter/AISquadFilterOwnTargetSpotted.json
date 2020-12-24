@@ -1,0 +1,10 @@
+﻿{
+  "name": "AISquadFilterOwnTargetSpotted",
+  "base": "AITicketFilter",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    }
+  ]
+}

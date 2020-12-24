@@ -1,0 +1,14 @@
+﻿{
+  "name": "RandomStatModifier",
+  "base": "StatModifier",
+  "properties": [
+    {
+      "path": ".min",
+      "type": "Float"
+    },
+    {
+      "path": ".max",
+      "type": "Float"
+    }
+  ]
+}

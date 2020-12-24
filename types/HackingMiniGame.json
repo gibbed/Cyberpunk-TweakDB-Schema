@@ -1,0 +1,94 @@
+﻿{
+  "name": "HackingMiniGame",
+  "properties": [
+    {
+      "path": ".allowedTraps",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".predefinedNetworkPrograms",
+      "type": "String",
+      "array": true
+    },
+    {
+      "path": ".predefinedBasicAccess",
+      "type": "String",
+      "array": true
+    },
+    {
+      "path": ".predefinedEnemyPrograms",
+      "type": "String",
+      "array": true
+    },
+    {
+      "path": ".symbols",
+      "type": "String",
+      "array": true
+    },
+    {
+      "path": ".predefinedGrid",
+      "type": "String",
+      "array": true
+    },
+    {
+      "path": ".predefinedCyberdeckPrograms",
+      "type": "String",
+      "array": true
+    },
+    {
+      "path": ".symbolProbabilities",
+      "type": "String",
+      "array": true
+    },
+    {
+      "path": ".symbolProbabilitiesAlternative",
+      "type": "String",
+      "array": true
+    },
+    {
+      "path": ".networkLevel",
+      "type": "Int"
+    },
+    {
+      "path": ".enemyNetrunnerLevel",
+      "type": "Int"
+    },
+    {
+      "path": ".dimension",
+      "type": "Int"
+    },
+    {
+      "path": ".gameType",
+      "type": "Int"
+    },
+    {
+      "path": ".initialTimer",
+      "type": "Int"
+    },
+    {
+      "path": ".bufferModifier",
+      "type": "Int"
+    },
+    {
+      "path": ".hiddenCellsProbability",
+      "type": "Int"
+    },
+    {
+      "path": ".hasEnemyNetrunner",
+      "type": "Bool"
+    },
+    {
+      "path": ".hasHiddenCells",
+      "type": "Bool"
+    },
+    {
+      "path": ".hasInitialTimer",
+      "type": "Bool"
+    },
+    {
+      "path": ".officer",
+      "type": "Bool"
+    }
+  ]
+}

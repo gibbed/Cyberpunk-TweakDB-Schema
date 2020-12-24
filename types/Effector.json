@@ -1,0 +1,27 @@
+﻿{
+  "name": "Effector",
+  "properties": [
+    {
+      "path": ".prereqRecord",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".statModifierGroups",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".statPoolUpdates",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".effectorClassName",
+      "type": "Name"
+    },
+    {
+      "path": ".removeAfterActionCall",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "name": "CrackAction",
+  "base": "ItemAction",
+  "properties": [
+    {
+      "path": ".effector",
+      "type": "ForeignKey"
+    }
+  ]
+}

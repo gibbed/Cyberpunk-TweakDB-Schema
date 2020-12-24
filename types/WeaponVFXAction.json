@@ -1,0 +1,17 @@
+﻿{
+  "name": "WeaponVFXAction",
+  "properties": [
+    {
+      "path": ".fxAction",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".fxActionType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".fxName",
+      "type": "Name"
+    }
+  ]
+}

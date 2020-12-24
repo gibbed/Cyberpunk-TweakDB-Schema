@@ -1,0 +1,11 @@
+﻿{
+  "name": "NPCEquipmentItemPool",
+  "base": "NPCEquipmentGroupEntry",
+  "properties": [
+    {
+      "path": ".pool",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

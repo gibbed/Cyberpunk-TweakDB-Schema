@@ -1,0 +1,30 @@
+﻿{
+  "name": "AISubActionForceUnequip",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".attachmentSlot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".animationTime",
+      "type": "Float"
+    },
+    {
+      "path": ".unequipDespiteInterruption",
+      "type": "Bool"
+    },
+    {
+      "path": ".dropItem",
+      "type": "Bool"
+    },
+    {
+      "path": ".generateLootAfterDrop",
+      "type": "Bool"
+    }
+  ]
+}

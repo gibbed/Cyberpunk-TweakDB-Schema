@@ -1,0 +1,23 @@
+﻿{
+  "name": "GenericMetroSign",
+  "base": "BaseSign",
+  "properties": [
+    {
+      "path": ".subDistrictName",
+      "type": "String"
+    },
+    {
+      "path": ".stationName",
+      "type": "String"
+    },
+    {
+      "path": ".metroLineName",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".iconName",
+      "type": "Name"
+    }
+  ]
+}

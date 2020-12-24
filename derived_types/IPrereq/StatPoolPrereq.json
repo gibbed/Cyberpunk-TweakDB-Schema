@@ -1,0 +1,30 @@
+﻿{
+  "name": "StatPoolPrereq",
+  "base": "IPrereq",
+  "properties": [
+    {
+      "path": ".comparisonType",
+      "type": "Name"
+    },
+    {
+      "path": ".statPoolType",
+      "type": "Name"
+    },
+    {
+      "path": ".valueToCheck",
+      "type": "Float"
+    },
+    {
+      "path": ".skipOnApply",
+      "type": "Bool"
+    },
+    {
+      "path": ".listenConstantly",
+      "type": "Bool"
+    },
+    {
+      "path": ".comparePercentage",
+      "type": "Bool"
+    }
+  ]
+}

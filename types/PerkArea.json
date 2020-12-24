@@ -1,0 +1,54 @@
+﻿{
+  "name": "PerkArea",
+  "properties": [
+    {
+      "path": ".displayName",
+      "type": "String"
+    },
+    {
+      "path": ".loc_name_key",
+      "type": "String"
+    },
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".loc_desc_key",
+      "type": "String"
+    },
+    {
+      "path": ".requirement",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".curve",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".proficiency",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".masteryLevel",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".perks",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    },
+    {
+      "path": ".minLevel",
+      "type": "Int"
+    },
+    {
+      "path": ".maxLevel",
+      "type": "Int"
+    }
+  ]
+}

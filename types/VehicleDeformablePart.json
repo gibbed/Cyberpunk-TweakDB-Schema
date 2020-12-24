@@ -1,0 +1,14 @@
+﻿{
+  "name": "VehicleDeformablePart",
+  "properties": [
+    {
+      "path": ".zones",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".component",
+      "type": "Name"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "AIActionSubCondition",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".invert",
+      "type": "Bool"
+    }
+  ]
+}

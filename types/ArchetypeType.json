@@ -1,0 +1,17 @@
+﻿{
+  "name": "ArchetypeType",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".localizedName",
+      "type": "Name"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

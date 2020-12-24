@@ -1,0 +1,28 @@
+﻿{
+  "name": "AISubActionShootToPoint",
+  "base": "AISubActionShootWithWeapon",
+  "properties": [
+    {
+      "path": ".rotationObj",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".positionObj",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".targetPositionObj",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".pointPosition",
+      "type": "Vector3",
+      "array": true
+    },
+    {
+      "path": ".waypointTag",
+      "type": "Name",
+      "array": true
+    }
+  ]
+}

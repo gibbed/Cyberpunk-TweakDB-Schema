@@ -1,0 +1,37 @@
+﻿{
+  "name": "Trait",
+  "properties": [
+    {
+      "path": ".loc_desc_key",
+      "type": "String"
+    },
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".loc_name_key",
+      "type": "String"
+    },
+    {
+      "path": ".requirement",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".baseTraitData",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".infiniteTraitData",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".iconPath",
+      "type": "Name"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

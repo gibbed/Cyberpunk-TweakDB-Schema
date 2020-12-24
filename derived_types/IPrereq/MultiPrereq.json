@@ -1,0 +1,15 @@
+﻿{
+  "name": "MultiPrereq",
+  "base": "IPrereq",
+  "properties": [
+    {
+      "path": ".nestedPrereqs",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".aggregationType",
+      "type": "Name"
+    }
+  ]
+}

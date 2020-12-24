@@ -1,0 +1,105 @@
+﻿{
+  "name": "MappinClampingSettings",
+  "properties": [
+    {
+      "path": ".ellipseOffset",
+      "type": "Vector2"
+    },
+    {
+      "path": ".ellipseSize",
+      "type": "Vector2"
+    },
+    {
+      "path": ".customTopRightEllipseSize",
+      "type": "Vector2"
+    },
+    {
+      "path": ".customTopRightEllipseOffset",
+      "type": "Vector2"
+    },
+    {
+      "path": ".customBottomRightEllipseOffset",
+      "type": "Vector2"
+    },
+    {
+      "path": ".customTopLeftEllipseOffset",
+      "type": "Vector2"
+    },
+    {
+      "path": ".clampingRectangleRightAndBottom",
+      "type": "Vector2"
+    },
+    {
+      "path": ".customBottomRightEllipseSize",
+      "type": "Vector2"
+    },
+    {
+      "path": ".customTopLeftEllipseSize",
+      "type": "Vector2"
+    },
+    {
+      "path": ".clampingRectangleLeftAndTop",
+      "type": "Vector2"
+    },
+    {
+      "path": ".customBottomLeftEllipseSize",
+      "type": "Vector2"
+    },
+    {
+      "path": ".customBottomLeftEllipseOffset",
+      "type": "Vector2"
+    },
+    {
+      "path": ".ellipseShapeSize",
+      "type": "Vector2"
+    },
+    {
+      "path": ".minimumClampPercent",
+      "type": "Float"
+    },
+    {
+      "path": ".clampSmoothing",
+      "type": "Float"
+    },
+    {
+      "path": ".customTopLeftEllipse",
+      "type": "Bool"
+    },
+    {
+      "path": ".useSpecialShapeLogic",
+      "type": "Bool"
+    },
+    {
+      "path": ".customTopRightEllipse",
+      "type": "Bool"
+    },
+    {
+      "path": ".customBottomLeftEllipse",
+      "type": "Bool"
+    },
+    {
+      "path": ".disableTopRightEllipse",
+      "type": "Bool"
+    },
+    {
+      "path": ".customBottomRightEllipse",
+      "type": "Bool"
+    },
+    {
+      "path": ".disableBottomRightEllipse",
+      "type": "Bool"
+    },
+    {
+      "path": ".disableBottomLeftEllipse",
+      "type": "Bool"
+    },
+    {
+      "path": ".disableTopLeftEllipse",
+      "type": "Bool"
+    },
+    {
+      "path": ".useEllipseShape",
+      "type": "Bool"
+    }
+  ]
+}

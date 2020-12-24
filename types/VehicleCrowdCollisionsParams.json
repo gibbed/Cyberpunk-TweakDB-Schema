@@ -1,0 +1,29 @@
+﻿{
+  "name": "VehicleCrowdCollisionsParams",
+  "properties": [
+    {
+      "path": ".vehicleCollisionBoxScaleBump",
+      "type": "Float"
+    },
+    {
+      "path": ".bumpEventSpeedThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".ragdollSpeedThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".vehicleCollisionBoxScaleRagdoll",
+      "type": "Float"
+    },
+    {
+      "path": ".collisionWarningTime",
+      "type": "Float"
+    },
+    {
+      "path": ".ragdollActivationTime",
+      "type": "Float"
+    }
+  ]
+}

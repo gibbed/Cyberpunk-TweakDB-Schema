@@ -1,0 +1,22 @@
+﻿{
+  "name": "AIStatusEffectCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".statusEffect",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".statusEffectType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".gameplayTag",
+      "type": "Name"
+    }
+  ]
+}

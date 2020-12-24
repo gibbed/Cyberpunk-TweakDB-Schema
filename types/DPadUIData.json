@@ -1,0 +1,10 @@
+﻿{
+  "name": "DPadUIData",
+  "properties": [
+    {
+      "path": ".restrictionTags",
+      "type": "Name",
+      "array": true
+    }
+  ]
+}

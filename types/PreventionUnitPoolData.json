@@ -1,0 +1,13 @@
+﻿{
+  "name": "PreventionUnitPoolData",
+  "properties": [
+    {
+      "path": ".characterRecord",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".weight",
+      "type": "Float"
+    }
+  ]
+}

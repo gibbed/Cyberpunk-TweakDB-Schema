@@ -1,0 +1,50 @@
+﻿{
+  "name": "District",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".localizedName",
+      "type": "String"
+    },
+    {
+      "path": ".enumName",
+      "type": "String"
+    },
+    {
+      "path": ".preventionPreset",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".parentDistrict",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".gangs",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".uiIcon",
+      "type": "Name"
+    },
+    {
+      "path": ".uiState",
+      "type": "Name"
+    },
+    {
+      "path": ".gunShotStimRange",
+      "type": "Float"
+    },
+    {
+      "path": ".explosiveDeviceStimRangeMultiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".isQuestDistrict",
+      "type": "Bool"
+    }
+  ]
+}

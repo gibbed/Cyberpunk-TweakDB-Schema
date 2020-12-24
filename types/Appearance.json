@@ -1,0 +1,10 @@
+﻿{
+  "name": "Appearance",
+  "properties": [
+    {
+      "path": ".tags",
+      "type": "Name",
+      "array": true
+    }
+  ]
+}

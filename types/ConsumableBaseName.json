@@ -1,0 +1,13 @@
+﻿{
+  "name": "ConsumableBaseName",
+  "properties": [
+    {
+      "path": ".enumName",
+      "type": "Name"
+    },
+    {
+      "path": ".enumComment",
+      "type": "Name"
+    }
+  ]
+}

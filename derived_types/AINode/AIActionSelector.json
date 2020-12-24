@@ -1,0 +1,23 @@
+﻿{
+  "name": "AIActionSelector",
+  "base": "AINode",
+  "properties": [
+    {
+      "path": ".defaultAction",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".actions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".disableActionsLimit",
+      "type": "Bool"
+    },
+    {
+      "path": ".failOnNodeActivationConditionFailure",
+      "type": "Bool"
+    }
+  ]
+}

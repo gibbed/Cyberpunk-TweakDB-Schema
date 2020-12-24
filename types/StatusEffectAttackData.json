@@ -1,0 +1,21 @@
+﻿{
+  "name": "StatusEffectAttackData",
+  "properties": [
+    {
+      "path": ".statusEffect",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".resistPool",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".stacksToApply",
+      "type": "Float"
+    },
+    {
+      "path": ".applyImmediately",
+      "type": "Bool"
+    }
+  ]
+}

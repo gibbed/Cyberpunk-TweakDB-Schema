@@ -1,0 +1,14 @@
+﻿{
+  "name": "PhotoModeSticker",
+  "base": "PhotoModeItem",
+  "properties": [
+    {
+      "path": ".imagePartName",
+      "type": "Name"
+    },
+    {
+      "path": ".atlasName",
+      "type": "ResRef"
+    }
+  ]
+}

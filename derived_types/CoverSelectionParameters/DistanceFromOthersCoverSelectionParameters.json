@@ -1,0 +1,18 @@
+﻿{
+  "name": "DistanceFromOthersCoverSelectionParameters",
+  "base": "CoverSelectionParameters",
+  "properties": [
+    {
+      "path": ".minimalPreferredDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".minimalDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".distanceScoreMultiplier",
+      "type": "Float"
+    }
+  ]
+}

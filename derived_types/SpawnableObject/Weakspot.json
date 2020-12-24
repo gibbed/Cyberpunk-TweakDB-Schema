@@ -1,0 +1,25 @@
+﻿{
+  "name": "Weakspot",
+  "base": "SpawnableObject",
+  "properties": [
+    {
+      "path": ".slotToAttach",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".onDestroyedEffectors",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".validCharacterAppearances",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".gameplayTags",
+      "type": "Name",
+      "array": true
+    }
+  ]
+}

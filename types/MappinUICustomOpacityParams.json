@@ -1,0 +1,25 @@
+﻿{
+  "name": "MappinUICustomOpacityParams",
+  "properties": [
+    {
+      "path": ".distanceWhenFullyVisible",
+      "type": "Float"
+    },
+    {
+      "path": ".visibilityConeStartAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".distanceWhenFullyHidden",
+      "type": "Float"
+    },
+    {
+      "path": ".visibilityConeEndAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".visibilityConeMaximumOpacity",
+      "type": "Float"
+    }
+  ]
+}

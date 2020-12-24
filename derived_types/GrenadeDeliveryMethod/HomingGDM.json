@@ -1,0 +1,38 @@
+﻿{
+  "name": "HomingGDM",
+  "base": "GrenadeDeliveryMethod",
+  "properties": [
+    {
+      "path": ".flyUpParameters",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".flyToTargetParameters",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".freezeDelay",
+      "type": "Float"
+    },
+    {
+      "path": ".freezeDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".lockOnDelay",
+      "type": "Float"
+    },
+    {
+      "path": ".freezeDelayAfterBounce",
+      "type": "Float"
+    },
+    {
+      "path": ".lockOnFailDetonationDelay",
+      "type": "Float"
+    },
+    {
+      "path": ".lockOnAltitude",
+      "type": "Float"
+    }
+  ]
+}

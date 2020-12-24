@@ -1,0 +1,22 @@
+﻿{
+  "name": "CombinedStatModifier",
+  "base": "StatModifier",
+  "properties": [
+    {
+      "path": ".refStat",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".refObject",
+      "type": "Name"
+    },
+    {
+      "path": ".opSymbol",
+      "type": "Name"
+    },
+    {
+      "path": ".value",
+      "type": "Float"
+    }
+  ]
+}

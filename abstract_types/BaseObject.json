@@ -1,0 +1,40 @@
+﻿{
+  "name": "BaseObject",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".statModifierGroups",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".effectors",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".statPools",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".statModifiers",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".weakspots",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".objectActions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".savable",
+      "type": "Bool"
+    }
+  ]
+}

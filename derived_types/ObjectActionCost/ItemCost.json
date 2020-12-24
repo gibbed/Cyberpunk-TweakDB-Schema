@@ -1,0 +1,10 @@
+﻿{
+  "name": "ItemCost",
+  "base": "ObjectActionCost",
+  "properties": [
+    {
+      "path": ".item",
+      "type": "ForeignKey"
+    }
+  ]
+}

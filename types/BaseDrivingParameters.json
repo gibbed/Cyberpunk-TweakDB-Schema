@@ -1,0 +1,41 @@
+﻿{
+  "name": "BaseDrivingParameters",
+  "properties": [
+    {
+      "path": ".brake",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".stopping",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".boostStats",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".accel",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".steeringReverse",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".steering",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".maxVisionDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".wheelTurnSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".hasPanic",
+      "type": "Bool"
+    }
+  ]
+}

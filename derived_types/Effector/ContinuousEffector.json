@@ -1,0 +1,11 @@
+﻿{
+  "name": "ContinuousEffector",
+  "base": "Effector",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".delayTime",
+      "type": "Float"
+    },
+  ]
+}

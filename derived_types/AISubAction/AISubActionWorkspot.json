@@ -1,0 +1,10 @@
+﻿{
+  "name": "AISubActionWorkspot",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".workspotObject",
+      "type": "ForeignKey"
+    }
+  ]
+}

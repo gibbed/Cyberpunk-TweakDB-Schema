@@ -1,0 +1,17 @@
+﻿{
+  "name": "AttackDirection",
+  "properties": [
+    {
+      "path": ".direction",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".startPosition",
+      "type": "Vector3"
+    },
+    {
+      "path": ".endPosition",
+      "type": "Vector3"
+    }
+  ]
+}

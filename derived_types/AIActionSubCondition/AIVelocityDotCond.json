@@ -1,0 +1,22 @@
+﻿{
+  "name": "AIVelocityDotCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".velocityTarget",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".positionTarget",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".dotRange",
+      "type": "Vector2"
+    },
+    {
+      "path": ".timePeriod",
+      "type": "Float"
+    }
+  ]
+}

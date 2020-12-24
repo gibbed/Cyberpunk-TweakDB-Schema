@@ -1,0 +1,22 @@
+﻿{
+  "name": "AttachmentSlot",
+  "properties": [
+    {
+      "path": ".entitySlotName",
+      "type": "String"
+    },
+    {
+      "path": ".localizedName",
+      "type": "String"
+    },
+    {
+      "path": ".tagsForActiveItemCycling",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".customOffset",
+      "type": "Vector3"
+    }
+  ]
+}

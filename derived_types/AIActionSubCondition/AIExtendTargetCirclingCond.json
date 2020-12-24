@@ -1,0 +1,18 @@
+﻿{
+  "name": "AIExtendTargetCirclingCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".destinationTarget",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".spreadIncreaseAngle",
+      "type": "Float"
+    }
+  ]
+}

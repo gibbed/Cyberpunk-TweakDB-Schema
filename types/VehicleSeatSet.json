@@ -1,0 +1,10 @@
+﻿{
+  "name": "VehicleSeatSet",
+  "properties": [
+    {
+      "path": ".vehSeats",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

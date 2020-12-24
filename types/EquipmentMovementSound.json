@@ -1,0 +1,13 @@
+﻿{
+  "name": "EquipmentMovementSound",
+  "properties": [
+    {
+      "path": ".audioMovementName",
+      "type": "Name"
+    },
+    {
+      "path": ".priority",
+      "type": "Float"
+    }
+  ]
+}

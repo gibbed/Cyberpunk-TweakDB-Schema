@@ -1,0 +1,5 @@
+﻿{
+  "name": "AISquadJustSelfFilter",
+  "base": "AITicketFilter",
+  "properties": []
+}

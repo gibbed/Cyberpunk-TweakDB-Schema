@@ -1,0 +1,10 @@
+﻿{
+  "name": "MiniGame_AllSymbols",
+  "properties": [
+    {
+      "path": ".symbolsWithRarity",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

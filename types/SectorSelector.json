@@ -1,0 +1,57 @@
+﻿{
+  "name": "SectorSelector",
+  "properties": [
+    {
+      "path": ".homeRight",
+      "type": "Bool"
+    },
+    {
+      "path": ".targetMid",
+      "type": "Bool"
+    },
+    {
+      "path": ".targetLeft",
+      "type": "Bool"
+    },
+    {
+      "path": ".targetBackRight",
+      "type": "Bool"
+    },
+    {
+      "path": ".targetBackMid",
+      "type": "Bool"
+    },
+    {
+      "path": ".homeMid",
+      "type": "Bool"
+    },
+    {
+      "path": ".targetBackLeft",
+      "type": "Bool"
+    },
+    {
+      "path": ".homeLeft",
+      "type": "Bool"
+    },
+    {
+      "path": ".targetRight",
+      "type": "Bool"
+    },
+    {
+      "path": ".homeBackLeft",
+      "type": "Bool"
+    },
+    {
+      "path": ".homeBackMid",
+      "type": "Bool"
+    },
+    {
+      "path": ".homeBackRight",
+      "type": "Bool"
+    },
+    {
+      "path": ".defensiveSelection",
+      "type": "Bool"
+    }
+  ]
+}

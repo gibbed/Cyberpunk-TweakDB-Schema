@@ -1,0 +1,25 @@
+﻿{
+  "name": "UIStatsMap",
+  "properties": [
+    {
+      "path": ".typesToCompareWith",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".statsToCompare",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".primaryStats",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".secondaryStats",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

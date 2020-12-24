@@ -1,0 +1,5 @@
+﻿{
+  "name": "ActionPayment",
+  "base": "ObjectAction",
+  "properties": []
+}

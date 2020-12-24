@@ -1,0 +1,25 @@
+﻿{
+  "name": "UICharacterCreationAttribute",
+  "properties": [
+    {
+      "path": ".description",
+      "type": "String"
+    },
+    {
+      "path": ".shortcut",
+      "type": "String"
+    },
+    {
+      "path": ".attribute",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".iconPath",
+      "type": "Name"
+    },
+    {
+      "path": ".value",
+      "type": "Float"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿{
+  "name": "ChoiceCaptionIconPart",
+  "base": "ChoiceCaptionPart",
+  "properties": [
+    {
+      "path": ".comment",
+      "type": "String"
+    },
+    {
+      "path": ".texturePartID",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".mappinVariant",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

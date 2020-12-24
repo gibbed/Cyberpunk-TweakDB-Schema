@@ -1,0 +1,17 @@
+﻿{
+  "name": "VehicleFxWheelsParticlesMaterial",
+  "properties": [
+    {
+      "path": ".material",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".skid_marks_particles",
+      "type": "ResRef"
+    },
+    {
+      "path": ".tire_tracks_particles",
+      "type": "ResRef"
+    }
+  ]
+}

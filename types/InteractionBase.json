@@ -1,0 +1,29 @@
+﻿{
+  "name": "InteractionBase",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "String"
+    },
+    {
+      "path": ".action",
+      "type": "String"
+    },
+    {
+      "path": ".prereqID",
+      "type": "String"
+    },
+    {
+      "path": ".captionIcon",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".caption",
+      "type": "LocKey"
+    },
+    {
+      "path": ".description",
+      "type": "LocKey"
+    }
+  ]
+}

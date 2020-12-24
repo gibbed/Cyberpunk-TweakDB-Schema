@@ -1,0 +1,22 @@
+﻿{
+  "name": "CurveStatModifier",
+  "base": "StatModifier",
+  "properties": [
+    {
+      "path": ".id",
+      "type": "String"
+    },
+    {
+      "path": ".column",
+      "type": "String"
+    },
+    {
+      "path": ".refStat",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".refObject",
+      "type": "Name"
+    }
+  ]
+}

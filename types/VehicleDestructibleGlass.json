@@ -1,0 +1,30 @@
+﻿{
+  "name": "VehicleDestructibleGlass",
+  "properties": [
+    {
+      "path": ".gridCells",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".component",
+      "type": "Name"
+    },
+    {
+      "path": ".effect",
+      "type": "Name"
+    },
+    {
+      "path": ".broken",
+      "type": "Name"
+    },
+    {
+      "path": ".threshold",
+      "type": "Float"
+    },
+    {
+      "path": ".isWindshield",
+      "type": "Bool"
+    }
+  ]
+}

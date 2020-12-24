@@ -1,0 +1,15 @@
+﻿{
+  "name": "AIPreviousAttackCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".previousAttackName",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".timeWindow",
+      "type": "Float"
+    }
+  ]
+}

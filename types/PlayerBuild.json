@@ -1,0 +1,26 @@
+﻿{
+  "name": "PlayerBuild",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".captionIcon",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".proficiencies",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".displayName",
+      "type": "LocKey"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

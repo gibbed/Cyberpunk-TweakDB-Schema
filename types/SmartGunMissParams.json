@@ -1,0 +1,65 @@
+﻿{
+  "name": "SmartGunMissParams",
+  "properties": [
+    {
+      "path": ".spiralCycleTimeMax",
+      "type": "Float"
+    },
+    {
+      "path": ".minMissAngleYaw",
+      "type": "Float"
+    },
+    {
+      "path": ".spiralRampDownFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".spiralRampUpDistanceEnd",
+      "type": "Float"
+    },
+    {
+      "path": ".spiralRadius",
+      "type": "Float"
+    },
+    {
+      "path": ".minMissAnglePitch",
+      "type": "Float"
+    },
+    {
+      "path": ".spiralRampUpDistanceStart",
+      "type": "Float"
+    },
+    {
+      "path": ".maxMissAnglePitch",
+      "type": "Float"
+    },
+    {
+      "path": ".spiralRampDownDistanceEnd",
+      "type": "Float"
+    },
+    {
+      "path": ".spiralRampDownDistanceStart",
+      "type": "Float"
+    },
+    {
+      "path": ".spiralCycleTimeMin",
+      "type": "Float"
+    },
+    {
+      "path": ".areaToIgnoreHalfYaw",
+      "type": "Float"
+    },
+    {
+      "path": ".maxMissAngleYaw",
+      "type": "Float"
+    },
+    {
+      "path": ".gravity",
+      "type": "Float"
+    },
+    {
+      "path": ".spiralRandomizePhase",
+      "type": "Bool"
+    }
+  ]
+}

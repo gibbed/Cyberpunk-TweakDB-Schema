@@ -1,0 +1,11 @@
+﻿{
+  "name": "AISubActionCharacterRecordEquip",
+  "base": "AISubAction",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".animationTime",
+      "type": "Float"
+    }
+  ]
+}

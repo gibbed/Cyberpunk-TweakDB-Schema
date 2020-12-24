@@ -1,0 +1,13 @@
+﻿{
+  "name": "Website",
+  "properties": [
+    {
+      "path": ".url",
+      "type": "String"
+    },
+    {
+      "path": ".widgetPath",
+      "type": "ResRef"
+    }
+  ]
+}

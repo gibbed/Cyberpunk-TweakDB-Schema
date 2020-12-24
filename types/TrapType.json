@@ -1,0 +1,9 @@
+﻿{
+  "name": "TrapType",
+  "properties": [
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

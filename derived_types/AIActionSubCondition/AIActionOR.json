@@ -1,0 +1,11 @@
+﻿{
+  "name": "AIActionOR",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".OR",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

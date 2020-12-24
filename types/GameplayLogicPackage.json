@@ -1,0 +1,42 @@
+﻿{
+  "name": "GameplayLogicPackage",
+  "properties": [
+    {
+      "path": ".UIData",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".statPools",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".effectors",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".stats",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".items",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".animationWrapperOverrides",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".prereq",
+      "type": "Name"
+    },
+    {
+      "path": ".stackable",
+      "type": "Bool"
+    }
+  ]
+}

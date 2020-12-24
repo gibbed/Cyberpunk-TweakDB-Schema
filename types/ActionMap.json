@@ -1,0 +1,14 @@
+﻿{
+  "name": "ActionMap",
+  "properties": [
+    {
+      "path": ".defaultMap",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".map",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

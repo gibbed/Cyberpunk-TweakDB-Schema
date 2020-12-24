@@ -1,0 +1,127 @@
+﻿{
+  "name": "VehicleDataPackage",
+  "properties": [
+    {
+      "path": ".vehSeatSet",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".animVars",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".boneNames",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".fppCameraOverride",
+      "type": "Name"
+    },
+    {
+      "path": ".seatingTemplateOverride",
+      "type": "Name"
+    },
+    {
+      "path": ".fromCombat",
+      "type": "Float"
+    },
+    {
+      "path": ".parkingAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".switchSeats",
+      "type": "Float"
+    },
+    {
+      "path": ".spoilerSpeedToDeploy",
+      "type": "Float"
+    },
+    {
+      "path": ".stealing",
+      "type": "Float"
+    },
+    {
+      "path": ".knockOffForce",
+      "type": "Float"
+    },
+    {
+      "path": ".toCombat",
+      "type": "Float"
+    },
+    {
+      "path": ".exitDelay",
+      "type": "Float"
+    },
+    {
+      "path": ".normal_open",
+      "type": "Float"
+    },
+    {
+      "path": ".stealing_open",
+      "type": "Float"
+    },
+    {
+      "path": ".slideDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".speedToClose",
+      "type": "Float"
+    },
+    {
+      "path": ".entering",
+      "type": "Float"
+    },
+    {
+      "path": ".spoilerSpeedToRetract",
+      "type": "Float"
+    },
+    {
+      "path": ".open_close_duration",
+      "type": "Float"
+    },
+    {
+      "path": ".hasSiren",
+      "type": "Bool"
+    },
+    {
+      "path": ".canStoreBody",
+      "type": "Bool"
+    },
+    {
+      "path": ".barnDoorsTailgate",
+      "type": "Bool"
+    },
+    {
+      "path": ".hasTurboCharger",
+      "type": "Bool"
+    },
+    {
+      "path": ".hasSpoiler",
+      "type": "Bool"
+    },
+    {
+      "path": ".interactiveTrunk",
+      "type": "Bool"
+    },
+    {
+      "path": ".slidingRearDoors",
+      "type": "Bool"
+    },
+    {
+      "path": ".supportsCombat",
+      "type": "Bool"
+    },
+    {
+      "path": ".interactiveHood",
+      "type": "Bool"
+    },
+    {
+      "path": ".disableSwitchSeats",
+      "type": "Bool"
+    }
+  ]
+}

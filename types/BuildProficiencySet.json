@@ -1,0 +1,10 @@
+﻿{
+  "name": "BuildProficiencySet",
+  "properties": [
+    {
+      "path": ".proficiencies",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

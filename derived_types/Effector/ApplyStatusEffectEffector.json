@@ -1,0 +1,26 @@
+﻿{
+  "name": "ApplyStatusEffectEffector",
+  "base": "Effector",
+  "properties": [
+    {
+      "path": ".applicationTarget",
+      "type": "String"
+    },
+    {
+      "path": ".statusEffect",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".count",
+      "type": "Float"
+    },
+    {
+      "path": ".inverted",
+      "type": "Bool"
+    },
+    {
+      "path": ".removeWithEffector",
+      "type": "Bool"
+    }
+  ]
+}

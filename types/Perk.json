@@ -1,0 +1,42 @@
+﻿{
+  "name": "Perk",
+  "properties": [
+    {
+      "path": ".loc_desc_key",
+      "type": "String"
+    },
+    {
+      "path": ".displayName",
+      "type": "String"
+    },
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".loc_name_key",
+      "type": "String"
+    },
+    {
+      "path": ".utility",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".levels",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    },
+    {
+      "path": ".iconPath",
+      "type": "Name"
+    },
+    {
+      "path": ".binkPath",
+      "type": "ResRef"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+﻿{
+  "name": "AIActionPhase",
+  "properties": [
+    {
+      "path": ".changeNPCState",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".dynamicDuration",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".movePolicy",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".notRepeatPhaseCondition",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".toNextPhaseCondition",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".repeat",
+      "type": "Int"
+    },
+    {
+      "path": ".duration",
+      "type": "Float"
+    },
+    {
+      "path": ".animationDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".toNextPhaseConditionCheckInterval",
+      "type": "Float"
+    },
+    {
+      "path": ".conditionSuccessDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".useDurationFromAnimSlot",
+      "type": "Bool"
+    },
+    {
+      "path": ".completeActionWithFailureOnCondition",
+      "type": "Bool"
+    }
+  ]
+}

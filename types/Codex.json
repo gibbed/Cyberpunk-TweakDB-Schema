@@ -1,0 +1,10 @@
+﻿{
+  "name": "Codex",
+  "properties": [
+    {
+      "path": ".entries",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

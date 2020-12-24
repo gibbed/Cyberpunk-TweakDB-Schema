@@ -1,0 +1,44 @@
+﻿{
+  "name": "RewardBase",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "String"
+    },
+    {
+      "path": ".recipes",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".statModifiers",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".currencyPackage",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".experience",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".items",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".achievement",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".photoModeItem",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

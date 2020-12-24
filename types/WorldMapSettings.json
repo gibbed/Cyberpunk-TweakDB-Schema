@@ -1,0 +1,42 @@
+﻿{
+  "name": "WorldMapSettings",
+  "properties": [
+    {
+      "path": ".topDownCamera",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".freeCamera",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".zoomLevels",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".zoomTransitionTime",
+      "type": "Float"
+    },
+    {
+      "path": ".mouseZoomTransitionTime",
+      "type": "Float"
+    },
+    {
+      "path": ".cameraModeTransitionTime",
+      "type": "Float"
+    },
+    {
+      "path": ".zoomToZoomValue",
+      "type": "Float"
+    },
+    {
+      "path": ".zoomToEnabledAtMinimumZoom",
+      "type": "Float"
+    },
+    {
+      "path": ".enableGroupTransitionAnimations",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿{
+  "name": "SlotItemPartPreset",
+  "properties": [
+    {
+      "path": ".slot",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".itemPartPreset",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".itemPartList",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

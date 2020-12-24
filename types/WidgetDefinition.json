@@ -1,0 +1,27 @@
+﻿{
+  "name": "WidgetDefinition",
+  "properties": [
+    {
+      "path": ".libraryID",
+      "type": "String"
+    },
+    {
+      "path": ".styles",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".ratios",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".libraryPath",
+      "type": "ResRef"
+    },
+    {
+      "path": ".useContentRatio",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "name": "AISubActionStartCooldown",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".cooldowns",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    }
+  ]
+}

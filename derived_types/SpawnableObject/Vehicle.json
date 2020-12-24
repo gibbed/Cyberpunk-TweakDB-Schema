@@ -1,0 +1,290 @@
+﻿{
+  "name": "Vehicle",
+  "base": "SpawnableObject",
+  "properties": [
+    {
+      "path": ".traffic_audio_resource",
+      "type": "String"
+    },
+    {
+      "path": ".player_audio_resource",
+      "type": "String"
+    },
+    {
+      "path": ".vehPassL_ProceduralFPPCameraParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".driving",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".type",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".tppCameraParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehDriver_ProceduralFPPCameraParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".fxCollision",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehDriveModelDataAI",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehAirControlAI",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehCrowdCollisionParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehPassR_ProceduralFPPCameraParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehPassCombatR_FPPCameraParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehDriver_FPPCameraParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehPassCombatL_FPPCameraParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".manufacturer",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".destruction",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehEngineData",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehDataPackage",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehDriverCombat_ProceduralFPPCameraParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehDefaultState",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".fxWheelsParticles",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehPassR_FPPCameraParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehAirControl",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".crowdMemberSettings",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehDriverCombat_FPPCameraParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehPassCombatL_ProceduralFPPCameraParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehBehaviorData",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehWheelDimensionsSetup",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".fxWheelsDecals",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".affiliation",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehDriveModelData",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".cameraManagerParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".icon",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehPassL_FPPCameraParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehPassCombatR_ProceduralFPPCameraParams",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".model",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".visualDestruction",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehicleUIData",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".vehImpactTraffic",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".interiorDamageColor",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".leftBlinkerlightColor",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".headlightColor",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".reverselightColor",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".rightBLinkerlightColor",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".interiorColor",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".attachmentSlots",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".brakelightColor",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".tppCameraPresets",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".weapons",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".randomPassengers",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".queryOnlyExceptions",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".displayName",
+      "type": "LocKey"
+    },
+    {
+      "path": ".widgetStyleSheetPath",
+      "type": "ResRef"
+    },
+    {
+      "path": ".archetypeName",
+      "type": "Name"
+    },
+    {
+      "path": ".audioResourceName",
+      "type": "Name"
+    },
+    {
+      "path": ".destroyedAppearance",
+      "type": "Name"
+    },
+    {
+      "path": ".curvesPath",
+      "type": "ResRef"
+    },
+    {
+      "path": ".unmountOffsetPosition",
+      "type": "Vector3"
+    },
+    {
+      "path": ".rightFrontCamberOffset",
+      "type": "Vector3"
+    },
+    {
+      "path": ".leftFrontCamberOffset",
+      "type": "Vector3"
+    },
+    {
+      "path": ".rightBackCamberOffset",
+      "type": "Vector3"
+    },
+    {
+      "path": ".leftBackCamberOffset",
+      "type": "Vector3"
+    },
+    {
+      "path": ".rightBackCamber",
+      "type": "Float"
+    },
+    {
+      "path": ".leftBackCamber",
+      "type": "Float"
+    },
+    {
+      "path": ".leftFrontCamber",
+      "type": "Float"
+    },
+    {
+      "path": ".rightFrontCamber",
+      "type": "Float"
+    },
+    {
+      "path": ".enableDestruction",
+      "type": "Bool"
+    }
+  ]
+}

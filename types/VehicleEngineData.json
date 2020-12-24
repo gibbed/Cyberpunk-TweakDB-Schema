@@ -1,0 +1,62 @@
+﻿{
+  "name": "VehicleEngineData",
+  "properties": [
+    {
+      "path": ".gears",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".gearCurvesPath",
+      "type": "ResRef"
+    },
+    {
+      "path": ".gearChangeCooldown",
+      "type": "Float"
+    },
+    {
+      "path": ".clutchSyncTorqueWheelMul",
+      "type": "Float"
+    },
+    {
+      "path": ".minRPM",
+      "type": "Float"
+    },
+    {
+      "path": ".wheelsResistanceRatio",
+      "type": "Float"
+    },
+    {
+      "path": ".flyWheelMomentOfInertia",
+      "type": "Float"
+    },
+    {
+      "path": ".engineMaxTorque",
+      "type": "Float"
+    },
+    {
+      "path": ".clutchSyncTorqueMul",
+      "type": "Float"
+    },
+    {
+      "path": ".resistanceTorque",
+      "type": "Float"
+    },
+    {
+      "path": ".maxRPM",
+      "type": "Float"
+    },
+    {
+      "path": ".gearChangeTime",
+      "type": "Float"
+    },
+    {
+      "path": ".instantR1GearChange",
+      "type": "Bool"
+    },
+    {
+      "path": ".forceReverseRPMToMin",
+      "type": "Bool"
+    }
+  ]
+}

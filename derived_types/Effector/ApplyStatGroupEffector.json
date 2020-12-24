@@ -1,0 +1,14 @@
+﻿{
+  "name": "ApplyStatGroupEffector",
+  "base": "Effector",
+  "properties": [
+    {
+      "path": ".applicationTarget",
+      "type": "String"
+    },
+    {
+      "path": ".statGroup",
+      "type": "ForeignKey"
+    }
+  ]
+}

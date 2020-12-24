@@ -1,0 +1,15 @@
+﻿{
+  "name": "VehicleFxWheelsDecals",
+  "properties": [
+    {
+      "path": ".materials",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".smear_materials",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

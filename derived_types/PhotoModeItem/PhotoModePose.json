@@ -1,0 +1,44 @@
+﻿{
+  "name": "PhotoModePose",
+  "base": "PhotoModeItem",
+  "properties": [
+    {
+      "path": ".disableLookAtForGarmentTags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".filterOutForGarmentTags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".lookAtPreset",
+      "type": "Name"
+    },
+    {
+      "path": ".animationName",
+      "type": "Name"
+    },
+    {
+      "path": ".acceptedWeaponConfig",
+      "type": "Name"
+    },
+    {
+      "path": ".category",
+      "type": "Name"
+    },
+    {
+      "path": ".poseStateConfig",
+      "type": "Name"
+    },
+    {
+      "path": ".positionOffset",
+      "type": "Vector3"
+    },
+    {
+      "path": ".poseSize",
+      "type": "Float"
+    }
+  ]
+}

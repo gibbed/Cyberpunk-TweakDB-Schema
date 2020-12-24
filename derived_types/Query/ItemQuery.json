@@ -1,0 +1,20 @@
+﻿{
+  "name": "ItemQuery",
+  "base": "Query",
+  "properties": [
+    {
+      "path": ".recordType",
+      "type": "Name"
+    },
+    {
+      "path": ".tags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".tagsToExclude",
+      "type": "Name",
+      "array": true
+    }
+  ]
+}

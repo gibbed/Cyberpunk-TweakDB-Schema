@@ -1,0 +1,23 @@
+﻿{
+  "name": "CodexRecord",
+  "properties": [
+    {
+      "path": ".recordContent",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".tags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".unlockPrereq",
+      "type": "Name"
+    },
+    {
+      "path": ".unlockedFromStart",
+      "type": "Bool"
+    }
+  ]
+}

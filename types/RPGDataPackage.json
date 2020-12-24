@@ -1,0 +1,25 @@
+﻿{
+  "name": "RPGDataPackage",
+  "properties": [
+    {
+      "path": ".statModifiers",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".statModifierGroups",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".statPools",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".effectors",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

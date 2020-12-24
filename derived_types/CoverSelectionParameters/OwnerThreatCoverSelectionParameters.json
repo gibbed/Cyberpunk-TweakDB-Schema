@@ -1,0 +1,10 @@
+﻿{
+  "name": "OwnerThreatCoverSelectionParameters",
+  "base": "CoverSelectionParameters",
+  "properties": [
+    {
+      "path": ".ownerThreatCoverAngle",
+      "type": "Float"
+    }
+  ]
+}

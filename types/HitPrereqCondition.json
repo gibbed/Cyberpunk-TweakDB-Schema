@@ -1,0 +1,13 @@
+﻿{
+  "name": "HitPrereqCondition",
+  "properties": [
+    {
+      "path": ".type",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".invert",
+      "type": "Bool"
+    }
+  ]
+}

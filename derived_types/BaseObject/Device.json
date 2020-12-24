@@ -1,0 +1,15 @@
+﻿{
+  "name": "Device",
+  "base": "BaseObject",
+  "properties": [
+    {
+      "path": ".RPGActions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".audioResourceName",
+      "type": "Name"
+    }
+  ]
+}

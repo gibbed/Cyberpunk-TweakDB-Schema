@@ -1,0 +1,18 @@
+﻿{
+  "name": "QuestSystemSetup",
+  "properties": [
+    {
+      "path": ".customTooltipActions",
+      "type": "String",
+      "array": true
+    },
+    {
+      "path": ".contentTokenSpawnMinCooldown",
+      "type": "Float"
+    },
+    {
+      "path": ".contentTokenSpawnMaxCooldown",
+      "type": "Float"
+    }
+  ]
+}

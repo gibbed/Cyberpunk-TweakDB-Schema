@@ -1,0 +1,34 @@
+﻿{
+  "name": "AIHitCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".attackTag",
+      "type": "Name"
+    },
+    {
+      "path": ".minHitSeverity",
+      "type": "Int"
+    },
+    {
+      "path": ".maxHitSeverity",
+      "type": "Int"
+    },
+    {
+      "path": ".targetHitCount",
+      "type": "Int"
+    },
+    {
+      "path": ".hitTimeout",
+      "type": "Float"
+    },
+    {
+      "path": ".cumulatedDamageThreshold",
+      "type": "Int"
+    }
+  ]
+}

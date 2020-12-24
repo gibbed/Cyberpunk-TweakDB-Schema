@@ -1,0 +1,25 @@
+﻿{
+  "name": "TPPLookAtPresets",
+  "properties": [
+    {
+      "path": ".noWeaponPresets",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".weaponReadyPresets",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".reloadPresets",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".weaponSafePresets",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

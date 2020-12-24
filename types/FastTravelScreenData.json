@@ -1,0 +1,25 @@
+﻿{
+  "name": "FastTravelScreenData",
+  "properties": [
+    {
+      "path": ".time",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".district",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".weather",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".extendingResourcePath",
+      "type": "ResRef"
+    },
+    {
+      "path": ".resourcePath",
+      "type": "ResRef"
+    }
+  ]
+}

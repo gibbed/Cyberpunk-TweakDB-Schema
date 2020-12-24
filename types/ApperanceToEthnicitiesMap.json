@@ -1,0 +1,10 @@
+﻿{
+  "name": "ApperanceToEthnicitiesMap",
+  "properties": [
+    {
+      "path": ".map",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

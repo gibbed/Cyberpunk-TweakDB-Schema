@@ -1,0 +1,38 @@
+﻿{
+  "name": "ConsumableItem",
+  "base": "Item",
+  "properties": [
+    {
+      "path": ".consumableType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".consumableBaseName",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".atlasIcon",
+      "type": "Name"
+    },
+    {
+      "path": ".removePoint",
+      "type": "Float"
+    },
+    {
+      "path": ".returnBlendDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".castPoint",
+      "type": "Float"
+    },
+    {
+      "path": ".initBlendDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".cycleDuration",
+      "type": "Float"
+    }
+  ]
+}

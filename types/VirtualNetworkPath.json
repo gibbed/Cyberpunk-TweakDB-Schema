@@ -1,0 +1,10 @@
+﻿{
+  "name": "VirtualNetworkPath",
+  "properties": [
+    {
+      "path": ".points",
+      "type": "Vector3",
+      "array": true
+    }
+  ]
+}

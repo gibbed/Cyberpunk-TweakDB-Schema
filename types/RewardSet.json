@@ -1,0 +1,10 @@
+﻿{
+  "name": "RewardSet",
+  "properties": [
+    {
+      "path": ".rewardItems",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

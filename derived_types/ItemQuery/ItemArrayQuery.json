@@ -1,0 +1,14 @@
+﻿{
+  "name": "ItemArrayQuery",
+  "base": "ItemQuery",
+  "properties": [
+    {
+      "path": ".minItems",
+      "type": "Int"
+    },
+    {
+      "path": ".maxItems",
+      "type": "Int"
+    }
+  ]
+}

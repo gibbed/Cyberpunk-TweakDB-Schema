@@ -1,0 +1,9 @@
+﻿{
+  "name": "IPrereq",
+  "properties": [
+    {
+      "path": ".prereqClassName",
+      "type": "Name"
+    }
+  ]
+}

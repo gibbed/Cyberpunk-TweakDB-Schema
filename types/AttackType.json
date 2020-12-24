@@ -1,0 +1,13 @@
+﻿{
+  "name": "AttackType",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "String"
+    },
+    {
+      "path": ".comment",
+      "type": "String"
+    }
+  ]
+}

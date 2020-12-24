@@ -1,0 +1,89 @@
+﻿{
+  "name": "ProgressionBuild",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".perkSet",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".proficiencySet",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".lifePath",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".attributeSet",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".cyberwareSet",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".equipmentSet",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".inventorySet",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".craftBook",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".startingAttributes",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".startingCyberware",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".startingProficiencies",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".startingPerks",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".inventoryLayout",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".startingItems",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".startingEquipment",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".perkSets",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    },
+    {
+      "path": ".randomizeClothing",
+      "type": "Bool"
+    }
+  ]
+}

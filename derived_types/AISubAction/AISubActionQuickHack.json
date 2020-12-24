@@ -1,0 +1,27 @@
+﻿{
+  "name": "AISubActionQuickHack",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".actionResult",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".pauseUploadCondition",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".establishContactOnly",
+      "type": "Bool"
+    }
+  ]
+}

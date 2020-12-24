@@ -1,0 +1,65 @@
+﻿{
+  "name": "MaterialFx",
+  "properties": [
+    {
+      "path": ".impact_reflected_effect",
+      "type": "ResRef",
+      "array": true
+    },
+    {
+      "path": ".impact_dismemberment_piercing",
+      "type": "ResRef",
+      "array": true
+    },
+    {
+      "path": ".impact_main_effect",
+      "type": "ResRef",
+      "array": true
+    },
+    {
+      "path": ".impact_pierce_splatter_near",
+      "type": "ResRef",
+      "array": true
+    },
+    {
+      "path": ".impact_decal",
+      "type": "ResRef",
+      "array": true
+    },
+    {
+      "path": ".impact_pierce_decal",
+      "type": "ResRef",
+      "array": true
+    },
+    {
+      "path": ".impact_pierce_splatter_far",
+      "type": "ResRef",
+      "array": true
+    },
+    {
+      "path": ".impact_pierce_effect",
+      "type": "ResRef",
+      "array": true
+    },
+    {
+      "path": ".pierce_near_distance",
+      "type": "Float"
+    },
+    {
+      "path": ".pierce_far_distance",
+      "type": "Float"
+    },
+    {
+      "path": ".reflected_angle_max",
+      "type": "Float"
+    },
+    {
+      "path": ".pierce_enter",
+      "type": "Bool"
+    },
+    {
+      "path": ".pierce_exit",
+      "type": "Bool"
+    }
+  ]
+}

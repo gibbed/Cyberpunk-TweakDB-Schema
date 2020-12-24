@@ -1,0 +1,51 @@
+﻿{
+  "name": "AISubActionSetTargetByTag",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".rangeObj",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".lineOfSightTarget",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".allowedOffMeshTags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".selectionMethod",
+      "type": "Name"
+    },
+    {
+      "path": ".tag",
+      "type": "Name"
+    },
+    {
+      "path": ".rangeFromOwner",
+      "type": "Vector2"
+    },
+    {
+      "path": ".rangeFromObj",
+      "type": "Vector2"
+    },
+    {
+      "path": ".avoidSelectingSameTargetMethod",
+      "type": "Int"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".avoidSelectingSameTarget",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "name": "MiniGame_SymbolsWithRarity",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "String"
+    },
+    {
+      "path": ".symbol",
+      "type": "String"
+    },
+    {
+      "path": ".probability",
+      "type": "Float"
+    }
+  ]
+}

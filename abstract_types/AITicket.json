@@ -1,0 +1,82 @@
+﻿{
+  "name": "AITicket",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".ticketType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".syncWithTickets",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".cooldowns",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".activationCondition",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".deactivationCondition",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".maxNumberOfTickets",
+      "type": "Int"
+    },
+    {
+      "path": ".minNumberOfTickets",
+      "type": "Int"
+    },
+    {
+      "path": ".maxTicketDesyncTime",
+      "type": "Float"
+    },
+    {
+      "path": ".minTicketDesyncTime",
+      "type": "Float"
+    },
+    {
+      "path": ".percentageNumberOfTickets",
+      "type": "Float"
+    },
+    {
+      "path": ".timeout",
+      "type": "Float"
+    },
+    {
+      "path": ".syncTimeout",
+      "type": "Float"
+    },
+    {
+      "path": ".deactivationConditionCheckInterval",
+      "type": "Float"
+    },
+    {
+      "path": ".conditionSuccessDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".scaleNumberOfTicketsFromWorkspots",
+      "type": "Bool"
+    },
+    {
+      "path": ".releaseAll",
+      "type": "Bool"
+    },
+    {
+      "path": ".revokeOnTimeout",
+      "type": "Bool"
+    },
+    {
+      "path": ".startCooldownOnFailure",
+      "type": "Bool"
+    }
+  ]
+}

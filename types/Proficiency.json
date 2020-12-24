@@ -1,0 +1,68 @@
+﻿{
+  "name": "Proficiency",
+  "properties": [
+    {
+      "path": ".loc_desc_key",
+      "type": "String"
+    },
+    {
+      "path": ".loc_name_key",
+      "type": "String"
+    },
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".displayName",
+      "type": "String"
+    },
+    {
+      "path": ".trait",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".tiedAttribute",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".perkAreas",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".passiveBonuses",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".packages",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    },
+    {
+      "path": ".curveSetName",
+      "type": "Name"
+    },
+    {
+      "path": ".curveName",
+      "type": "Name"
+    },
+    {
+      "path": ".iconPath",
+      "type": "Name"
+    },
+    {
+      "path": ".maxLevel",
+      "type": "Int"
+    },
+    {
+      "path": ".minLevel",
+      "type": "Int"
+    }
+  ]
+}

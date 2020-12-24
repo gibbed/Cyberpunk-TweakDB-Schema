@@ -1,0 +1,25 @@
+﻿{
+  "name": "VehicleUIData",
+  "properties": [
+    {
+      "path": ".driveLayout",
+      "type": "String"
+    },
+    {
+      "path": ".productionYear",
+      "type": "String"
+    },
+    {
+      "path": ".info",
+      "type": "String"
+    },
+    {
+      "path": ".mass",
+      "type": "Float"
+    },
+    {
+      "path": ".horsepower",
+      "type": "Float"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "name": "VehicleDeformableZone",
+  "properties": [
+    {
+      "path": ".shapes",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".gridCells",
+      "type": "Int",
+      "array": true
+    }
+  ]
+}

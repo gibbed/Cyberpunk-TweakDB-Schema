@@ -1,0 +1,5 @@
+﻿{
+  "name": "device_gameplay_role",
+  "base": "ScannableData",
+  "properties": []
+}

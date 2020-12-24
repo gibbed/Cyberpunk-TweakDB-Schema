@@ -1,0 +1,93 @@
+﻿{
+  "name": "WorldMapFreeCameraSettings",
+  "properties": [
+    {
+      "path": ".rotationMin",
+      "type": "EulerAngles"
+    },
+    {
+      "path": ".rotationMax",
+      "type": "EulerAngles"
+    },
+    {
+      "path": ".rotationSpeed",
+      "type": "EulerAngles"
+    },
+    {
+      "path": ".rotationDefault",
+      "type": "EulerAngles"
+    },
+    {
+      "path": ".zoomDefaultInFastTravel",
+      "type": "Float"
+    },
+    {
+      "path": ".panSpeedMax",
+      "type": "Float"
+    },
+    {
+      "path": ".mouseRotateStrength",
+      "type": "Float"
+    },
+    {
+      "path": ".mousePanStrength",
+      "type": "Float"
+    },
+    {
+      "path": ".zoomSpeedMin",
+      "type": "Float"
+    },
+    {
+      "path": ".zoomDefault",
+      "type": "Float"
+    },
+    {
+      "path": ".zoomMax",
+      "type": "Float"
+    },
+    {
+      "path": ".fovMin",
+      "type": "Float"
+    },
+    {
+      "path": ".zoomSpeedMax",
+      "type": "Float"
+    },
+    {
+      "path": ".zoomMin",
+      "type": "Float"
+    },
+    {
+      "path": ".mouseZoomSpeedMin",
+      "type": "Float"
+    },
+    {
+      "path": ".fovMax",
+      "type": "Float"
+    },
+    {
+      "path": ".mouseZoomSpeedMax",
+      "type": "Float"
+    },
+    {
+      "path": ".panSpeedMin",
+      "type": "Float"
+    },
+    {
+      "path": ".iconScaleMin",
+      "type": "Float"
+    },
+    {
+      "path": ".iconScaleMax",
+      "type": "Float"
+    },
+    {
+      "path": ".zoomSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".pitchRelativeToZoom",
+      "type": "Bool"
+    }
+  ]
+}

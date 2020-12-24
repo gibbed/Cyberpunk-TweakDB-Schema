@@ -1,0 +1,24 @@
+﻿{
+  "name": "ArchetypeData",
+  "properties": [
+    {
+      "path": ".type",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".statModifierGroups",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".abilityGroups",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".shootingPatternPackages",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "name": "MetaQuest",
+  "properties": [
+    {
+      "path": ".enumName",
+      "type": "String"
+    },
+    {
+      "path": ".enumComment",
+      "type": "String"
+    }
+  ]
+}

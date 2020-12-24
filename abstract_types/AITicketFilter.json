@@ -1,0 +1,19 @@
+﻿{
+  "name": "AITicketFilter",
+  "base": "AITicketCondition",
+  "abstract": true,
+  "properties": [
+    {
+      "path": ".resetMembers",
+      "type": "Bool"
+    },
+    {
+      "path": ".resetMembersIncludingUnwillings",
+      "type": "Bool"
+    },
+    {
+      "path": ".skipSelfOnce",
+      "type": "Bool"
+    }
+  ]
+}

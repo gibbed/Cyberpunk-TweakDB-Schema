@@ -1,0 +1,5 @@
+﻿{
+  "name": "RegularGDM",
+  "base": "GrenadeDeliveryMethod",
+  "properties": []
+}

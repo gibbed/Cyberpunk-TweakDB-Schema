@@ -1,0 +1,10 @@
+﻿{
+  "name": "AbsoluteZLimiterCoverSelectionParameters",
+  "base": "CoverSelectionParameters",
+  "properties": [
+    {
+      "path": ".zLimit",
+      "type": "Float"
+    }
+  ]
+}

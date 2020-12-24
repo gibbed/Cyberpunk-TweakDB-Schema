@@ -1,0 +1,97 @@
+﻿{
+  "name": "VehicleWheelDrivingPreset",
+  "properties": [
+    {
+      "path": ".tireLongitudinalSlipEffectsMul",
+      "type": "Float"
+    },
+    {
+      "path": ".tireRollingResistanceCoef",
+      "type": "Float"
+    },
+    {
+      "path": ".mass",
+      "type": "Float"
+    },
+    {
+      "path": ".swaybarDisplacementLimit",
+      "type": "Float"
+    },
+    {
+      "path": ".tireFrictionCoef",
+      "type": "Float"
+    },
+    {
+      "path": ".tireLateralSlipEffectsMul",
+      "type": "Float"
+    },
+    {
+      "path": ".maxBrakingTorque",
+      "type": "Float"
+    },
+    {
+      "path": ".springDampingLowRateCompression",
+      "type": "Float"
+    },
+    {
+      "path": ".springReboundDamping",
+      "type": "Float"
+    },
+    {
+      "path": ".springBoundDampingLowRate",
+      "type": "Float"
+    },
+    {
+      "path": ".extremeCompressionEventScalor",
+      "type": "Float"
+    },
+    {
+      "path": ".springDampingHighRateCompression",
+      "type": "Float"
+    },
+    {
+      "path": ".swaybarStiffness",
+      "type": "Float"
+    },
+    {
+      "path": ".springDamping",
+      "type": "Float"
+    },
+    {
+      "path": ".frictionMulLongitudinal",
+      "type": "Float"
+    },
+    {
+      "path": ".frictionMulLateral",
+      "type": "Float"
+    },
+    {
+      "path": ".swaybarLengthScalar",
+      "type": "Float"
+    },
+    {
+      "path": ".springReboundDampingLowRate",
+      "type": "Float"
+    },
+    {
+      "path": ".springStiffness",
+      "type": "Float"
+    },
+    {
+      "path": ".visualSuspensionDroop",
+      "type": "Float"
+    },
+    {
+      "path": ".logicalSuspensionCompressionLength",
+      "type": "Float"
+    },
+    {
+      "path": ".visualSuspensionCompressionLength",
+      "type": "Float"
+    },
+    {
+      "path": ".wheelsVerticalOffset",
+      "type": "Float"
+    }
+  ]
+}

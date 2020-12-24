@@ -1,0 +1,14 @@
+﻿{
+  "name": "AISubActionQueueAIEvent",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "Name"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "name": "VehicleWheelDimensionsSetup",
+  "properties": [
+    {
+      "path": ".frontPreset",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".backPreset",
+      "type": "ForeignKey"
+    }
+  ]
+}

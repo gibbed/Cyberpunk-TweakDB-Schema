@@ -1,0 +1,13 @@
+﻿{
+  "name": "WeightedCharacter",
+  "properties": [
+    {
+      "path": ".character",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".weight",
+      "type": "Float"
+    }
+  ]
+}

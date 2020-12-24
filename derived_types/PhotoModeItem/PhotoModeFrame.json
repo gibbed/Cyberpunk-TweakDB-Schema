@@ -1,0 +1,32 @@
+﻿{
+  "name": "PhotoModeFrame",
+  "base": "PhotoModeItem",
+  "properties": [
+    {
+      "path": ".imagePartsNames",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".color",
+      "type": "Int",
+      "array": true
+    },
+    {
+      "path": ".atlasName",
+      "type": "ResRef"
+    },
+    {
+      "path": ".libraryItemName",
+      "type": "Name"
+    },
+    {
+      "path": ".flipVertical",
+      "type": "Bool"
+    },
+    {
+      "path": ".flipHorizontal",
+      "type": "Bool"
+    }
+  ]
+}

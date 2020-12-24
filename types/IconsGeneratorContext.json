@@ -1,0 +1,13 @@
+﻿{
+  "name": "IconsGeneratorContext",
+  "properties": [
+    {
+      "path": ".malePlayerAnimSet",
+      "type": "ResRef"
+    },
+    {
+      "path": ".femalePlayerAnimSet",
+      "type": "ResRef"
+    }
+  ]
+}

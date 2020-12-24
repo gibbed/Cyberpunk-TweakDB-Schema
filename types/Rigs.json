@@ -1,0 +1,10 @@
+﻿{
+  "name": "Rigs",
+  "properties": [
+    {
+      "path": ".rigsResRefs",
+      "type": "ResRef",
+      "array": true
+    }
+  ]
+}

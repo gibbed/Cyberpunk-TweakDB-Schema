@@ -1,0 +1,26 @@
+﻿{
+  "name": "AIDirectorScheduleEntry",
+  "properties": [
+    {
+      "path": ".entryStartType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".plans",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".duration",
+      "type": "Float"
+    },
+    {
+      "path": ".tensionDelta",
+      "type": "Float"
+    },
+    {
+      "path": ".killsLimit",
+      "type": "Int"
+    }
+  ]
+}

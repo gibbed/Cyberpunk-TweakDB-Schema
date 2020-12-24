@@ -1,0 +1,14 @@
+﻿{
+  "name": "PhotoModeEffect",
+  "base": "PhotoModeItem",
+  "properties": [
+    {
+      "path": ".lutPath",
+      "type": "Name"
+    },
+    {
+      "path": ".hdrLutPath",
+      "type": "Name"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+﻿{
+  "name": "AISpatialCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".targetOpt",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".source",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".spatialHintMults",
+      "type": "Vector3"
+    },
+    {
+      "path": ".zDiff",
+      "type": "Vector2"
+    },
+    {
+      "path": ".coneAngle",
+      "type": "Vector2"
+    },
+    {
+      "path": ".distance",
+      "type": "Vector2"
+    },
+    {
+      "path": ".angleDirection",
+      "type": "Int"
+    },
+    {
+      "path": ".predictionTime",
+      "type": "Float"
+    },
+    {
+      "path": ".useTargetPOV",
+      "type": "Bool"
+    }
+  ]
+}

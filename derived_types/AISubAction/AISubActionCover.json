@@ -1,0 +1,57 @@
+﻿{
+  "name": "AISubActionCover",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".insideCoverReselectionCooldown",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".coverExposureMethods",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".exposureMethodPriority",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".commandCoverConditions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".clearLOSDistanceTolerance",
+      "type": "Float"
+    },
+    {
+      "path": ".exposedInCover",
+      "type": "Int"
+    },
+    {
+      "path": ".prioritizeBlindFireAfterHit",
+      "type": "Float"
+    },
+    {
+      "path": ".setDesiredCover",
+      "type": "Int"
+    },
+    {
+      "path": ".setCurrentCover",
+      "type": "Bool"
+    },
+    {
+      "path": ".setCoverExposureAnim",
+      "type": "Bool"
+    },
+    {
+      "path": ".setInitialCoverData",
+      "type": "Bool"
+    }
+  ]
+}

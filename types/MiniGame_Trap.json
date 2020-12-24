@@ -1,0 +1,29 @@
+﻿{
+  "name": "MiniGame_Trap",
+  "properties": [
+    {
+      "path": ".trapType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".trapIcon",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".trapDescription",
+      "type": "LocKey"
+    },
+    {
+      "path": ".trapName",
+      "type": "LocKey"
+    },
+    {
+      "path": ".spawnProbability",
+      "type": "Float"
+    },
+    {
+      "path": ".negativeTrap",
+      "type": "Bool"
+    }
+  ]
+}

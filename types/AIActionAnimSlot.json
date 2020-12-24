@@ -1,0 +1,33 @@
+﻿{
+  "name": "AIActionAnimSlot",
+  "properties": [
+    {
+      "path": ".startupSlide",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".loopSlide",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".recoverySlide",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".usePoseMatching",
+      "type": "Bool"
+    },
+    {
+      "path": ".useRootMotion",
+      "type": "Bool"
+    },
+    {
+      "path": ".resetRagdollOnStart",
+      "type": "Bool"
+    },
+    {
+      "path": ".useDynamicObjectsCheck",
+      "type": "Bool"
+    }
+  ]
+}

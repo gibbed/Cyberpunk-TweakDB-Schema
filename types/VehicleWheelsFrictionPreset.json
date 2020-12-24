@@ -1,0 +1,45 @@
+﻿{
+  "name": "VehicleWheelsFrictionPreset",
+  "properties": [
+    {
+      "path": ".displayName",
+      "type": "String"
+    },
+    {
+      "path": ".frictionCurveSet",
+      "type": "ResRef"
+    },
+    {
+      "path": ".looseSurfaceLongDriveResistanceCoeff",
+      "type": "Float"
+    },
+    {
+      "path": ".looseSurfaceLongSpeedMax",
+      "type": "Float"
+    },
+    {
+      "path": ".looseSurfaceLatSpeedMax",
+      "type": "Float"
+    },
+    {
+      "path": ".frictionLongMultiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".looseSurfaceLatResistanceCoeff",
+      "type": "Float"
+    },
+    {
+      "path": ".looseSurfaceLongNonDriveResistanceCoeff",
+      "type": "Float"
+    },
+    {
+      "path": ".frictionLatMultiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".audioMaterialCoeff",
+      "type": "Float"
+    }
+  ]
+}

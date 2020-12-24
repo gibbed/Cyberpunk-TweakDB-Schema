@@ -1,0 +1,36 @@
+﻿{
+  "name": "EthnicNames",
+  "properties": [
+    {
+      "path": ".gender",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".ethnicity",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".surnames",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".visualTags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".names",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".nameOrderFormat",
+      "type": "LocKey"
+    },
+    {
+      "path": ".displayName",
+      "type": "LocKey"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "name": "AdvertisementFormatDef",
+  "properties": [
+    {
+      "path": ".format",
+      "type": "String"
+    },
+    {
+      "path": ".libraryName",
+      "type": "String"
+    },
+    {
+      "path": ".localizationKeyOverride",
+      "type": "Name"
+    }
+  ]
+}

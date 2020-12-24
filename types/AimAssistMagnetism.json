@@ -1,0 +1,69 @@
+﻿{
+  "name": "AimAssistMagnetism",
+  "properties": [
+    {
+      "path": ".distanceMultiplier",
+      "type": "Name"
+    },
+    {
+      "path": ".stickInputMagMultiplier",
+      "type": "Name"
+    },
+    {
+      "path": ".maxStrength",
+      "type": "Vector2"
+    },
+    {
+      "path": ".yawBoundAdditiveForPitchMagnetism",
+      "type": "Float"
+    },
+    {
+      "path": ".pitchBoundAdditiveForYawMagnetism",
+      "type": "Float"
+    },
+    {
+      "path": ".blendOnTime",
+      "type": "Float"
+    },
+    {
+      "path": ".blendOffTime",
+      "type": "Float"
+    },
+    {
+      "path": ".maxTimeTillOffTarget",
+      "type": "Float"
+    },
+    {
+      "path": ".minTimeTillOffTarget",
+      "type": "Float"
+    },
+    {
+      "path": ".softLockTimeToReach",
+      "type": "Float"
+    },
+    {
+      "path": ".fullStickThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".fullStickYawAngleDisable",
+      "type": "Float"
+    },
+    {
+      "path": ".targetLostBlendOut",
+      "type": "Bool"
+    },
+    {
+      "path": ".isEnabled",
+      "type": "Bool"
+    },
+    {
+      "path": ".checkWeaponEffectiveRange",
+      "type": "Bool"
+    },
+    {
+      "path": ".disableWithNoInput",
+      "type": "Bool"
+    }
+  ]
+}

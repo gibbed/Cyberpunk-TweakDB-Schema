@@ -1,0 +1,22 @@
+﻿{
+  "name": "AISubActionModifyStatPool",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".statPool",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".amount",
+      "type": "Float"
+    },
+    {
+      "path": ".perc",
+      "type": "Bool"
+    }
+  ]
+}

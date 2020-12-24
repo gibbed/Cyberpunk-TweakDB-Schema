@@ -1,0 +1,10 @@
+﻿{
+  "name": "CrowdSettingsPackageBase",
+  "properties": [
+    {
+      "path": ".specs",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

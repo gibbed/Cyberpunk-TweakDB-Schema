@@ -1,0 +1,17 @@
+﻿{
+  "name": "Output",
+  "properties": [
+    {
+      "path": ".outputName",
+      "type": "String"
+    },
+    {
+      "path": ".priority",
+      "type": "Int"
+    },
+    {
+      "path": ".AIPriority",
+      "type": "Float"
+    }
+  ]
+}

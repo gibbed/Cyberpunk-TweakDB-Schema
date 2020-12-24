@@ -1,0 +1,22 @@
+﻿{
+  "name": "AvoidLineOfSightSelectionParameters",
+  "base": "CoverSelectionParameters",
+  "properties": [
+    {
+      "path": ".angle",
+      "type": "Float"
+    },
+    {
+      "path": ".multiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".height",
+      "type": "Float"
+    },
+    {
+      "path": ".distance",
+      "type": "Float"
+    }
+  ]
+}

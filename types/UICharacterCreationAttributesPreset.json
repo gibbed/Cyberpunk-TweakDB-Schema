@@ -1,0 +1,10 @@
+﻿{
+  "name": "UICharacterCreationAttributesPreset",
+  "properties": [
+    {
+      "path": ".attributes",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

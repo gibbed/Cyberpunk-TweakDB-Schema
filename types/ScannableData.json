@@ -1,0 +1,25 @@
+﻿{
+  "name": "ScannableData",
+  "properties": [
+    {
+      "path": ".friendlyName",
+      "type": "String"
+    },
+    {
+      "path": ".iconRecord",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".localizedDescription",
+      "type": "LocKey"
+    },
+    {
+      "path": ".localizedName",
+      "type": "LocKey"
+    },
+    {
+      "path": ".iconName",
+      "type": "Name"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿{
+  "name": "AISubActionCustomEffectors",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".effectors",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".remove",
+      "type": "Bool"
+    },
+    {
+      "path": ".apply",
+      "type": "Bool"
+    }
+  ]
+}

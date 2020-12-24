@@ -1,0 +1,33 @@
+﻿{
+  "name": "MappinUIParamGroup",
+  "properties": [
+    {
+      "path": ".minFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".maxValue",
+      "type": "Float"
+    },
+    {
+      "path": ".valueOffset",
+      "type": "Float"
+    },
+    {
+      "path": ".maxFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".minValue",
+      "type": "Float"
+    },
+    {
+      "path": ".quadraticPeakMultiplier",
+      "type": "Float"
+    },
+    {
+      "path": ".quadratic",
+      "type": "Bool"
+    }
+  ]
+}

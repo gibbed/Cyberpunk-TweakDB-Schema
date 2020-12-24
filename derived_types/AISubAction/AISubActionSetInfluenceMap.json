@@ -1,0 +1,26 @@
+﻿{
+  "name": "AISubActionSetInfluenceMap",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".positionObj",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".lerp",
+      "type": "Vector2"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".radius",
+      "type": "Float"
+    },
+    {
+      "path": ".threat",
+      "type": "Bool"
+    }
+  ]
+}

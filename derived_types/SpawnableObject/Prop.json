@@ -1,0 +1,10 @@
+﻿{
+  "name": "Prop",
+  "base": "SpawnableObject",
+  "properties": [
+    {
+      "path": ".friendlyName",
+      "type": "String"
+    }
+  ]
+}

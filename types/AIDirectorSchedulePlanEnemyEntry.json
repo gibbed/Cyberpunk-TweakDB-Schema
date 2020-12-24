@@ -1,0 +1,22 @@
+﻿{
+  "name": "AIDirectorSchedulePlanEnemyEntry",
+  "properties": [
+    {
+      "path": ".character",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".tags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".spawnChanceFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".maxAmountConcurrently",
+      "type": "Int"
+    }
+  ]
+}

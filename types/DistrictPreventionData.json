@@ -1,0 +1,37 @@
+﻿{
+  "name": "DistrictPreventionData",
+  "properties": [
+    {
+      "path": ".heat3",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".heat1",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".heat4",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".heat2",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".deescalationZeroTime",
+      "type": "Float"
+    },
+    {
+      "path": ".interiorSpawnDelay",
+      "type": "Float"
+    },
+    {
+      "path": ".nonAggressiveReactionMultipler",
+      "type": "Float"
+    },
+    {
+      "path": ".damagePercentThreshold",
+      "type": "Float"
+    }
+  ]
+}

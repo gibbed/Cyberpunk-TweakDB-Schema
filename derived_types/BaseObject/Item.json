@@ -1,0 +1,299 @@
+﻿{
+  "name": "Item",
+  "base": "BaseObject",
+  "properties": [
+    {
+      "path": ".friendlyName",
+      "type": "String"
+    },
+    {
+      "path": ".iconPath",
+      "type": "String"
+    },
+    {
+      "path": ".localizedName",
+      "type": "String"
+    },
+    {
+      "path": ".movementSound",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".dropSettings",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".crosshair",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".equipArea",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".CraftingData",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".itemSecondaryAction",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".itemType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".blueprint",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".npcRPGData",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".quality",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".parentAttachmentType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".itemStructure",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".minigameInstance",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".equivalent",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".itemCategory",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".cpoItemCategory",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".icon",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".onEquipStats",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".equipPrereqs",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".slotPartListPreset",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".equipAreas",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".appearanceSuffixes",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".gameplayRestrictions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".hairSkinnedMeshComponents",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".appearanceSuffixesOwnerOverride",
+      "type": "Bool",
+      "array": true
+    },
+    {
+      "path": ".OnEquip",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".attachmentSlots",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".tags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".OnAttach",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".sellPrice",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".visualTags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".buyPrice",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".OnLooted",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".placementSlots",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".slotPartList",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".requiredSlots",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".parts",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".connections",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".animationParameters",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".displayName",
+      "type": "LocKey"
+    },
+    {
+      "path": ".dropObject",
+      "type": "Name"
+    },
+    {
+      "path": ".audioName",
+      "type": "Name"
+    },
+    {
+      "path": ".equipSoundMetadata",
+      "type": "Name"
+    },
+    {
+      "path": ".audioSwitchValue",
+      "type": "Name"
+    },
+    {
+      "path": ".entityName",
+      "type": "Name"
+    },
+    {
+      "path": ".appearanceName",
+      "type": "Name"
+    },
+    {
+      "path": ".audioSwitchName",
+      "type": "Name"
+    },
+    {
+      "path": ".animFeatureName",
+      "type": "Name"
+    },
+    {
+      "path": ".stateMachineName",
+      "type": "Name"
+    },
+    {
+      "path": ".appearanceResourceName",
+      "type": "Name"
+    },
+    {
+      "path": ".animName",
+      "type": "Name"
+    },
+    {
+      "path": ".animSetResource",
+      "type": "ResRef"
+    },
+    {
+      "path": ".movementPattern",
+      "type": "Name"
+    },
+    {
+      "path": ".localizedDescription",
+      "type": "LocKey"
+    },
+    {
+      "path": ".cameraForward",
+      "type": "Vector3"
+    },
+    {
+      "path": ".cameraUp",
+      "type": "Vector3"
+    },
+    {
+      "path": ".garmentOffset",
+      "type": "Int"
+    },
+    {
+      "path": ".mass",
+      "type": "Float"
+    },
+    {
+      "path": ".isSingleInstance",
+      "type": "Bool"
+    },
+    {
+      "path": ".isPart",
+      "type": "Bool"
+    },
+    {
+      "path": ".useNewSpawnMethod",
+      "type": "Bool"
+    },
+    {
+      "path": ".isGarment",
+      "type": "Bool"
+    },
+    {
+      "path": ".isCustomizable",
+      "type": "Bool"
+    },
+    {
+      "path": ".enableNpcRPGData",
+      "type": "Bool"
+    },
+    {
+      "path": ".replicateWhenNotActive",
+      "type": "Bool"
+    }
+  ]
+}

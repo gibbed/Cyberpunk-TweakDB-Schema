@@ -1,0 +1,14 @@
+﻿{
+  "name": "TriggerHackingMinigameEffector",
+  "base": "Effector",
+  "properties": [
+    {
+      "path": ".journalEntry",
+      "type": "String"
+    },
+    {
+      "path": ".reward",
+      "type": "ForeignKey"
+    }
+  ]
+}

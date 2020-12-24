@@ -1,0 +1,17 @@
+﻿{
+  "name": "ItemType",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "Name"
+    },
+    {
+      "path": ".localizedType",
+      "type": "LocKey"
+    },
+    {
+      "path": ".animFeatureIndex",
+      "type": "Int"
+    }
+  ]
+}

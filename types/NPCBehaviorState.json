@@ -1,0 +1,13 @@
+﻿{
+  "name": "NPCBehaviorState",
+  "properties": [
+    {
+      "path": ".comment",
+      "type": "String"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    }
+  ]
+}

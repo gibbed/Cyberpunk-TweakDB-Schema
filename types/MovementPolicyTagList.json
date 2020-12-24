@@ -1,0 +1,14 @@
+﻿{
+  "name": "MovementPolicyTagList",
+  "properties": [
+    {
+      "path": ".condition",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".tags",
+      "type": "Name",
+      "array": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "name": "StatPoolUpdate",
+  "properties": [
+    {
+      "path": ".statPoolType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".statPoolValue",
+      "type": "Float"
+    }
+  ]
+}

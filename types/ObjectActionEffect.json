@@ -1,0 +1,17 @@
+﻿{
+  "name": "ObjectActionEffect",
+  "properties": [
+    {
+      "path": ".effectorToTrigger",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".statusEffect",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".recipient",
+      "type": "ForeignKey"
+    }
+  ]
+}

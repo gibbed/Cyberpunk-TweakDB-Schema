@@ -1,0 +1,95 @@
+﻿{
+  "name": "StatusEffect",
+  "properties": [
+    {
+      "path": ".maxStacks",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".removeAllStacksWhenDurationEndsStatModifiers",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".statusEffectType",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".AIData",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".uiData",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".duration",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".playerData",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".debugTags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".gameplayTags",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".SFX",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".VFX",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".immunityStats",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".packages",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".additionalParam",
+      "type": "Name"
+    },
+    {
+      "path": ".stopActiveSfxOnDeactivate",
+      "type": "Bool"
+    },
+    {
+      "path": ".removeOnStoryTier",
+      "type": "Bool"
+    },
+    {
+      "path": ".isAffectedByTimeDilationPlayer",
+      "type": "Bool"
+    },
+    {
+      "path": ".savable",
+      "type": "Bool"
+    },
+    {
+      "path": ".removeAllStacksWhenDurationEnds",
+      "type": "Bool"
+    },
+    {
+      "path": ".isAffectedByTimeDilationNPC",
+      "type": "Bool"
+    },
+    {
+      "path": ".replicated",
+      "type": "Bool"
+    }
+  ]
+}

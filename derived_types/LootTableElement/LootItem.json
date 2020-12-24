@@ -1,0 +1,10 @@
+﻿{
+  "name": "LootItem",
+  "base": "LootTableElement",
+  "properties": [
+    {
+      "path": ".itemID",
+      "type": "ForeignKey"
+    }
+  ]
+}

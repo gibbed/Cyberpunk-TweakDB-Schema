@@ -1,0 +1,183 @@
+﻿{
+  "name": "MovementPolicy",
+  "properties": [
+    {
+      "path": ".ring",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".strafingTarget",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".destinationOrientationPosition",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".blockedTags",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".allowedTags",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".keepLineOfSight",
+      "type": "Name"
+    },
+    {
+      "path": ".maxPathLengthToDirectDistanceRatioCurve",
+      "type": "Name"
+    },
+    {
+      "path": ".circlingDirection",
+      "type": "Name"
+    },
+    {
+      "path": ".movementType",
+      "type": "Name"
+    },
+    {
+      "path": ".debugName",
+      "type": "Name"
+    },
+    {
+      "path": ".spatialHintMults",
+      "type": "Vector3"
+    },
+    {
+      "path": ".tolerance",
+      "type": "Float"
+    },
+    {
+      "path": ".strafingPredictionTime",
+      "type": "Float"
+    },
+    {
+      "path": ".distance",
+      "type": "Float"
+    },
+    {
+      "path": ".avoidThreatRange",
+      "type": "Float"
+    },
+    {
+      "path": ".ringToleranceMult",
+      "type": "Float"
+    },
+    {
+      "path": ".ringToleranceOffset",
+      "type": "Float"
+    },
+    {
+      "path": ".avoidThreatCost",
+      "type": "Float"
+    },
+    {
+      "path": ".ringDistanceOffset",
+      "type": "Float"
+    },
+    {
+      "path": ".strafingRotationOffset",
+      "type": "Float"
+    },
+    {
+      "path": ".strafingPredictionVelocityMax",
+      "type": "Float"
+    },
+    {
+      "path": ".ringDistanceMult",
+      "type": "Float"
+    },
+    {
+      "path": ".dynamicTargetUpdateTimer",
+      "type": "Float"
+    },
+    {
+      "path": ".dynamicTargetUpdateDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".minDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".deadAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".maxPathLength",
+      "type": "Float"
+    },
+    {
+      "path": ".dontUseStop",
+      "type": "Bool"
+    },
+    {
+      "path": ".ignoreNavigation",
+      "type": "Bool"
+    },
+    {
+      "path": ".useOffMeshBlockedTags",
+      "type": "Bool"
+    },
+    {
+      "path": ".ignoreCollisionAvoidance",
+      "type": "Bool"
+    },
+    {
+      "path": ".symmetricAnglesScores",
+      "type": "Bool"
+    },
+    {
+      "path": ".dontUseStart",
+      "type": "Bool"
+    },
+    {
+      "path": ".ignoreSpotReservation",
+      "type": "Bool"
+    },
+    {
+      "path": ".ignoreRestrictedMovementArea",
+      "type": "Bool"
+    },
+    {
+      "path": ".useOffMeshAllowedTags",
+      "type": "Bool"
+    },
+    {
+      "path": ".ignoreLoSPrecheck",
+      "type": "Bool"
+    },
+    {
+      "path": ".useFollowSlots",
+      "type": "Bool"
+    },
+    {
+      "path": ".avoidThreat",
+      "type": "Bool"
+    },
+    {
+      "path": ".calculateStartTangent",
+      "type": "Bool"
+    },
+    {
+      "path": ".avoidObstacleWithinTolerance",
+      "type": "Bool"
+    },
+    {
+      "path": ".stopOnObstacle",
+      "type": "Bool"
+    },
+    {
+      "path": ".getOutOfWay",
+      "type": "Bool"
+    }
+  ]
+}

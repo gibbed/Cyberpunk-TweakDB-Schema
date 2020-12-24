@@ -1,0 +1,11 @@
+﻿{
+  "name": "AISubActionRandomize",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".animVariationRandomize",
+      "type": "Int",
+      "array": true
+    }
+  ]
+}

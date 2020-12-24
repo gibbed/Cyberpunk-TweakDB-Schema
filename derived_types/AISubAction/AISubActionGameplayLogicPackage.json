@@ -1,0 +1,11 @@
+﻿{
+  "name": "AISubActionGameplayLogicPackage",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".packages",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

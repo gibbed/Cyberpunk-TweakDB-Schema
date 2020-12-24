@@ -1,0 +1,26 @@
+﻿{
+  "name": "Affiliation",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".animWrappers",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".localizedName",
+      "type": "LocKey"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    },
+    {
+      "path": ".iconPath",
+      "type": "Name"
+    }
+  ]
+}

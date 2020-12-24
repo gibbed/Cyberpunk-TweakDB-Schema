@@ -1,0 +1,14 @@
+﻿{
+  "name": "NonLinearAccuracy",
+  "base": "Accuracy",
+  "properties": [
+    {
+      "path": ".exponent",
+      "type": "Float"
+    },
+    {
+      "path": ".timeFactor",
+      "type": "Float"
+    }
+  ]
+}

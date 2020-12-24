@@ -1,0 +1,10 @@
+﻿{
+  "name": "AITresspassingCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿{
+  "name": "RotationLimiter",
+  "base": "DriveHelper",
+  "properties": [
+    {
+      "path": ".driftLimit",
+      "type": "Float"
+    },
+    {
+      "path": ".driftFullAngleBegin",
+      "type": "Float"
+    },
+    {
+      "path": ".driftLimitMaxVel",
+      "type": "Float"
+    },
+    {
+      "path": ".handbrakeLimit",
+      "type": "Float"
+    },
+    {
+      "path": ".driftExceededAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".driftLimitStartVel",
+      "type": "Float"
+    },
+    {
+      "path": ".maxAngularSpeedRad",
+      "type": "Float"
+    },
+    {
+      "path": ".driftFullAngleEnd",
+      "type": "Float"
+    },
+    {
+      "path": ".smoothingTime",
+      "type": "Float"
+    }
+  ]
+}

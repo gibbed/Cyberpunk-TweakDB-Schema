@@ -1,0 +1,18 @@
+﻿{
+  "name": "GenericHighwaySign",
+  "base": "BaseSign",
+  "properties": [
+    {
+      "path": ".districtName",
+      "type": "String"
+    },
+    {
+      "path": ".subDistrictName",
+      "type": "String"
+    },
+    {
+      "path": ".iconName",
+      "type": "Name"
+    }
+  ]
+}

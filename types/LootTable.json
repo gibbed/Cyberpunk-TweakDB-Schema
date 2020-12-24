@@ -1,0 +1,32 @@
+﻿{
+  "name": "LootTable",
+  "properties": [
+    {
+      "path": ".lootGenerationType",
+      "type": "String"
+    },
+    {
+      "path": ".lootItems",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".queries",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".lootTableInclusions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".maxItemsToLoot",
+      "type": "Int"
+    },
+    {
+      "path": ".minItemsToLoot",
+      "type": "Int"
+    }
+  ]
+}

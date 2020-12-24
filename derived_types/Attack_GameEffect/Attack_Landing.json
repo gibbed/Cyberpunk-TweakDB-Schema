@@ -1,0 +1,10 @@
+﻿{
+  "name": "Attack_Landing",
+  "base": "Attack_GameEffect",
+  "properties": [
+    {
+      "path": ".fxPackage",
+      "type": "ForeignKey"
+    }
+  ]
+}

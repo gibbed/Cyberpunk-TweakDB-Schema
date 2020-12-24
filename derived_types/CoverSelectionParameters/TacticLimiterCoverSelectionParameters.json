@@ -1,0 +1,10 @@
+﻿{
+  "name": "TacticLimiterCoverSelectionParameters",
+  "base": "CoverSelectionParameters",
+  "properties": [
+    {
+      "path": ".addUtilityValue",
+      "type": "Float"
+    }
+  ]
+}

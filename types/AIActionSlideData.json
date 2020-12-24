@@ -1,0 +1,69 @@
+﻿{
+  "name": "AIActionSlideData",
+  "properties": [
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".offsetAroundTarget",
+      "type": "Float"
+    },
+    {
+      "path": ".finalRotationAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".positionSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".distance",
+      "type": "Float"
+    },
+    {
+      "path": ".directionAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".offsetToTarget",
+      "type": "Float"
+    },
+    {
+      "path": ".slideStartDelay",
+      "type": "Float"
+    },
+    {
+      "path": ".rotationSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".duration",
+      "type": "Float"
+    },
+    {
+      "path": ".positionPredictionTime",
+      "type": "Float"
+    },
+    {
+      "path": ".zAlignmentCollisionThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".usePositionSlide",
+      "type": "Bool"
+    },
+    {
+      "path": ".disablePositionSlideAgainstNpc",
+      "type": "Bool"
+    },
+    {
+      "path": ".overrideOffsetToTargetFromWeapon",
+      "type": "Bool"
+    },
+    {
+      "path": ".useRotationSlide",
+      "type": "Bool"
+    }
+  ]
+}

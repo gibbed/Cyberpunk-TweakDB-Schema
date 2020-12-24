@@ -1,0 +1,10 @@
+﻿{
+  "name": "BuildCyberwareSet",
+  "properties": [
+    {
+      "path": ".cyberware",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

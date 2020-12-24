@@ -1,0 +1,29 @@
+﻿{
+  "name": "MovementParam",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    },
+    {
+      "path": ".maxSpeed",
+      "type": "Float"
+    },
+    {
+      "path": ".acceleration",
+      "type": "Float"
+    },
+    {
+      "path": ".deceleration",
+      "type": "Float"
+    },
+    {
+      "path": ".rotationSpeed",
+      "type": "Float"
+    }
+  ]
+}

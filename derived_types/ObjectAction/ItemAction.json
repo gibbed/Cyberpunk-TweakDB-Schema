@@ -1,0 +1,10 @@
+﻿{
+  "name": "ItemAction",
+  "base": "ObjectAction",
+  "properties": [
+    {
+      "path": ".removeAfterUse",
+      "type": "Bool"
+    }
+  ]
+}

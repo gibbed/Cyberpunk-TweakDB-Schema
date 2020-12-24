@@ -1,0 +1,13 @@
+﻿{
+  "name": "SquadFenceBase",
+  "properties": [
+    {
+      "path": ".paddingInnerFence",
+      "type": "Float"
+    },
+    {
+      "path": ".paddingOuterFence",
+      "type": "Float"
+    }
+  ]
+}

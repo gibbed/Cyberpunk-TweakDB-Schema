@@ -1,0 +1,61 @@
+﻿{
+  "name": "HomingParameters",
+  "properties": [
+    {
+      "path": ".angleInVerticalPlane",
+      "type": "Float"
+    },
+    {
+      "path": ".halfLeanAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".angleInHitPlane",
+      "type": "Float"
+    },
+    {
+      "path": ".endLeanAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".bendFactor",
+      "type": "Float"
+    },
+    {
+      "path": ".returnTimeMargin",
+      "type": "Float"
+    },
+    {
+      "path": ".bendTimeRatio",
+      "type": "Float"
+    },
+    {
+      "path": ".interpolationTimeRatio",
+      "type": "Float"
+    },
+    {
+      "path": ".startVelocity",
+      "type": "Float"
+    },
+    {
+      "path": ".linearTimeRatio",
+      "type": "Float"
+    },
+    {
+      "path": ".snapRadius",
+      "type": "Float"
+    },
+    {
+      "path": ".angleInterpolationDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".accuracy",
+      "type": "Float"
+    },
+    {
+      "path": ".shouldRotate",
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "name": "HitPrereq",
+  "base": "IPrereq",
+  "properties": [
+    {
+      "path": ".callbackType",
+      "type": "String"
+    },
+    {
+      "path": ".pipelineStage",
+      "type": "String"
+    },
+    {
+      "path": ".conditions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".isSynchronous",
+      "type": "Bool"
+    }
+  ]
+}

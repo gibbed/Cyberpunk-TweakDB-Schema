@@ -1,0 +1,17 @@
+﻿{
+  "name": "VehicleDestructibleWheel",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "Name"
+    },
+    {
+      "path": ".intact",
+      "type": "Name"
+    },
+    {
+      "path": ".flat",
+      "type": "Name"
+    }
+  ]
+}

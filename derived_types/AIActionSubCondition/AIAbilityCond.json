@@ -1,0 +1,11 @@
+﻿{
+  "name": "AIAbilityCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".abilities",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

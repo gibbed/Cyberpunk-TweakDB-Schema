@@ -1,0 +1,26 @@
+﻿{
+  "name": "AIVelocitiesDotCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".firstTarget",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".secondTarget",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".dotRange",
+      "type": "Vector2"
+    },
+    {
+      "path": ".firstTimePeriod",
+      "type": "Float"
+    },
+    {
+      "path": ".secondTimePeriod",
+      "type": "Float"
+    }
+  ]
+}

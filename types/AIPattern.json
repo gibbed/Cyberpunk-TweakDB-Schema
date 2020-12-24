@@ -1,0 +1,19 @@
+﻿{
+  "name": "AIPattern",
+  "properties": [
+    {
+      "path": ".activationConditions",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".delays",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".patternSize",
+      "type": "Int"
+    }
+  ]
+}

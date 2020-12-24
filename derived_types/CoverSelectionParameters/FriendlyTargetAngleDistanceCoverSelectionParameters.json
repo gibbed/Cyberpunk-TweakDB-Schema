@@ -1,0 +1,26 @@
+﻿{
+  "name": "FriendlyTargetAngleDistanceCoverSelectionParameters",
+  "base": "CoverSelectionParameters",
+  "properties": [
+    {
+      "path": ".coverProtectionAngleMul",
+      "type": "Float"
+    },
+    {
+      "path": ".minDot",
+      "type": "Float"
+    },
+    {
+      "path": ".angleDistanceScore",
+      "type": "Float"
+    },
+    {
+      "path": ".positionChangeThreshold",
+      "type": "Float"
+    },
+    {
+      "path": ".maxScoreIfInRange",
+      "type": "Bool"
+    }
+  ]
+}

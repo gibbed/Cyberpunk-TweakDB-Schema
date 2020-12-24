@@ -1,0 +1,69 @@
+﻿{
+  "name": "AISubActionShootWithWeapon",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".instigator",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".rangedAttack",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".triggerMode",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".shootingPatternPackages",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".pauseCondition",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".weaponSlots",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".dualWieldShootingStyle",
+      "type": "Name"
+    },
+    {
+      "path": ".targetOffset",
+      "type": "Vector3"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    },
+    {
+      "path": ".tbhCoefficient",
+      "type": "Float"
+    },
+    {
+      "path": ".aimingDelay",
+      "type": "Float"
+    },
+    {
+      "path": ".predictionTime",
+      "type": "Float"
+    },
+    {
+      "path": ".numberOfShots",
+      "type": "Int"
+    },
+    {
+      "path": ".maxNumberOfShots",
+      "type": "Int"
+    }
+  ]
+}

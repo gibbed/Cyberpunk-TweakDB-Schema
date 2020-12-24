@@ -1,0 +1,33 @@
+﻿{
+  "name": "StatPool",
+  "properties": [
+    {
+      "path": ".enumComment",
+      "type": "String"
+    },
+    {
+      "path": ".stat",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".regen",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".decay",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".enumName",
+      "type": "Name"
+    },
+    {
+      "path": ".initialValue",
+      "type": "Float"
+    },
+    {
+      "path": ".enableDefeated",
+      "type": "Bool"
+    }
+  ]
+}

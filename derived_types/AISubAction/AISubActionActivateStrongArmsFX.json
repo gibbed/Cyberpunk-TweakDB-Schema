@@ -1,0 +1,10 @@
+﻿{
+  "name": "AISubActionActivateStrongArmsFX",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".delay",
+      "type": "Float"
+    }
+  ]
+}

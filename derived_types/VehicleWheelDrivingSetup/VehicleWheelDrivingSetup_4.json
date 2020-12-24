@@ -1,0 +1,22 @@
+﻿{
+  "name": "VehicleWheelDrivingSetup_4",
+  "base": "VehicleWheelDrivingSetup",
+  "properties": [
+    {
+      "path": ".RF",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".RB",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".LF",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".LB",
+      "type": "ForeignKey"
+    }
+  ]
+}

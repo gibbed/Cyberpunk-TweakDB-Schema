@@ -1,0 +1,17 @@
+﻿{
+  "name": "Trap",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "String"
+    },
+    {
+      "path": ".type",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".probability",
+      "type": "Float"
+    }
+  ]
+}

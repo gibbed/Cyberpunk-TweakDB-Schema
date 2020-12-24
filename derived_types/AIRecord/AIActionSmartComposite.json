@@ -1,0 +1,40 @@
+﻿{
+  "name": "AIActionSmartComposite",
+  "base": "AIRecord",
+  "properties": [
+    {
+      "path": ".type",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".gracefulInterruptionCondition",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".nodes",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".gracefulInterruptionConditionCheckInterval",
+      "type": "Float"
+    },
+    {
+      "path": ".repeat",
+      "type": "Int"
+    },
+    {
+      "path": ".conditionSuccessDuration",
+      "type": "Float"
+    },
+    {
+      "path": ".failOnNodeActivationConditionFailure",
+      "type": "Bool"
+    },
+    {
+      "path": ".disableActionsLimit",
+      "type": "Bool"
+    }
+  ]
+}

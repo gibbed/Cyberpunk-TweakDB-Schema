@@ -1,0 +1,105 @@
+﻿{
+  "name": "VisionModuleBase",
+  "properties": [
+    {
+      "path": ".group",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".focus_cue",
+      "type": "Name"
+    },
+    {
+      "path": ".light_deact_mode",
+      "type": "Name"
+    },
+    {
+      "path": ".light_act_type",
+      "type": "Name"
+    },
+    {
+      "path": ".light_deact_type",
+      "type": "Name"
+    },
+    {
+      "path": ".default_cue",
+      "type": "Name"
+    },
+    {
+      "path": ".heavy_act_type",
+      "type": "Name"
+    },
+    {
+      "path": ".light_act_mode",
+      "type": "Name"
+    },
+    {
+      "path": ".heavy_act_mode",
+      "type": "Name"
+    },
+    {
+      "path": ".heavy_deact_mode",
+      "type": "Name"
+    },
+    {
+      "path": ".heavy_deact_type",
+      "type": "Name"
+    },
+    {
+      "path": ".prereq",
+      "type": "Name"
+    },
+    {
+      "path": ".objectPrereq",
+      "type": "Name"
+    },
+    {
+      "path": ".light_act_delay",
+      "type": "Float"
+    },
+    {
+      "path": ".light_deact_duration",
+      "type": "Float"
+    },
+    {
+      "path": ".heavy_deact_duration",
+      "type": "Float"
+    },
+    {
+      "path": ".light_act_duration",
+      "type": "Float"
+    },
+    {
+      "path": ".heavy_act_delay",
+      "type": "Float"
+    },
+    {
+      "path": ".light_deact_delay",
+      "type": "Float"
+    },
+    {
+      "path": ".default_color",
+      "type": "Int"
+    },
+    {
+      "path": ".focus_color",
+      "type": "Int"
+    },
+    {
+      "path": ".heavy_act_duration",
+      "type": "Float"
+    },
+    {
+      "path": ".heavy_deact_delay",
+      "type": "Float"
+    },
+    {
+      "path": ".default_seeThroughWalls",
+      "type": "Bool"
+    },
+    {
+      "path": ".focus_seeThroughWalls",
+      "type": "Bool"
+    }
+  ]
+}

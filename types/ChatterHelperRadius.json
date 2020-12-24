@@ -1,0 +1,13 @@
+﻿{
+  "name": "ChatterHelperRadius",
+  "properties": [
+    {
+      "path": ".minDistanceToOtherPlayer",
+      "type": "Float"
+    },
+    {
+      "path": ".maxDistanceToOtherPlayer",
+      "type": "Float"
+    }
+  ]
+}

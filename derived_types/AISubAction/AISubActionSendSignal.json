@@ -1,0 +1,18 @@
+﻿{
+  "name": "AISubActionSendSignal",
+  "base": "AISubAction",
+  "properties": [
+    {
+      "path": ".name",
+      "type": "Name"
+    },
+    {
+      "path": ".duration",
+      "type": "Float"
+    },
+    {
+      "path": ".delay",
+      "type": "Float"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+﻿{
+  "name": "AICoverCond",
+  "base": "AIActionSubCondition",
+  "properties": [
+    {
+      "path": ".cover",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".target",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".desiredCover",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".owner",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".checkChosenExposureMethod",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".coverExposureMethods",
+      "type": "Name",
+      "array": true
+    },
+    {
+      "path": ".maxCoverToTargetAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".minCoverHealth",
+      "type": "Float"
+    },
+    {
+      "path": ".isOwnerCrouching",
+      "type": "Int"
+    },
+    {
+      "path": ".isProtectingHorizontallyAgainstTarget",
+      "type": "Int"
+    },
+    {
+      "path": ".desiredCoverChanged",
+      "type": "Int"
+    },
+    {
+      "path": ".predictionTime",
+      "type": "Float"
+    },
+    {
+      "path": ".isOwnerExposed",
+      "type": "Int"
+    },
+    {
+      "path": ".coverType",
+      "type": "Int"
+    },
+    {
+      "path": ".checkIfCoverTransitionRequired",
+      "type": "Bool"
+    }
+  ]
+}

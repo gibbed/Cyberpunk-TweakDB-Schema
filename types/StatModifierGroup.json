@@ -1,0 +1,22 @@
+﻿{
+  "name": "StatModifierGroup",
+  "properties": [
+    {
+      "path": ".statModsLimitModifier",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".statModifiers",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": ".statModsLimit",
+      "type": "Int"
+    },
+    {
+      "path": ".drawBasedOnStatType",
+      "type": "Bool"
+    }
+  ]
+}

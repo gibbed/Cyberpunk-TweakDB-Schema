@@ -1,0 +1,25 @@
+﻿{
+  "name": "VehicleFxCollisionMaterial",
+  "properties": [
+    {
+      "path": ".material",
+      "type": "ForeignKey"
+    },
+    {
+      "path": ".impact_decal",
+      "type": "ResRef"
+    },
+    {
+      "path": ".scratch_particles",
+      "type": "ResRef"
+    },
+    {
+      "path": ".impact_particles",
+      "type": "ResRef"
+    },
+    {
+      "path": ".scratch_decal",
+      "type": "ResRef"
+    }
+  ]
+}

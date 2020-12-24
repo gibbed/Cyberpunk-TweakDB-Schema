@@ -1,0 +1,10 @@
+﻿{
+  "name": "AINodeMap",
+  "properties": [
+    {
+      "path": ".map",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ]
+}

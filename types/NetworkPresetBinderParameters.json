@@ -1,0 +1,9 @@
+﻿{
+  "name": "NetworkPresetBinderParameters",
+  "properties": [
+    {
+      "path": ".pingPresetID",
+      "type": "ForeignKey"
+    }
+  ]
+}

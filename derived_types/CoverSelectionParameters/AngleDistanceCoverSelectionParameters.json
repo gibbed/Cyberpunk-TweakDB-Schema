@@ -1,0 +1,42 @@
+﻿{
+  "name": "AngleDistanceCoverSelectionParameters",
+  "base": "CoverSelectionParameters",
+  "properties": [
+    {
+      "path": ".angleDistanceScore",
+      "type": "Float"
+    },
+    {
+      "path": ".coverLowerMinVerticalAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".maximumDistance",
+      "type": "Float"
+    },
+    {
+      "path": ".minThreatsAmountToCheckDistance",
+      "type": "Int"
+    },
+    {
+      "path": ".coverProtectionAngleMul",
+      "type": "Float"
+    },
+    {
+      "path": ".threatPredictionTime",
+      "type": "Float"
+    },
+    {
+      "path": ".verticalAngleCooldown",
+      "type": "Float"
+    },
+    {
+      "path": ".shootingSpotLowerMinVerticalAngle",
+      "type": "Float"
+    },
+    {
+      "path": ".closestThreatsAmountToIgnoreDistanceCheck",
+      "type": "Int"
+    }
+  ]
+}
