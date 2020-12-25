@@ -1,6 +1,5 @@
 ﻿{
   "name": "AITicket",
-  "abstract": true,
   "variables": [
     {
       "path": ".ticketType",

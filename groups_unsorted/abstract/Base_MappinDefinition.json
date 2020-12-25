@@ -1,6 +1,5 @@
 ﻿{
   "name": "Base_MappinDefinition",
-  "abstract": true,
   "variables": [
     {
       "path": ".visibilityRange",

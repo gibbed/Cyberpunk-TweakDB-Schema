@@ -1,6 +1,5 @@
 {
   "name": "AIActionSubCondition",
-  "abstract": true,
   "variables": [
     {
       "path": ".invert",

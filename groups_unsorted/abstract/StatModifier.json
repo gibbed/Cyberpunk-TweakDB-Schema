@@ -1,6 +1,5 @@
 ﻿{
   "name": "StatModifier",
-  "abstract": true,
   "variables": [
     {
       "path": ".statType",

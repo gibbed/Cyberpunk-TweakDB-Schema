@@ -1,7 +1,6 @@
 ﻿{
   "name": "AITicketFilter",
   "base": "AITicketCondition",
-  "abstract": true,
   "variables": [
     {
       "path": ".resetMembers",

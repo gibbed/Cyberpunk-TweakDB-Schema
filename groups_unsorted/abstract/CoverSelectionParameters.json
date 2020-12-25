@@ -1,6 +1,5 @@
 {
   "name": "CoverSelectionParameters",
-  "abstract": true,
   "variables": [
     {
       "path": ".scoreOnlyForCombatTarget",

@@ -1,6 +1,5 @@
 ﻿{
   "name": "Attack",
-  "abstract": true,
   "variables": [
     {
       "path": ".attackName",

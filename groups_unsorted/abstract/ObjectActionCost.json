@@ -1,6 +1,5 @@
 ﻿{
   "name": "ObjectActionCost",
-  "abstract": true,
   "variables": [
     {
       "path": ".costMods",

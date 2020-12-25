@@ -1,6 +1,5 @@
 ﻿{
   "name": "BaseSign",
-  "abstract": true,
   "variables": [
     {
       "path": ".resource",

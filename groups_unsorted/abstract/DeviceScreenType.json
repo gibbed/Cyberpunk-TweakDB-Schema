@@ -1,6 +1,5 @@
 ﻿{
   "name": "DeviceScreenType",
-  "abstract": true,
   "variables": [
     {
       "path": ".ratio",

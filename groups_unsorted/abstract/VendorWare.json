@@ -1,6 +1,5 @@
 ﻿{
   "name": "VendorWare",
-  "abstract": true,
   "variables": [
     {
       "path": ".availabilityPrereq",

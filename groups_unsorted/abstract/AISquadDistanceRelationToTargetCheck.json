@@ -1,7 +1,6 @@
 {
   "name": "AISquadDistanceRelationToTargetCheck",
   "base": "AITicketCheck",
-  "abstract": true,
   "variables": [
     {
       "path": ".target",

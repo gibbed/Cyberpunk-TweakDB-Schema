@@ -1,6 +1,5 @@
 ﻿{
   "name": "GrenadeDeliveryMethod",
-  "abstract": true,
   "variables": [
     {
       "path": ".type",

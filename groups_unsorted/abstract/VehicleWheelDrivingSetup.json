@@ -1,6 +1,5 @@
 ﻿{
   "name": "VehicleWheelDrivingSetup",
-  "abstract": true,
   "variables": [
     {
       "path": ".frontPreset",

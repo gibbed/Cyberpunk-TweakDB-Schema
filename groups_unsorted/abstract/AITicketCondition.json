@@ -1,6 +1,5 @@
 ﻿{
   "name": "AITicketCondition",
-  "abstract": true,
   "variables": [
     {
       "path": ".invert",

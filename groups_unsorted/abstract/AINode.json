@@ -1,7 +1,6 @@
 {
   "name": "AINode",
   "base": "AIRecord",
-  "abstract": true,
   "variables": [
     {
       "path": ".activationCondition",

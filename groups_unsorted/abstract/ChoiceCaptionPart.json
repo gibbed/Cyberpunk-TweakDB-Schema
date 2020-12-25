@@ -1,6 +1,5 @@
 ﻿{
   "name": "ChoiceCaptionPart",
-  "abstract": true,
   "variables": [
     {
       "path": ".partType",

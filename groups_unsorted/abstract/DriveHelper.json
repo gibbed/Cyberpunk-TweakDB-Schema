@@ -1,6 +1,5 @@
 ﻿{
   "name": "DriveHelper",
-  "abstract": true,
   "variables": [
     {
       "path": ".type",

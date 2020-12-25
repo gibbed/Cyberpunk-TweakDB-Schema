@@ -1,6 +1,5 @@
 ﻿{
   "name": "LootTableElement",
-  "abstract": true,
   "variables": [
     {
       "path": ".prereqID",

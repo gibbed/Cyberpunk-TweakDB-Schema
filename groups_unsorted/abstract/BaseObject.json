@@ -1,6 +1,5 @@
 ﻿{
   "name": "BaseObject",
-  "abstract": true,
   "variables": [
     {
       "path": ".statModifierGroups",

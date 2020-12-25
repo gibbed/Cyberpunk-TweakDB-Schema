@@ -1,6 +1,5 @@
 {
   "name": "Accuracy",
-  "abstract": true,
   "variables": [
     {
       "path": ".accuracyDropCooldown",
