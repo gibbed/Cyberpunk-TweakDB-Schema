@@ -1,6 +1,6 @@
 ﻿{
   "name": "FxActionType",
-  "properties": [
+  "variables": [
     {
       "path": ".enumComment",
       "type": "String"

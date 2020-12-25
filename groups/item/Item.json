@@ -1,7 +1,7 @@
 ﻿{
   "name": "Item",
   "base": "BaseObject",
-  "properties": [
+  "variables": [
     {
       "path": ".friendlyName",
       "type": "String"

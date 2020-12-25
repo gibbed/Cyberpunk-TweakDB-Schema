@@ -1,6 +1,6 @@
 ﻿{
   "name": "ObjectActionType",
-  "properties": [
+  "variables": [
     {
       "path": ".enumComment",
       "type": "String"

@@ -1,5 +1,5 @@
 ﻿{
   "name": "DeviceWidgetDefinition",
   "base": "WidgetDefinition",
-  "properties": []
+  "variables": []
 }

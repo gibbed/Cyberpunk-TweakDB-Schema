@@ -1,6 +1,6 @@
 ﻿{
   "name": "LightPreset",
-  "properties": [
+  "variables": [
     {
       "path": ".colorMin",
       "type": "Int",

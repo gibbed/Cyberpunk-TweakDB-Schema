@@ -1,7 +1,7 @@
 ﻿{
   "name": "SenseShape",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".name",
       "type": "Name"

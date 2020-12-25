@@ -1,7 +1,7 @@
 ﻿{
   "name": "NPCEquipmentItem",
   "base": "NPCEquipmentGroupEntry",
-  "properties": [
+  "variables": [
     {
       "path": ".onBodySlot",
       "type": "ForeignKey"

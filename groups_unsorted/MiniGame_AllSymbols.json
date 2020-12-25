@@ -1,6 +1,6 @@
 ﻿{
   "name": "MiniGame_AllSymbols",
-  "properties": [
+  "variables": [
     {
       "path": ".symbolsWithRarity",
       "type": "ForeignKey",

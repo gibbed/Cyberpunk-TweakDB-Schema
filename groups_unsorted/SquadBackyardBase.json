@@ -1,6 +1,6 @@
 ﻿{
   "name": "SquadBackyardBase",
-  "properties": [
+  "variables": [
     {
       "path": ".paddingFrom",
       "type": "Float"

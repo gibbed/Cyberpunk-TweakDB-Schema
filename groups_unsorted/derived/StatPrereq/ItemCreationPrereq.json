@@ -1,5 +1,5 @@
 ﻿{
   "name": "ItemCreationPrereq",
   "base": "StatPrereq",
-  "properties": []
+  "variables": []
 }

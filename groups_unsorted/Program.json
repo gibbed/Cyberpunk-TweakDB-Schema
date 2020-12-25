@@ -1,6 +1,6 @@
 ﻿{
   "name": "Program",
-  "properties": [
+  "variables": [
     {
       "path": ".program",
       "type": "ForeignKey"

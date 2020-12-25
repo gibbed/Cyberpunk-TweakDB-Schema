@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIAbilityCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".abilities",
       "type": "ForeignKey",

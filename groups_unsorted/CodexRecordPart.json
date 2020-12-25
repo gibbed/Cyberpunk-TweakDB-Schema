@@ -1,6 +1,6 @@
 ﻿{
   "name": "CodexRecordPart",
-  "properties": [
+  "variables": [
     {
       "path": ".partContent",
       "type": "String"

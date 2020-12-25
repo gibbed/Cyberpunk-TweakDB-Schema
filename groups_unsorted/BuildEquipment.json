@@ -1,6 +1,6 @@
 ﻿{
   "name": "BuildEquipment",
-  "properties": [
+  "variables": [
     {
       "path": ".equipment",
       "type": "ForeignKey"

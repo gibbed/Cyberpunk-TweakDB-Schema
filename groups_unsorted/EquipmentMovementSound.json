@@ -1,6 +1,6 @@
 ﻿{
   "name": "EquipmentMovementSound",
-  "properties": [
+  "variables": [
     {
       "path": ".audioMovementName",
       "type": "Name"

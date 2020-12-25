@@ -1,5 +1,5 @@
 ﻿{
   "name": "WorkspotStatusEffect",
   "base": "StatusEffect",
-  "properties": []
+  "variables": []
 }

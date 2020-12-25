@@ -1,5 +1,5 @@
 ﻿{
   "name": "DestructibleObject",
   "base": "BaseObject",
-  "properties": []
+  "variables": []
 }

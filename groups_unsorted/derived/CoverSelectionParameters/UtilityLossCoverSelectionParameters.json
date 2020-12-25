@@ -1,7 +1,7 @@
 ﻿{
   "name": "UtilityLossCoverSelectionParameters",
   "base": "CoverSelectionParameters",
-  "properties": [
+  "variables": [
     {
       "path": ".utilityLossTimeoutCover",
       "type": "Float"

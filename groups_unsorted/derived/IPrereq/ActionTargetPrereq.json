@@ -1,7 +1,7 @@
 ﻿{
   "name": "ActionTargetPrereq",
   "base": "IPrereq",
-  "properties": [
+  "variables": [
     {
       "path": ".target",
       "type": "ForeignKey"

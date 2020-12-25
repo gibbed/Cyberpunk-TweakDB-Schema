@@ -1,7 +1,7 @@
 ﻿{
   "name": "Device",
   "base": "BaseObject",
-  "properties": [
+  "variables": [
     {
       "path": ".RPGActions",
       "type": "ForeignKey",

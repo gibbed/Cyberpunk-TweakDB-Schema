@@ -1,6 +1,6 @@
 ﻿{
   "name": "Curve",
-  "properties": [
+  "variables": [
     {
       "path": ".curveSetName",
       "type": "Name"

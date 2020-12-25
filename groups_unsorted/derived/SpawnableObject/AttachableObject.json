@@ -1,5 +1,5 @@
 ﻿{
   "name": "AttachableObject",
   "base": "SpawnableObject",
-  "properties": []
+  "variables": []
 }

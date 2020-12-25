@@ -1,6 +1,6 @@
 ﻿{
   "name": "ReactionLimit",
-  "properties": [
+  "variables": [
     {
       "path": ".name",
       "type": "Name"

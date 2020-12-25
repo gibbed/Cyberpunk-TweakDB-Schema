@@ -1,7 +1,7 @@
 ﻿{
   "name": "InteractionMountBase",
   "base": "InteractionBase",
-  "properties": [
+  "variables": [
     {
       "path": ".vehicleMountSlot",
       "type": "Name"

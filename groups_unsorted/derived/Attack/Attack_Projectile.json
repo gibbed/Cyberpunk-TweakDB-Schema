@@ -1,7 +1,7 @@
 ﻿{
   "name": "Attack_Projectile",
   "base": "Attack",
-  "properties": [
+  "variables": [
     {
       "path": ".projectileTemplateName",
       "type": "Name"

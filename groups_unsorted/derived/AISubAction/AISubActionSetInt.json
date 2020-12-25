@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionSetInt",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".name",
       "type": "Name"

@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISquadCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".hasTickets",
       "type": "ForeignKey",

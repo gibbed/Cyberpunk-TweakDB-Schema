@@ -1,6 +1,6 @@
 ﻿{
   "name": "TriggerMode",
-  "properties": [
+  "variables": [
     {
       "path": ".name",
       "type": "String"

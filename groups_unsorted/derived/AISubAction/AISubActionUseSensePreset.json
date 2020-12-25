@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionUseSensePreset",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".sensePreset",
       "type": "ForeignKey"

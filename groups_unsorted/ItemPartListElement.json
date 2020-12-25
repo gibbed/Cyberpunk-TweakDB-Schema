@@ -1,6 +1,6 @@
 ﻿{
   "name": "ItemPartListElement",
-  "properties": [
+  "variables": [
     {
       "path": ".item",
       "type": "ForeignKey"

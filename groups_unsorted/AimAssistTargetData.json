@@ -1,6 +1,6 @@
 ﻿{
   "name": "AimAssistTargetData",
-  "properties": [
+  "variables": [
     {
       "path": ".filters",
       "type": "ForeignKey",

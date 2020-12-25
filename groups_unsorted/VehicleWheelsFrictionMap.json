@@ -1,6 +1,6 @@
 ﻿{
   "name": "VehicleWheelsFrictionMap",
-  "properties": [
+  "variables": [
     {
       "path": ".defaultFrictionPreset",
       "type": "ForeignKey"

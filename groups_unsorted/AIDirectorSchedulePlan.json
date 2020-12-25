@@ -1,6 +1,6 @@
 ﻿{
   "name": "AIDirectorSchedulePlan",
-  "properties": [
+  "variables": [
     {
       "path": ".spawningDesc",
       "type": "ForeignKey"

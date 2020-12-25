@@ -1,7 +1,7 @@
 ﻿{
   "name": "CoverHealthCoverSelectionParameters",
   "base": "CoverSelectionParameters",
-  "properties": [
+  "variables": [
     {
       "path": ".hpMultiplier",
       "type": "Float"

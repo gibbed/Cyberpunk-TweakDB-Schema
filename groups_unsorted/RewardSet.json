@@ -1,6 +1,6 @@
 ﻿{
   "name": "RewardSet",
-  "properties": [
+  "variables": [
     {
       "path": ".rewardItems",
       "type": "ForeignKey",

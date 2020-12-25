@@ -1,6 +1,6 @@
 ﻿{
   "name": "MappinUIFilterGroup",
-  "properties": [
+  "variables": [
     {
       "path": ".filterType",
       "type": "ForeignKey"

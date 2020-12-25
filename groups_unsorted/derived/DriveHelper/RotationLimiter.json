@@ -1,7 +1,7 @@
 ﻿{
   "name": "RotationLimiter",
   "base": "DriveHelper",
-  "properties": [
+  "variables": [
     {
       "path": ".driftLimit",
       "type": "Float"

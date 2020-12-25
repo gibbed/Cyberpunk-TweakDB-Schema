@@ -1,6 +1,6 @@
 ﻿{
   "name": "FastTravelScreenData",
-  "properties": [
+  "variables": [
     {
       "path": ".time",
       "type": "ForeignKey"

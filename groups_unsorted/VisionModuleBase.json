@@ -1,6 +1,6 @@
 ﻿{
   "name": "VisionModuleBase",
-  "properties": [
+  "variables": [
     {
       "path": ".group",
       "type": "ForeignKey"

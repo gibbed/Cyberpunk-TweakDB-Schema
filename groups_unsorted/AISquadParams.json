@@ -1,6 +1,6 @@
 ﻿{
   "name": "AISquadParams",
-  "properties": [
+  "variables": [
     {
       "path": ".allTickets",
       "type": "ForeignKey",

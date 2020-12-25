@@ -1,7 +1,7 @@
 ﻿{
   "name": "ItemRecipe",
   "base": "Item",
-  "properties": [
+  "variables": [
     {
       "path": ".craftingResult",
       "type": "ForeignKey"

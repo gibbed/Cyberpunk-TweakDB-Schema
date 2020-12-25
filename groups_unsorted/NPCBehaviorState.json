@@ -1,6 +1,6 @@
 ﻿{
   "name": "NPCBehaviorState",
-  "properties": [
+  "variables": [
     {
       "path": ".comment",
       "type": "String"

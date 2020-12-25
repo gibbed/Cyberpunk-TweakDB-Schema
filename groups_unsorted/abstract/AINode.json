@@ -2,7 +2,7 @@
   "name": "AINode",
   "base": "AIRecord",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".activationCondition",
       "type": "ForeignKey"

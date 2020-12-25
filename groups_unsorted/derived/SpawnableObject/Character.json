@@ -1,7 +1,7 @@
 ﻿{
   "name": "Character",
   "base": "SpawnableObject",
-  "properties": [
+  "variables": [
     {
       "path": ".cpoCharacterBuild",
       "type": "String"

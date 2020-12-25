@@ -1,5 +1,5 @@
 ﻿{
   "name": "JournalIcon",
   "base": "UIIcon",
-  "properties": []
+  "variables": []
 }

@@ -1,7 +1,7 @@
 ﻿{
   "name": "PathLengthCoverSelectionParameters",
   "base": "CoverSelectionParameters",
-  "properties": [
+  "variables": [
     {
       "path": ".maximumRatio",
       "type": "Float"

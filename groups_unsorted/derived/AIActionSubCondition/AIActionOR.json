@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIActionOR",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".OR",
       "type": "ForeignKey",

@@ -1,6 +1,6 @@
 ﻿{
   "name": "VehicleDataPackage",
-  "properties": [
+  "variables": [
     {
       "path": ".vehSeatSet",
       "type": "ForeignKey"

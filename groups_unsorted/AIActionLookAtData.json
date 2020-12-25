@@ -1,6 +1,6 @@
 ﻿{
   "name": "AIActionLookAtData",
-  "properties": [
+  "variables": [
     {
       "path": ".target",
       "type": "ForeignKey"

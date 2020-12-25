@@ -1,6 +1,6 @@
 ﻿{
   "name": "GameplayAbilityGroup",
-  "properties": [
+  "variables": [
     {
       "path": ".abilities",
       "type": "ForeignKey",

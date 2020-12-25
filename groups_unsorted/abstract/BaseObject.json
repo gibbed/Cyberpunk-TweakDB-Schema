@@ -1,7 +1,7 @@
 ﻿{
   "name": "BaseObject",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".statModifierGroups",
       "type": "ForeignKey",

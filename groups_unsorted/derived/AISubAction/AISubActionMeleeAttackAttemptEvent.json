@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionMeleeAttackAttemptEvent",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".target",
       "type": "ForeignKey"

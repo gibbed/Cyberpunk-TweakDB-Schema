@@ -1,6 +1,6 @@
 ﻿{
   "name": "AimAssistFinishing",
-  "properties": [
+  "variables": [
     {
       "path": ".maxTime",
       "type": "Float"

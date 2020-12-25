@@ -1,6 +1,6 @@
 ﻿{
   "name": "Rigs",
-  "properties": [
+  "variables": [
     {
       "path": ".rigsResRefs",
       "type": "ResRef",

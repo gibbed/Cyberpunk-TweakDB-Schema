@@ -1,7 +1,7 @@
 ﻿{
   "name": "AngleRange",
   "base": "SenseShape",
-  "properties": [
+  "variables": [
     {
       "path": ".position",
       "type": "Vector3"

@@ -1,6 +1,6 @@
 ﻿{
   "name": "EthnicNames",
-  "properties": [
+  "variables": [
     {
       "path": ".gender",
       "type": "ForeignKey"

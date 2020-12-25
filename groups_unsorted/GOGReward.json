@@ -1,6 +1,6 @@
 ﻿{
   "name": "GOGReward",
-  "properties": [
+  "variables": [
     {
       "path": ".displayName",
       "type": "LocKey"

@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIWeakSpotCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".weakspot",
       "type": "ForeignKey"

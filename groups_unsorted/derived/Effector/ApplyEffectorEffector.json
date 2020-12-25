@@ -1,7 +1,7 @@
 ﻿{
   "name": "ApplyEffectorEffector",
   "base": "Effector",
-  "properties": [
+  "variables": [
     {
       "path": ".applicationTarget",
       "type": "String"

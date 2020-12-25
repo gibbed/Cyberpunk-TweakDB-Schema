@@ -1,6 +1,6 @@
 ﻿{
   "name": "AimAssistMagnetism",
-  "properties": [
+  "variables": [
     {
       "path": ".distanceMultiplier",
       "type": "Name"

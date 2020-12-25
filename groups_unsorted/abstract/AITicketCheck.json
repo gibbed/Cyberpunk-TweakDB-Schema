@@ -2,7 +2,7 @@
   "name": "AITicketCheck",
   "base": "AITicketCondition",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".optionalFastExit",
       "type": "Bool"

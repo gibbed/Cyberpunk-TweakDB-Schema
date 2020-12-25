@@ -1,7 +1,7 @@
 ﻿{
   "name": "ClosestToOwnerCoverSelectionParameters",
   "base": "CoverSelectionParameters",
-  "properties": [
+  "variables": [
     {
       "path": ".preferredOwnerDistance",
       "type": "Float"

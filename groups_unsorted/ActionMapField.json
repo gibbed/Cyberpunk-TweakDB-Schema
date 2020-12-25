@@ -1,6 +1,6 @@
 ﻿{
   "name": "ActionMapField",
-  "properties": [
+  "variables": [
     {
       "path": ".itemType",
       "type": "ForeignKey"

@@ -1,7 +1,7 @@
 ﻿{
   "name": "AITargetCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".isCombatTargetVisibleFrom",
       "type": "ForeignKey"

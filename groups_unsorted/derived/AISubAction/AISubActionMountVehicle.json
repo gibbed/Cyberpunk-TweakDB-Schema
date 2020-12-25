@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionMountVehicle",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".vehicle",
       "type": "ForeignKey"

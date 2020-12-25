@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISlotCond",
   "base": "AIItemCond",
-  "properties": [
+  "variables": [
     {
       "path": ".requestedTriggerModes",
       "type": "ForeignKey"

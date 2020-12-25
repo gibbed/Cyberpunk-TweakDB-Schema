@@ -1,6 +1,6 @@
 ﻿{
   "name": "AimAssistCommon",
-  "properties": [
+  "variables": [
     {
       "path": ".aimAssistType",
       "type": "ForeignKey"

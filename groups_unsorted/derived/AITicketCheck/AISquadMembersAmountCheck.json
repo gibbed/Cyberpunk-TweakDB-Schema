@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISquadMembersAmountCheck",
   "base": "AITicketCheck",
-  "properties": [
+  "variables": [
     {
       "path": ".maxAmount",
       "type": "Int"

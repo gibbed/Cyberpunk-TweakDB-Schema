@@ -1,7 +1,7 @@
 ﻿{
   "name": "VisualTagsPrereq",
   "base": "IPrereq",
-  "properties": [
+  "variables": [
     {
       "path": ".allowedTags",
       "type": "Name",

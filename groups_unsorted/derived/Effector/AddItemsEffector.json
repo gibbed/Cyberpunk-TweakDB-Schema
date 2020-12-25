@@ -1,7 +1,7 @@
 ﻿{
   "name": "AddItemsEffector",
   "base": "Effector",
-  "properties": [
+  "variables": [
     {
       "path": ".itemsToAdd",
       "type": "ForeignKey",

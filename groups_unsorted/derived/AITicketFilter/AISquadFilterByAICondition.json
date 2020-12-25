@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISquadFilterByAICondition",
   "base": "AITicketFilter",
-  "properties": [
+  "variables": [
     {
       "path": ".condition",
       "type": "ForeignKey"

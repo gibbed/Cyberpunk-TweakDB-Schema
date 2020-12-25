@@ -1,6 +1,6 @@
 ﻿{
   "name": "BaseDrivingParameters",
-  "properties": [
+  "variables": [
     {
       "path": ".brake",
       "type": "ForeignKey"

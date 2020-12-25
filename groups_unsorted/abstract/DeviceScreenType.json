@@ -1,7 +1,7 @@
 ﻿{
   "name": "DeviceScreenType",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".ratio",
       "type": "ForeignKey"

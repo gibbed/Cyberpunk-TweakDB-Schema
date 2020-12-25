@@ -1,6 +1,6 @@
 ﻿{
   "name": "AttackDirection",
-  "properties": [
+  "variables": [
     {
       "path": ".direction",
       "type": "ForeignKey"

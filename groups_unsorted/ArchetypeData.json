@@ -1,6 +1,6 @@
 ﻿{
   "name": "ArchetypeData",
-  "properties": [
+  "variables": [
     {
       "path": ".type",
       "type": "ForeignKey"

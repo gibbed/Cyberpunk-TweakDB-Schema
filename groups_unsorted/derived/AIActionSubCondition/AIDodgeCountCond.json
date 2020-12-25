@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIDodgeCountCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".minDodgeCount",
       "type": "Int"

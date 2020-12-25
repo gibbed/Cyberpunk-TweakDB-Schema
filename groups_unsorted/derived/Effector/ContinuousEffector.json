@@ -2,7 +2,7 @@
   "name": "ContinuousEffector",
   "base": "Effector",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".delayTime",
       "type": "Float"

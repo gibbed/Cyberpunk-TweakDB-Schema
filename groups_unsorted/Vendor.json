@@ -1,6 +1,6 @@
 ﻿{
   "name": "Vendor",
-  "properties": [
+  "variables": [
     {
       "path": ".localizedDescription",
       "type": "String"

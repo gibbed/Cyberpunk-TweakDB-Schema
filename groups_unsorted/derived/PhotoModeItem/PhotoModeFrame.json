@@ -1,7 +1,7 @@
 ﻿{
   "name": "PhotoModeFrame",
   "base": "PhotoModeItem",
-  "properties": [
+  "variables": [
     {
       "path": ".imagePartsNames",
       "type": "Name",

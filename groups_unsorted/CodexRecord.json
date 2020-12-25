@@ -1,6 +1,6 @@
 ﻿{
   "name": "CodexRecord",
-  "properties": [
+  "variables": [
     {
       "path": ".recordContent",
       "type": "ForeignKey",

@@ -1,7 +1,7 @@
 ﻿{
   "name": "AITicket",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".ticketType",
       "type": "ForeignKey"

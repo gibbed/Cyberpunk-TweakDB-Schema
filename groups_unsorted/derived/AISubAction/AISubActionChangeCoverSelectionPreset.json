@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionChangeCoverSelectionPreset",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".gatheringObjectCenter",
       "type": "ForeignKey"

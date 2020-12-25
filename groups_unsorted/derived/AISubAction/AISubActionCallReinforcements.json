@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionCallReinforcements",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".duration",
       "type": "Float"

@@ -1,7 +1,7 @@
 ﻿{
   "name": "StatPoolPrereq",
   "base": "IPrereq",
-  "properties": [
+  "variables": [
     {
       "path": ".comparisonType",
       "type": "Name"

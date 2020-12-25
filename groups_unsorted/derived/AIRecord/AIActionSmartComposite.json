@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIActionSmartComposite",
   "base": "AIRecord",
-  "properties": [
+  "variables": [
     {
       "path": ".type",
       "type": "ForeignKey"

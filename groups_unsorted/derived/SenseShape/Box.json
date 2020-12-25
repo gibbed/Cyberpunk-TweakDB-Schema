@@ -1,7 +1,7 @@
 ﻿{
   "name": "Box",
   "base": "SenseShape",
-  "properties": [
+  "variables": [
     {
       "path": ".min",
       "type": "Vector3"

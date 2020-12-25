@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIBlockCountCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".ownerAttackParriedCount",
       "type": "Int"

@@ -1,7 +1,7 @@
 ﻿{
   "name": "ForceDismembermentEffector",
   "base": "Effector",
-  "properties": [
+  "variables": [
     {
       "path": ".woundType",
       "type": "String"

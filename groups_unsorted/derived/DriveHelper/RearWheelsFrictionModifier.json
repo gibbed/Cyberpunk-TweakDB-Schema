@@ -1,7 +1,7 @@
 ﻿{
   "name": "RearWheelsFrictionModifier",
   "base": "DriveHelper",
-  "properties": [
+  "variables": [
     {
       "path": ".minLongSlipRatio",
       "type": "Float"

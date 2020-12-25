@@ -1,6 +1,6 @@
 ﻿{
   "name": "DetectionCurve",
-  "properties": [
+  "variables": [
     {
       "path": ".states",
       "type": "Name",

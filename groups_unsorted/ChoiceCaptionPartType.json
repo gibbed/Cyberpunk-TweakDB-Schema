@@ -1,6 +1,6 @@
 ﻿{
   "name": "ChoiceCaptionPartType",
-  "properties": [
+  "variables": [
     {
       "path": ".comment",
       "type": "String"

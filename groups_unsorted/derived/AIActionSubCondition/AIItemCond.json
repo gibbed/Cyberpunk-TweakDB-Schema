@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIItemCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".itemCategory",
       "type": "ForeignKey"

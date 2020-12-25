@@ -1,7 +1,7 @@
 ﻿{
   "name": "VendorWare",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".availabilityPrereq",
       "type": "ForeignKey"

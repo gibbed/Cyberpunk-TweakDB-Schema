@@ -1,6 +1,6 @@
 ﻿{
   "name": "ActionRestrictionGroup",
-  "properties": [
+  "variables": [
     {
       "path": ".inactiveReason",
       "type": "String"

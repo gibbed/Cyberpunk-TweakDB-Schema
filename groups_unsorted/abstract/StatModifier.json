@@ -1,7 +1,7 @@
 ﻿{
   "name": "StatModifier",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".statType",
       "type": "ForeignKey"

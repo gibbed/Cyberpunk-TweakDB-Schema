@@ -1,6 +1,6 @@
 ﻿{
   "name": "PreventionUnitPoolData",
-  "properties": [
+  "variables": [
     {
       "path": ".characterRecord",
       "type": "ForeignKey"

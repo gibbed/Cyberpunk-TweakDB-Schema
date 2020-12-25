@@ -1,7 +1,7 @@
 ﻿{
   "name": "NPCTypePrereq",
   "base": "IPrereq",
-  "properties": [
+  "variables": [
     {
       "path": ".allowedTypes",
       "type": "ForeignKey",

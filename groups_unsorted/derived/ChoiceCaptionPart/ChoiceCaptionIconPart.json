@@ -1,7 +1,7 @@
 ﻿{
   "name": "ChoiceCaptionIconPart",
   "base": "ChoiceCaptionPart",
-  "properties": [
+  "variables": [
     {
       "path": ".comment",
       "type": "String"

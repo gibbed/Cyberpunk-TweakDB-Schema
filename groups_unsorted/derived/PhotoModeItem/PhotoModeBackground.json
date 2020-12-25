@@ -1,7 +1,7 @@
 ﻿{
   "name": "PhotoModeBackground",
   "base": "PhotoModeItem",
-  "properties": [
+  "variables": [
     {
       "path": ".textureName",
       "type": "ResRef"

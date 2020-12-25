@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionMissileRainGrid",
   "base": "AISubActionShootWithWeapon",
-  "properties": [
+  "variables": [
     {
       "path": ".missileOffsets",
       "type": "Vector3",

@@ -1,7 +1,7 @@
 ﻿{
   "name": "PhotoModeFace",
   "base": "PhotoModeItem",
-  "properties": [
+  "variables": [
     {
       "path": ".faceId",
       "type": "Int"

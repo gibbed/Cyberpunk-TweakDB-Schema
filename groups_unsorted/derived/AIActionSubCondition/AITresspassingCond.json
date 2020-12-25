@@ -1,7 +1,7 @@
 ﻿{
   "name": "AITresspassingCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".target",
       "type": "ForeignKey"

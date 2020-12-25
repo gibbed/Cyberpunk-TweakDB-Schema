@@ -1,6 +1,6 @@
 ﻿{
   "name": "VehicleManufacturer",
-  "properties": [
+  "variables": [
     {
       "path": ".enumName",
       "type": "String"

@@ -1,7 +1,7 @@
 ﻿{
   "name": "Prop",
   "base": "SpawnableObject",
-  "properties": [
+  "variables": [
     {
       "path": ".friendlyName",
       "type": "String"

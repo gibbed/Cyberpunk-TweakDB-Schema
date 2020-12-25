@@ -1,7 +1,7 @@
 {
   "name": "Accuracy",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".accuracyDropCooldown",
       "type": "Float"

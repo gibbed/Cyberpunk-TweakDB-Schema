@@ -1,6 +1,6 @@
 ﻿{
   "name": "StatusEffectAIData",
-  "properties": [
+  "variables": [
     {
       "path": ".behaviorEventFlag",
       "type": "ForeignKey"

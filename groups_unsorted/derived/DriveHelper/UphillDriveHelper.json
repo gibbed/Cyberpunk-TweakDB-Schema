@@ -1,7 +1,7 @@
 ﻿{
   "name": "UphillDriveHelper",
   "base": "DriveHelper",
-  "properties": [
+  "variables": [
     {
       "path": ".slopeCompensationFactor",
       "type": "Float"

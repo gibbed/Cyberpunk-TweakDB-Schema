@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIActionSelector",
   "base": "AINode",
-  "properties": [
+  "variables": [
     {
       "path": ".defaultAction",
       "type": "ForeignKey"

@@ -1,7 +1,7 @@
 ﻿{
   "name": "TriggerHackingMinigameEffector",
   "base": "Effector",
-  "properties": [
+  "variables": [
     {
       "path": ".journalEntry",
       "type": "String"

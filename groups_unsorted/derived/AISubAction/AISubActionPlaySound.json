@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionPlaySound",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".attachmentSlot",
       "type": "ForeignKey"

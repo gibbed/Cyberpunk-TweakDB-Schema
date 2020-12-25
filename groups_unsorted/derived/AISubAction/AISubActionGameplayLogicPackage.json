@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionGameplayLogicPackage",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".packages",
       "type": "ForeignKey",

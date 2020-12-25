@@ -1,6 +1,6 @@
 ﻿{
   "name": "Cooldown",
-  "properties": [
+  "variables": [
     {
       "path": ".type",
       "type": "ForeignKey"

@@ -1,6 +1,6 @@
 ﻿{
   "name": "SeatState",
-  "properties": [
+  "variables": [
     {
       "path": ".forceOpen",
       "type": "Bool"

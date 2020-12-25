@@ -1,6 +1,6 @@
 ﻿{
   "name": "IPrereq",
-  "properties": [
+  "variables": [
     {
       "path": ".prereqClassName",
       "type": "Name"

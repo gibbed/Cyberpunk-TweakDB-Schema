@@ -1,6 +1,6 @@
 ﻿{
   "name": "BuildProficiencySet",
-  "properties": [
+  "variables": [
     {
       "path": ".proficiencies",
       "type": "ForeignKey",

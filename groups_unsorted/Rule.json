@@ -1,6 +1,6 @@
 ﻿{
   "name": "Rule",
-  "properties": [
+  "variables": [
     {
       "path": ".stimulus",
       "type": "ForeignKey"

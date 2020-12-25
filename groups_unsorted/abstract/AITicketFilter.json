@@ -2,7 +2,7 @@
   "name": "AITicketFilter",
   "base": "AITicketCondition",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".resetMembers",
       "type": "Bool"

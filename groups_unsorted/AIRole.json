@@ -1,6 +1,6 @@
 ﻿{
   "name": "AIRole",
-  "properties": [
+  "variables": [
     {
       "path": ".enumComment",
       "type": "String"

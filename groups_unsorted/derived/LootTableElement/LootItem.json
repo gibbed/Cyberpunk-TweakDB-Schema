@@ -1,7 +1,7 @@
 ﻿{
   "name": "LootItem",
   "base": "LootTableElement",
-  "properties": [
+  "variables": [
     {
       "path": ".itemID",
       "type": "ForeignKey"

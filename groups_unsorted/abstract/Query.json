@@ -1,5 +1,5 @@
 ﻿{
   "name": "Query",
   "abstract": true,
-  "properties": []
+  "variables": []
 }

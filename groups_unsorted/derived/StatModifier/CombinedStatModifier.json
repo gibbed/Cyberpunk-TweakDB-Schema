@@ -1,7 +1,7 @@
 ﻿{
   "name": "CombinedStatModifier",
   "base": "StatModifier",
-  "properties": [
+  "variables": [
     {
       "path": ".refStat",
       "type": "ForeignKey"

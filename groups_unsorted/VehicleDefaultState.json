@@ -1,6 +1,6 @@
 ﻿{
   "name": "VehicleDefaultState",
-  "properties": [
+  "variables": [
     {
       "path": ".seat_back_right",
       "type": "ForeignKey"

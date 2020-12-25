@@ -1,7 +1,7 @@
 ﻿{
   "name": "AvoidLineOfSightSelectionParameters",
   "base": "CoverSelectionParameters",
-  "properties": [
+  "variables": [
     {
       "path": ".angle",
       "type": "Float"

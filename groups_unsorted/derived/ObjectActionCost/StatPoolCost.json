@@ -1,7 +1,7 @@
 ﻿{
   "name": "StatPoolCost",
   "base": "ObjectActionCost",
-  "properties": [
+  "variables": [
     {
       "path": ".statPool",
       "type": "ForeignKey"

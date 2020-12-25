@@ -1,7 +1,7 @@
 ﻿{
   "name": "CoverTypeCoverSelectionParameters",
   "base": "CoverSelectionParameters",
-  "properties": [
+  "variables": [
     {
       "path": ".maxScore",
       "type": "Float"

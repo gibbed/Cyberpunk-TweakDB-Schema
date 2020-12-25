@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionSetTargetByTag",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".rangeObj",
       "type": "ForeignKey"

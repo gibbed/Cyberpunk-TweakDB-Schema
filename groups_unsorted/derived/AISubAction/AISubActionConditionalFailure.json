@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionConditionalFailure",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".condition",
       "type": "ForeignKey",

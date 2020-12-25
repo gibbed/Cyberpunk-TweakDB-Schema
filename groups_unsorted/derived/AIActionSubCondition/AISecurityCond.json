@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISecurityCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".areaType",
       "type": "ForeignKey"

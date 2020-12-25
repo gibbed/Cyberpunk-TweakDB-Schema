@@ -1,7 +1,7 @@
 ﻿{
   "name": "StatusEffectPrereq",
   "base": "IPrereq",
-  "properties": [
+  "variables": [
     {
       "path": ".statusEffect",
       "type": "ForeignKey"

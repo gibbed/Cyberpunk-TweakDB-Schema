@@ -1,6 +1,6 @@
 ﻿{
   "name": "Proficiency",
-  "properties": [
+  "variables": [
     {
       "path": ".loc_desc_key",
       "type": "String"

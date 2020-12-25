@@ -1,7 +1,7 @@
 ﻿{
   "name": "Grenade",
   "base": "Gadget",
-  "properties": [
+  "variables": [
     {
       "path": ".detonationSound",
       "type": "String"

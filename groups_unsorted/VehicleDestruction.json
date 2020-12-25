@@ -1,6 +1,6 @@
 ﻿{
   "name": "VehicleDestruction",
-  "properties": [
+  "variables": [
     {
       "path": ".detachableParts",
       "type": "ForeignKey",

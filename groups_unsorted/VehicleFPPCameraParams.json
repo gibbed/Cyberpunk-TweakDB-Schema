@@ -1,6 +1,6 @@
 ﻿{
   "name": "VehicleFPPCameraParams",
-  "properties": [
+  "variables": [
     {
       "path": ".lookat_yaw_right_up_offset",
       "type": "Float"

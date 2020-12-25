@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIWorkspotCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".workspotObj",
       "type": "ForeignKey"

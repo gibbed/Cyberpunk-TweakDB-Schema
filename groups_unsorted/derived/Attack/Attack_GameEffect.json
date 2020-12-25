@@ -1,7 +1,7 @@
 ﻿{
   "name": "Attack_GameEffect",
   "base": "Attack",
-  "properties": [
+  "variables": [
     {
       "path": ".attackTag",
       "type": "Name"

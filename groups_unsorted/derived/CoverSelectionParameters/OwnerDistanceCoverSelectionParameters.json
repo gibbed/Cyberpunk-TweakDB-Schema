@@ -1,7 +1,7 @@
 ﻿{
   "name": "OwnerDistanceCoverSelectionParameters",
   "base": "CoverSelectionParameters",
-  "properties": [
+  "variables": [
     {
       "path": ".ownerMaxDistance",
       "type": "Float"

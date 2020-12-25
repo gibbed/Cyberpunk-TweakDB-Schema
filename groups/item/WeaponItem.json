@@ -1,7 +1,7 @@
 ﻿{
   "name": "WeaponItem",
   "base": "Item",
-  "properties": [
+  "variables": [
     {
       "path": ".ammo",
       "type": "ForeignKey"

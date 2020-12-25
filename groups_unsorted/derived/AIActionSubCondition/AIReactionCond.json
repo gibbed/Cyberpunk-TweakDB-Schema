@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIReactionCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".preset",
       "type": "ForeignKey"

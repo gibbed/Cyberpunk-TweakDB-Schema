@@ -1,6 +1,6 @@
 ﻿{
   "name": "Codex",
-  "properties": [
+  "variables": [
     {
       "path": ".entries",
       "type": "ForeignKey",

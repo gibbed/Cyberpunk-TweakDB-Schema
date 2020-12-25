@@ -1,7 +1,7 @@
 ﻿{
   "name": "HomingGDM",
   "base": "GrenadeDeliveryMethod",
-  "properties": [
+  "variables": [
     {
       "path": ".flyUpParameters",
       "type": "ForeignKey"

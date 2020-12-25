@@ -1,5 +1,5 @@
 ﻿{
   "name": "ReactionPresetCorpo",
   "base": "ReactionPreset",
-  "properties": []
+  "variables": []
 }

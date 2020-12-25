@@ -1,6 +1,6 @@
 ﻿{
   "name": "WidgetStyle",
-  "properties": [
+  "variables": [
     {
       "path": ".enumName",
       "type": "String"

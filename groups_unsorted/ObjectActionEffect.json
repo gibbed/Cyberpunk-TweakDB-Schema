@@ -1,6 +1,6 @@
 ﻿{
   "name": "ObjectActionEffect",
-  "properties": [
+  "variables": [
     {
       "path": ".effectorToTrigger",
       "type": "ForeignKey"

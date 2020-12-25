@@ -1,7 +1,7 @@
 ﻿{
   "name": "SubCharacter",
   "base": "Character",
-  "properties": [
+  "variables": [
     {
       "path": ".enumComment",
       "type": "String"

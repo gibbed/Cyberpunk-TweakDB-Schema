@@ -1,5 +1,5 @@
 ﻿{
   "name": "AISubAction",
   "abstract": true,
-  "properties": []
+  "variables": []
 }

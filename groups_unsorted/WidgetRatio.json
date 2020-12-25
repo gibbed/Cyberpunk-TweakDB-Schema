@@ -1,6 +1,6 @@
 ﻿{
   "name": "WidgetRatio",
-  "properties": [
+  "variables": [
     {
       "path": ".enumName",
       "type": "String"

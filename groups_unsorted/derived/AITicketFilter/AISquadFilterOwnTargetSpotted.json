@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISquadFilterOwnTargetSpotted",
   "base": "AITicketFilter",
-  "properties": [
+  "variables": [
     {
       "path": ".target",
       "type": "ForeignKey"

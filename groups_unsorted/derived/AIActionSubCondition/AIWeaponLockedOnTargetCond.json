@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIWeaponLockedOnTargetCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".weaponSlot",
       "type": "ForeignKey"

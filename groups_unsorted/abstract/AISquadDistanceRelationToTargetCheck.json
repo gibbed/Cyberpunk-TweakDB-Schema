@@ -2,7 +2,7 @@
   "name": "AISquadDistanceRelationToTargetCheck",
   "base": "AITicketCheck",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".target",
       "type": "ForeignKey"

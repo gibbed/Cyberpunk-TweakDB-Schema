@@ -1,6 +1,6 @@
 ﻿{
   "name": "CrowdSlotMovementPatternBase",
-  "properties": [
+  "variables": [
     {
       "path": ".settings",
       "type": "ForeignKey"

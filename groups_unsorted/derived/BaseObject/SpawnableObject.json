@@ -1,7 +1,7 @@
 ﻿{
   "name": "SpawnableObject",
   "base": "BaseObject",
-  "properties": [
+  "variables": [
     {
       "path": ".priority",
       "type": "ForeignKey"

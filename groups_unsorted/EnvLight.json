@@ -1,6 +1,6 @@
 ﻿{
   "name": "EnvLight",
-  "properties": [
+  "variables": [
     {
       "path": ".color",
       "type": "Int",

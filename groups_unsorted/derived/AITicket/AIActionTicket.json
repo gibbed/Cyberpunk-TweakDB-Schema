@@ -1,5 +1,5 @@
 ﻿{
   "name": "AIActionTicket",
   "base": "AITicket",
-  "properties": []
+  "variables": []
 }

@@ -1,7 +1,7 @@
 ﻿{
   "name": "ModifyStatPoolModifierEffector",
   "base": "Effector",
-  "properties": [
+  "variables": [
     {
       "path": ".modificationType",
       "type": "String"

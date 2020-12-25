@@ -1,6 +1,6 @@
 ﻿{
   "name": "ScreenMessagesList",
-  "properties": [
+  "variables": [
     {
       "path": ".messages",
       "type": "ForeignKey",

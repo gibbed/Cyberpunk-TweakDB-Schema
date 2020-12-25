@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIOptimalDistanceCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".source",
       "type": "ForeignKey"

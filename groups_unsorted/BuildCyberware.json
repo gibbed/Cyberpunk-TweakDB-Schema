@@ -1,6 +1,6 @@
 ﻿{
   "name": "BuildCyberware",
-  "properties": [
+  "variables": [
     {
       "path": ".cyberware",
       "type": "ForeignKey"

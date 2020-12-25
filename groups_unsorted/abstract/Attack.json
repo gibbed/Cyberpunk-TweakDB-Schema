@@ -1,7 +1,7 @@
 ﻿{
   "name": "Attack",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".attackName",
       "type": "String"

@@ -1,6 +1,6 @@
 ﻿{
   "name": "HUD_Preset_Entry",
-  "properties": [
+  "variables": [
     {
       "path": ".hudEntries",
       "type": "Name",

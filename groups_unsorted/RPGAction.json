@@ -1,6 +1,6 @@
 ﻿{
   "name": "RPGAction",
-  "properties": [
+  "variables": [
     {
       "path": ".reward",
       "type": "ForeignKey"

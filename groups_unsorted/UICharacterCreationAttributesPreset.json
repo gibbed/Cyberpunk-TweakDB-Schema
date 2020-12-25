@@ -1,6 +1,6 @@
 ﻿{
   "name": "UICharacterCreationAttributesPreset",
-  "properties": [
+  "variables": [
     {
       "path": ".attributes",
       "type": "ForeignKey",

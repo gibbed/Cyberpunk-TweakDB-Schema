@@ -1,7 +1,7 @@
 ﻿{
   "name": "LCDScreen",
   "base": "BaseSign",
-  "properties": [
+  "variables": [
     {
       "path": ".message",
       "type": "ForeignKey"

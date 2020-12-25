@@ -1,7 +1,7 @@
 ﻿{
   "name": "VehicleWheelDrivingSetup",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".frontPreset",
       "type": "ForeignKey"

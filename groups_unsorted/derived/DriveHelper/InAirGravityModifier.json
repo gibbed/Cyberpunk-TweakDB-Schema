@@ -1,7 +1,7 @@
 ﻿{
   "name": "InAirGravityModifier",
   "base": "DriveHelper",
-  "properties": [
+  "variables": [
     {
       "path": ".smoothingFactor",
       "type": "Float"

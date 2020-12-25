@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionSetStimSource",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".stimTarget",
       "type": "ForeignKey"

@@ -1,7 +1,7 @@
 ﻿{
   "name": "ThreatDistanceCoverSelectionParameters",
   "base": "CoverSelectionParameters",
-  "properties": [
+  "variables": [
     {
       "path": ".threatMaxDistance",
       "type": "Float"

@@ -1,6 +1,6 @@
 ﻿{
   "name": "WeaponVFXAction",
-  "properties": [
+  "variables": [
     {
       "path": ".fxAction",
       "type": "ForeignKey"

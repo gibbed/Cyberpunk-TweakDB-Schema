@@ -1,7 +1,7 @@
 ﻿{
   "name": "PhotoModeEffect",
   "base": "PhotoModeItem",
-  "properties": [
+  "variables": [
     {
       "path": ".lutPath",
       "type": "Name"

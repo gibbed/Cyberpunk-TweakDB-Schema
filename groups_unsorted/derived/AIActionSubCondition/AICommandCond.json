@@ -1,7 +1,7 @@
 ﻿{
   "name": "AICommandCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".target",
       "type": "ForeignKey"

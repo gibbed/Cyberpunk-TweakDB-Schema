@@ -1,6 +1,6 @@
 ﻿{
   "name": "PerkLevelUIData",
-  "properties": [
+  "variables": [
     {
       "path": ".intValues",
       "type": "Int",

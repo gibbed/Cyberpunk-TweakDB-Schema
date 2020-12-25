@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIGoToCoverCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".cover",
       "type": "ForeignKey"

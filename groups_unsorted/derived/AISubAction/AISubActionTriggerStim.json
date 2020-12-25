@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionTriggerStim",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".stimType",
       "type": "ForeignKey"

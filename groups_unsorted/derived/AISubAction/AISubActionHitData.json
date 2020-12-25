@@ -1,5 +1,5 @@
 ﻿{
   "name": "AISubActionHitData",
   "base": "AISubAction",
-  "properties": []
+  "variables": []
 }

@@ -1,7 +1,7 @@
 ﻿{
   "name": "MinigameAction",
   "base": "ObjectAction",
-  "properties": [
+  "variables": [
     {
       "path": ".journalEntry",
       "type": "String"

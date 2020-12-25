@@ -1,7 +1,7 @@
 ﻿{
   "name": "AngleDistanceCoverSelectionParameters",
   "base": "CoverSelectionParameters",
-  "properties": [
+  "variables": [
     {
       "path": ".angleDistanceScore",
       "type": "Float"

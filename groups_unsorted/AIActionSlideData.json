@@ -1,6 +1,6 @@
 ﻿{
   "name": "AIActionSlideData",
-  "properties": [
+  "variables": [
     {
       "path": ".target",
       "type": "ForeignKey"

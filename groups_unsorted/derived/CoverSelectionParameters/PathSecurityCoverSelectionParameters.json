@@ -1,7 +1,7 @@
 ﻿{
   "name": "PathSecurityCoverSelectionParameters",
   "base": "CoverSelectionParameters",
-  "properties": [
+  "variables": [
     {
       "path": ".threatHalfSightAngle",
       "type": "Float"

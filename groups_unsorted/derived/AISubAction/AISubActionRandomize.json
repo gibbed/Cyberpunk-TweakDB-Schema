@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionRandomize",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".animVariationRandomize",
       "type": "Int",

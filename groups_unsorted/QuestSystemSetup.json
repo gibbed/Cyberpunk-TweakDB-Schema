@@ -1,6 +1,6 @@
 ﻿{
   "name": "QuestSystemSetup",
-  "properties": [
+  "variables": [
     {
       "path": ".customTooltipActions",
       "type": "String",

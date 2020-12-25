@@ -1,7 +1,7 @@
 ﻿{
   "name": "ClearLineOfSightCoverSelectionParameters",
   "base": "CoverSelectionParameters",
-  "properties": [
+  "variables": [
     {
       "path": ".cooldown",
       "type": "Float"

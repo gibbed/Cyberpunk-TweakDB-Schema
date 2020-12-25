@@ -1,6 +1,6 @@
 ﻿{
   "name": "XPPoints",
-  "properties": [
+  "variables": [
     {
       "path": ".type",
       "type": "ForeignKey"

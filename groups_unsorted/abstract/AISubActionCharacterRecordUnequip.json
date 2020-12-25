@@ -2,7 +2,7 @@
   "name": "AISubActionCharacterRecordUnequip",
   "base": "AISubAction",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".animationTime",
       "type": "Float"

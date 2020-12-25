@@ -1,5 +1,5 @@
 ﻿{
   "name": "AISubActionFail",
   "base": "AISubAction",
-  "properties": []
+  "variables": []
 }

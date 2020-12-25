@@ -1,6 +1,6 @@
 ﻿{
   "name": "ReactionPreset",
-  "properties": [
+  "variables": [
     {
       "path": ".reactionGroup",
       "type": "String"

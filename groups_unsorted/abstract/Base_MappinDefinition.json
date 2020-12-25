@@ -1,7 +1,7 @@
 ﻿{
   "name": "Base_MappinDefinition",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".visibilityRange",
       "type": "Float"

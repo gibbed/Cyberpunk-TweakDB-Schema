@@ -1,6 +1,6 @@
 ﻿{
   "name": "VehicleTPPCameraParams",
-  "properties": [
+  "variables": [
     {
       "path": ".fov",
       "type": "Float"

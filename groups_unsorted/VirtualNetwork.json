@@ -1,6 +1,6 @@
 ﻿{
   "name": "VirtualNetwork",
-  "properties": [
+  "variables": [
     {
       "path": ".paths",
       "type": "ForeignKey",

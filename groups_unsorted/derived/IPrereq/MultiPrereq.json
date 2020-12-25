@@ -1,7 +1,7 @@
 ﻿{
   "name": "MultiPrereq",
   "base": "IPrereq",
-  "properties": [
+  "variables": [
     {
       "path": ".nestedPrereqs",
       "type": "ForeignKey",

@@ -1,6 +1,6 @@
 ﻿{
   "name": "VehicleDestructionPointDamper",
-  "properties": [
+  "variables": [
     {
       "path": ".pointIndex",
       "type": "Int"

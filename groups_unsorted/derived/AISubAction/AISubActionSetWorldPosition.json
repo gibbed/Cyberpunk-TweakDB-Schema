@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionSetWorldPosition",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".customPositionTarget",
       "type": "ForeignKey"

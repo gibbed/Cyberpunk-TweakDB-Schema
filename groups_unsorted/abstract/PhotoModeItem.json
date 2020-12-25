@@ -1,7 +1,7 @@
 ﻿{
   "name": "PhotoModeItem",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".displayName",
       "type": "Name"

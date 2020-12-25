@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIFriendlyFireCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".checkPlayer",
       "type": "Bool"

@@ -1,6 +1,6 @@
 ﻿{
   "name": "VehicleWheelRole",
-  "properties": [
+  "variables": [
     {
       "path": ".isDrive",
       "type": "Bool"

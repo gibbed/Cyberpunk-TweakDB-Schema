@@ -1,7 +1,7 @@
 ﻿{
   "name": "ConsumableItem",
   "base": "Item",
-  "properties": [
+  "variables": [
     {
       "path": ".consumableType",
       "type": "ForeignKey"

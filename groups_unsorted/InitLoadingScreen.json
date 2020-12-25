@@ -1,6 +1,6 @@
 ﻿{
   "name": "InitLoadingScreen",
-  "properties": [
+  "variables": [
     {
       "path": ".firstAnimLibraryName",
       "type": "Name"

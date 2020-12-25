@@ -1,6 +1,6 @@
 ﻿{
   "name": "District",
-  "properties": [
+  "variables": [
     {
       "path": ".enumComment",
       "type": "String"

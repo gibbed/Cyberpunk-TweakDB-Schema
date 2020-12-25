@@ -1,6 +1,6 @@
 ﻿{
   "name": "WeightedCharacter",
-  "properties": [
+  "variables": [
     {
       "path": ".character",
       "type": "ForeignKey"

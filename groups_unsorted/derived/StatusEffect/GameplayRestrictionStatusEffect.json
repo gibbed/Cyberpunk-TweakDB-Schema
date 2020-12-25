@@ -1,7 +1,7 @@
 ﻿{
   "name": "GameplayRestrictionStatusEffect",
   "base": "StatusEffect",
-  "properties": [
+  "variables": [
     {
       "path": ".actionRestriction",
       "type": "ForeignKey"

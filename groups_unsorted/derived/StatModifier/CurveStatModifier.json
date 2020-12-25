@@ -1,7 +1,7 @@
 ﻿{
   "name": "CurveStatModifier",
   "base": "StatModifier",
-  "properties": [
+  "variables": [
     {
       "path": ".id",
       "type": "String"

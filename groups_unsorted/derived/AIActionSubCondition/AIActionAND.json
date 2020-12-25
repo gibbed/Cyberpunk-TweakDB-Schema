@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIActionAND",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".AND",
       "type": "ForeignKey",

@@ -1,6 +1,6 @@
 ﻿{
   "name": "UICharacterCreationAttribute",
-  "properties": [
+  "variables": [
     {
       "path": ".description",
       "type": "String"

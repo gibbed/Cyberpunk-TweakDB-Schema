@@ -1,7 +1,7 @@
 ﻿{
   "name": "PhotoModeSticker",
   "base": "PhotoModeItem",
-  "properties": [
+  "variables": [
     {
       "path": ".imagePartName",
       "type": "Name"

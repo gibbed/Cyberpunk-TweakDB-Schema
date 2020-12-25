@@ -1,7 +1,7 @@
 ﻿{
   "name": "AddStatusEffectToAttackEffector",
   "base": "Effector",
-  "properties": [
+  "variables": [
     {
       "path": ".statusEffect",
       "type": "ForeignKey"

@@ -1,6 +1,6 @@
 ﻿{
   "name": "VirtualNetworkPath",
-  "properties": [
+  "variables": [
     {
       "path": ".points",
       "type": "Vector3",

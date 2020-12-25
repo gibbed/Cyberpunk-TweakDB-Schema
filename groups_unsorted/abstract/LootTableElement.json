@@ -1,7 +1,7 @@
 ﻿{
   "name": "LootTableElement",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".prereqID",
       "type": "ForeignKey"

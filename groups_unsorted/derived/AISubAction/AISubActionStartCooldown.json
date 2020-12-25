@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionStartCooldown",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".cooldowns",
       "type": "ForeignKey",

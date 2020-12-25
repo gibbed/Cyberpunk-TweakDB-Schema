@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionCreateGameEffect",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".positionObj",
       "type": "ForeignKey"

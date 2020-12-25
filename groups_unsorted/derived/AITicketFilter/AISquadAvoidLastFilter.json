@@ -1,5 +1,5 @@
 ﻿{
   "name": "AISquadAvoidLastFilter",
   "base": "AITicketFilter",
-  "properties": []
+  "variables": []
 }

@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionLeaveCover",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".delay",
       "type": "Float"

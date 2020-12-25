@@ -1,6 +1,6 @@
 ﻿{
   "name": "MappinUISpawnProfile",
-  "properties": [
+  "variables": [
     {
       "path": ".spawnDistance",
       "type": "Float"

@@ -1,6 +1,6 @@
 ﻿{
   "name": "PerkLevelData",
-  "properties": [
+  "variables": [
     {
       "path": ".loc_name_key",
       "type": "String"

@@ -1,7 +1,7 @@
 ﻿{
   "name": "ObjectActionCost",
   "abstract": true,
-  "properties": [
+  "variables": [
     {
       "path": ".costMods",
       "type": "ForeignKey",

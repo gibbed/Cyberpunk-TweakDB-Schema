@@ -1,7 +1,7 @@
 ﻿{
   "name": "ItemQuery",
   "base": "Query",
-  "properties": [
+  "variables": [
     {
       "path": ".recordType",
       "type": "Name"

@@ -1,6 +1,6 @@
 ﻿{
   "name": "MappinUICustomOpacityParams",
-  "properties": [
+  "variables": [
     {
       "path": ".distanceWhenFullyVisible",
       "type": "Float"

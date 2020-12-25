@@ -1,6 +1,6 @@
 ﻿{
   "name": "UpgradingData",
-  "properties": [
+  "variables": [
     {
       "path": ".ingredients",
       "type": "ForeignKey",

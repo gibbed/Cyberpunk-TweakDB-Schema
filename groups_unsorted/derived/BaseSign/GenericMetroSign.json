@@ -1,7 +1,7 @@
 ﻿{
   "name": "GenericMetroSign",
   "base": "BaseSign",
-  "properties": [
+  "variables": [
     {
       "path": ".subDistrictName",
       "type": "String"

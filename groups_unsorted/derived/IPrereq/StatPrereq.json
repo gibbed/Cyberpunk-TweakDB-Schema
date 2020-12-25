@@ -1,7 +1,7 @@
 ﻿{
   "name": "StatPrereq",
   "base": "IPrereq",
-  "properties": [
+  "variables": [
     {
       "path": ".statType",
       "type": "Name"

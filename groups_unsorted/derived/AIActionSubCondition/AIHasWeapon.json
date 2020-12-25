@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIHasWeapon",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".itemType",
       "type": "ForeignKey",

@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIDriverCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".driver",
       "type": "ForeignKey"

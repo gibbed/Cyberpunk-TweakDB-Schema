@@ -1,6 +1,6 @@
 ﻿{
   "name": "SceneCameraDoF",
-  "properties": [
+  "variables": [
     {
       "path": ".profileName",
       "type": "Name"

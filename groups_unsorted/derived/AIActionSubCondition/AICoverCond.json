@@ -1,7 +1,7 @@
 ﻿{
   "name": "AICoverCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".cover",
       "type": "ForeignKey"

@@ -1,6 +1,6 @@
 ﻿{
   "name": "StatusEffectFX",
-  "properties": [
+  "variables": [
     {
       "path": ".name",
       "type": "Name"

@@ -1,5 +1,5 @@
 ﻿{
   "name": "NumberPlate",
   "base": "LCDScreen",
-  "properties": []
+  "variables": []
 }

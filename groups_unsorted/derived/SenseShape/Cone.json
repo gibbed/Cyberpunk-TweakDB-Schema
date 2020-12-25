@@ -1,7 +1,7 @@
 ﻿{
   "name": "Cone",
   "base": "SenseShape",
-  "properties": [
+  "variables": [
     {
       "path": ".position2",
       "type": "Vector3"

@@ -1,6 +1,6 @@
 ﻿{
   "name": "ConsumableBaseName",
-  "properties": [
+  "variables": [
     {
       "path": ".enumName",
       "type": "Name"

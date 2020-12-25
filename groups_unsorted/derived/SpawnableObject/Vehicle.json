@@ -1,7 +1,7 @@
 ﻿{
   "name": "Vehicle",
   "base": "SpawnableObject",
-  "properties": [
+  "variables": [
     {
       "path": ".traffic_audio_resource",
       "type": "String"

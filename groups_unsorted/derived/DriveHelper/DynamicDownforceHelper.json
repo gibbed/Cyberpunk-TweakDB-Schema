@@ -1,7 +1,7 @@
 ﻿{
   "name": "DynamicDownforceHelper",
   "base": "DriveHelper",
-  "properties": [
+  "variables": [
     {
       "path": ".maxSpeed",
       "type": "Float"

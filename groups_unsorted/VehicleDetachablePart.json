@@ -1,6 +1,6 @@
 ﻿{
   "name": "VehicleDetachablePart",
-  "properties": [
+  "variables": [
     {
       "path": ".components",
       "type": "Name",

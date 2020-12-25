@@ -1,7 +1,7 @@
 ﻿{
   "name": "ItemQueryElement",
   "base": "LootTableElement",
-  "properties": [
+  "variables": [
     {
       "path": ".query",
       "type": "ForeignKey"

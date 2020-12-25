@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionSpawnFX",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".attachmentSlot",
       "type": "ForeignKey"

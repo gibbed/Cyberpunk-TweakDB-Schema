@@ -1,6 +1,6 @@
 ﻿{
   "name": "AIPatternsPackage",
-  "properties": [
+  "variables": [
     {
       "path": ".activationConditions",
       "type": "ForeignKey",

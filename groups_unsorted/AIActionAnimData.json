@@ -1,6 +1,6 @@
 ﻿{
   "name": "AIActionAnimData",
-  "properties": [
+  "variables": [
     {
       "path": ".direction",
       "type": "ForeignKey"

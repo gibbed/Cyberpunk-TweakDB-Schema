@@ -1,6 +1,6 @@
 ﻿{
   "name": "VehicleStoppingSettings",
-  "properties": [
+  "variables": [
     {
       "path": ".mildBrakingChangeSpeed",
       "type": "Float"

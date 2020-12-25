@@ -1,5 +1,5 @@
 ﻿{
   "name": "ReactionPresetCivilian",
   "base": "ReactionPreset",
-  "properties": []
+  "variables": []
 }

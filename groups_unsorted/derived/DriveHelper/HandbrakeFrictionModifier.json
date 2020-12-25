@@ -1,7 +1,7 @@
 ﻿{
   "name": "HandbrakeFrictionModifier",
   "base": "DriveHelper",
-  "properties": [
+  "variables": [
     {
       "path": ".blendOutTime",
       "type": "Float"

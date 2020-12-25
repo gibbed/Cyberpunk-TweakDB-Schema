@@ -1,6 +1,6 @@
 ﻿{
   "name": "GenderEntity",
-  "properties": [
+  "variables": [
     {
       "path": ".gender",
       "type": "ForeignKey"

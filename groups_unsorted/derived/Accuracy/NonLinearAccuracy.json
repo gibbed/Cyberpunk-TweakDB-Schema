@@ -1,7 +1,7 @@
 ﻿{
   "name": "NonLinearAccuracy",
   "base": "Accuracy",
-  "properties": [
+  "variables": [
     {
       "path": ".exponent",
       "type": "Float"

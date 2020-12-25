@@ -1,6 +1,6 @@
 ﻿{
   "name": "PassiveProficiencyBonusUIData",
-  "properties": [
+  "variables": [
     {
       "path": ".intValues",
       "type": "Int",

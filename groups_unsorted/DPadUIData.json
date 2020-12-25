@@ -1,6 +1,6 @@
 ﻿{
   "name": "DPadUIData",
-  "properties": [
+  "variables": [
     {
       "path": ".restrictionTags",
       "type": "Name",

@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIVelocitiesDotCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".firstTarget",
       "type": "ForeignKey"

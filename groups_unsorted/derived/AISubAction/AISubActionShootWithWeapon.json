@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionShootWithWeapon",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".instigator",
       "type": "ForeignKey"

@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionQueueCommunicationEvent",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".targetListener",
       "type": "ForeignKey"

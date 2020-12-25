@@ -1,7 +1,7 @@
 ﻿{
   "name": "AISubActionForceHitReaction",
   "base": "AISubAction",
-  "properties": [
+  "variables": [
     {
       "path": ".target",
       "type": "ForeignKey"

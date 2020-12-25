@@ -1,5 +1,5 @@
 ﻿{
   "name": "AISubActionSetUnequipSecondaryWeapons",
   "base": "AISubActionCharacterRecordUnequip",
-  "properties": []
+  "variables": []
 }

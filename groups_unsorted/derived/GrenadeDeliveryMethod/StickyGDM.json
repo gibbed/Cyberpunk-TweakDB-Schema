@@ -1,5 +1,5 @@
 ﻿{
   "name": "StickyGDM",
   "base": "GrenadeDeliveryMethod",
-  "properties": []
+  "variables": []
 }

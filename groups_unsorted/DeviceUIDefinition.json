@@ -1,6 +1,6 @@
 ﻿{
   "name": "DeviceUIDefinition",
-  "properties": [
+  "variables": [
     {
       "path": ".computerScreenType",
       "type": "ForeignKey"

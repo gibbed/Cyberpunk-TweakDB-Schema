@@ -1,5 +1,5 @@
 ﻿{
   "name": "AISubActionEquipOnBody",
   "base": "AISubActionCharacterRecordEquip",
-  "properties": []
+  "variables": []
 }

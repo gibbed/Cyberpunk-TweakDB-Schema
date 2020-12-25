@@ -1,5 +1,5 @@
 ﻿{
   "name": "device_scanning_data",
   "base": "ScannableData",
-  "properties": []
+  "variables": []
 }

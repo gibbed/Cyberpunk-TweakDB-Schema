@@ -1,7 +1,7 @@
 ﻿{
   "name": "NPCEquipmentItemPool",
   "base": "NPCEquipmentGroupEntry",
-  "properties": [
+  "variables": [
     {
       "path": ".pool",
       "type": "ForeignKey",

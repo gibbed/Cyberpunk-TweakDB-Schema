@@ -1,6 +1,6 @@
 ﻿{
   "name": "SensePreset",
-  "properties": [
+  "variables": [
     {
       "path": ".curves",
       "type": "ForeignKey",

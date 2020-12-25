@@ -1,7 +1,7 @@
 ﻿{
   "name": "AIVelocityDotCond",
   "base": "AIActionSubCondition",
-  "properties": [
+  "variables": [
     {
       "path": ".velocityTarget",
       "type": "ForeignKey"

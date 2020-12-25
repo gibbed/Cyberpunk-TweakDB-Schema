@@ -1,6 +1,6 @@
 ﻿{
   "name": "ActionMap",
-  "properties": [
+  "variables": [
     {
       "path": ".defaultMap",
       "type": "ForeignKey"

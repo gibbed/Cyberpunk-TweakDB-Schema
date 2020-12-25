@@ -1,7 +1,7 @@
 ﻿{
   "name": "VehicleWheelDrivingSetup_4",
   "base": "VehicleWheelDrivingSetup",
-  "properties": [
+  "variables": [
     {
       "path": ".RF",
       "type": "ForeignKey"

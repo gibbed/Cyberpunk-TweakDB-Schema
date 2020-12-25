@@ -1,6 +1,6 @@
 ﻿{
   "name": "RPGDataPackage",
-  "properties": [
+  "variables": [
     {
       "path": ".statModifiers",
       "type": "ForeignKey",
