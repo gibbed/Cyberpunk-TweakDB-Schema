@@ -1,6 +1,4 @@
 ﻿{
-  "old_types": {},
-  "types": [],
   "type_includes": {
     "abstract_types": [
       "Accuracy.json",
@@ -422,6 +420,15 @@
       "WorldMapZoomLevel.json",
       "XPPoints.json"
     ],
+    "types/item": [
+      "Clothing.json",
+      "ConsumableItem.json",
+      "Gadget.json",
+      "Grenade.json",
+      "Item.json",
+      "ItemRecipe.json",
+      "WeaponItem.json"
+    ],
     "derived_types/Accuracy": [
       "LinearAccuracy.json",
       "NonLinearAccuracy.json"
@@ -593,7 +600,6 @@
     "derived_types/BaseObject": [
       "DestructibleObject.json",
       "Device.json",
-      "Item.json",
       "SpawnableObject.json"
     ],
     "derived_types/BaseSign": [
@@ -672,9 +678,6 @@
     "derived_types/EquipmentArea": [
       "CyberwareArea.json"
     ],
-    "derived_types/Gadget": [
-      "Grenade.json"
-    ],
     "derived_types/GrenadeDeliveryMethod": [
       "HomingGDM.json",
       "RegularGDM.json",
@@ -692,12 +695,6 @@
       "StatPrereq.json",
       "StatusEffectPrereq.json",
       "VisualTagsPrereq.json"
-    ],
-    "derived_types/Item": [
-      "Clothing.json",
-      "ConsumableItem.json",
-      "ItemRecipe.json",
-      "WeaponItem.json"
     ],
     "derived_types/ItemAction": [
       "CrackAction.json"
@@ -802,9 +799,6 @@
     "derived_types/VendorWare": [
       "VendorExperience.json",
       "VendorItem.json"
-    ],
-    "derived_types/WeaponItem": [
-      "Gadget.json"
     ],
     "derived_types/WidgetDefinition": [
       "ActionWidgetDefinition.json",
