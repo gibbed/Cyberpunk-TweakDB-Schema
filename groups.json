@@ -41,7 +41,7 @@
       "VehicleWheelDrivingSetup.json",
       "VendorWare.json"
     ],
-    "unsorted_types": [
+    "groups_unsorted": [
       "AccelerateTowardsParameters.json",
       "Achievement.json",
       "ActionMap.json",
