@@ -1,0 +1,15 @@
+﻿{
+  "variables": [
+    {
+      "path": "Vehicle.vehicle_list.initially_unlocked_list",
+      "type": "ForeignKey",
+      "array": true
+    },
+    {
+      "path": "Vehicle.vehicle_list.list",
+      "type": "ForeignKey",
+      "array": true
+    }
+  ],
+  "variable_includes": {}
+}
